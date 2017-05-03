@@ -5,6 +5,20 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/03/white-christians-are.html",
+			"content_html": "<p>“White Christians are today struggling to face a new reality: the inevitable surrender of table ownership in exchange for an equal seat.” <a href=\"https://www.nytimes.com/2017/05/02/opinion/the-collapse-of-american-identity.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">NY Times</a></p>\n",
+			"date_published": "2017-05-03T02:31:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/03/white-christians-are.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/05/02/the-omni-grouphttpwwwomnigroupcom.html",
+			"content_html": "<p>The <a href=\"http://www.omnigroup.com\">Omni Group</a> is hiring! We’re looking for a tech-savvy people person to join our support team. See the details on <a href=\"https://www.omnigroup.com/jobs/\">our jobs page</a>.</p>\n",
+			"date_published": "2017-05-02T22:50:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/02/the-omni-grouphttpwwwomnigroupcom.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/02/hmm-looks-like.html",
 			"content_html": "<p>Hmm, looks like I didn’t set up my github token correctly. Trying again with repo_public access.</p>\n",
 			"date_published": "2017-05-02T04:25:00+00:00",
@@ -58,20 +72,6 @@
 			"content_html": "<p>“Experimenting with a Workflow for posting links to <a href=\"https://t.co/fZyEKBU6Fz.\">https://t.co/fZyEKBU6Fz.</a>” <a href=\"https://t.co/MB3zUA0Msl\">https://t.co/MB3zUA0Msl</a></p>\n",
 			"date_published": "2017-05-01T03:41:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/01/t858889178976833539.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/01/experimenting-with-a.html",
-			"content_html": "<p>“Experimenting with a Workflow for posting links to micro.blog.” <a href=\"http://curtclifton.net/microblog\">http://curtclifton.net/microblog</a></p>\n",
-			"date_published": "2017-05-01T03:40:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/01/experimenting-with-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/01/t858887926310219777.html",
-			"content_html": "<p><a href=\"https://t.co/MB3zUA0Msl\">https://t.co/MB3zUA0Msl</a></p>\n",
-			"date_published": "2017-05-01T03:36:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/01/t858887926310219777.html"
 		}
 		
 	]
