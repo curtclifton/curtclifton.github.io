@@ -1,0 +1,5 @@
+---
+layout: post
+date: 2017-05-08 14:39
+---
+“The general shape of what the G.O.P. would do to health care, for the white working class in particular, has long been obvious, yet many people who were sure to lose, bigly, voted Trump anyway.” [http://tinyurl.com/l8ln3mt](http://tinyurl.com/l8ln3mt)
