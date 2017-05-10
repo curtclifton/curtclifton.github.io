@@ -1,0 +1,5 @@
+---
+layout: post
+date: 2017-05-07 15:50
+---
+“Republicans would be able to devise a tax bill that collects about $1 trillion less in revenue but that would still qualify as revenue-neutral under Senate procedure.” [http://tinyurl.com/lxtept9](http://tinyurl.com/lxtept9)
