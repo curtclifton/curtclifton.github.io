@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/13/most-people-now.html",
+			"content_html": "<p>“Most people now realize, I think, that Donald Trump holds basic American political values in contempt. What we need to realize is that much of his party shares that contempt.” <a href=\"https://www.nytimes.com/2017/05/12/opinion/judas-tax-cuts-and-the-great-betrayal.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">NY Times</a></p>\n",
+			"date_published": "2017-05-13T02:07:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/13/most-people-now.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/11/few-public-servants.html",
 			"content_html": "<p>“Few public servants have found themselves with a choice as weighty as yours … Yes, it might cost you your job. But it would save your honor, and so much more besides.” <a href=\"https://www.nytimes.com/2017/05/11/opinion/deputy-attorney-general-open-letter.html?_r=0\">NY Times</a></p>\n",
 			"date_published": "2017-05-11T13:58:00+00:00",
@@ -65,13 +72,6 @@
 			"content_html": "<p>I’m deep diving on CloudKit nearly three years later. Are there any apps using public databases and discoverability?</p>\n",
 			"date_published": "2017-05-08T03:28:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/08/im-deep-diving.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/08/whoa-wwdc-slides.html",
-			"content_html": "<p>Whoa. WWDC slides with Objective-C code. 2014 all over again. </p>\n",
-			"date_published": "2017-05-08T02:34:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/08/whoa-wwdc-slides.html"
 		}
 		
 	]
