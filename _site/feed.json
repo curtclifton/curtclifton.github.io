@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/13/are-there-even.html",
+			"content_html": "<p>“Are there even three principled Republicans left who will put their devotion to the Republic above their fealty to the Republican Party? I fear the answer to that question.” —<a href=\"https://www.nytimes.com/2017/05/12/opinion/when-will-republicans-stand-up-to-trump.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Max Boot</a></p>\n",
+			"date_published": "2017-05-13T05:26:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/13/are-there-even.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/13/035004.html",
 			"content_html": "<p>“There were 10283 lines of changes, so I’m not showing them.”</p>\n\n<p>That was an eventful feature branch.</p>\n",
 			"date_published": "2017-05-13T03:50:00+00:00",
@@ -65,13 +72,6 @@
 			"content_html": "<p>“This president may think himself unassailable, but Americans are seeing him for what he is: a tin-pot tyrant.” <a href=\"https://www.washingtonpost.com/news/morning-mix/wp/2017/05/10/west-virginia-journalist-arrested-after-asking-hhs-secretary-tom-price-a-question/\">WaPo</a></p>\n",
 			"date_published": "2017-05-11T01:30:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/11/this-president-may.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/11/the-republicans-need.html",
-			"content_html": "<p>“The Republicans … need to ask themselves whether they want to continue to be complicit in this institutional assault. By now it should be clear to them that having Donald Trump’s back will cost them their integrity.” <a href=\"https://www.nytimes.com/2017/05/10/opinion/james-comey-fired-fbi.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">NY Times</a></p>\n",
-			"date_published": "2017-05-11T01:09:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/11/the-republicans-need.html"
 		}
 		
 	]
