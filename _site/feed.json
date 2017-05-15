@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/15/are-there-still.html",
+			"content_html": "<p>“Are there still public servants who are prepared to say no to the president?” <a href=\"https://www.washingtonpost.com/opinions/preet-bharara-are-there-still-public-servants-who-will-say-no-to-the-president/2017/05/14/8df915de-38d6-11e7-9e48-c4f199710b69_story.html\">WaPo</a></p>\n",
+			"date_published": "2017-05-15T05:32:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/15/are-there-still.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/13/are-there-even.html",
 			"content_html": "<p>“Are there even three principled Republicans left who will put their devotion to the Republic above their fealty to the Republican Party? I fear the answer to that question.” —<a href=\"https://www.nytimes.com/2017/05/12/opinion/when-will-republicans-stand-up-to-trump.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Max Boot</a></p>\n",
 			"date_published": "2017-05-13T05:26:00+00:00",
@@ -65,13 +72,6 @@
 			"content_html": "<p>“The people [on mailing lists] feel like they can make decisions that the world will then obey. You can hear it how people talk. They seem to believe they have arrived at the top of the pyramid and now they are masters of the universe.” <a href=\"http://scripting.com/2017/05/09/rulesForStandardsmakers.html\">Dave Winer</a></p>\n",
 			"date_published": "2017-05-11T13:54:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/11/the-people-on.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/11/this-president-may.html",
-			"content_html": "<p>“This president may think himself unassailable, but Americans are seeing him for what he is: a tin-pot tyrant.” <a href=\"https://www.washingtonpost.com/news/morning-mix/wp/2017/05/10/west-virginia-journalist-arrested-after-asking-hhs-secretary-tom-price-a-question/\">WaPo</a></p>\n",
-			"date_published": "2017-05-11T01:30:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/11/this-president-may.html"
 		}
 		
 	]
