@@ -5,6 +5,20 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/16/these-are-either.html",
+			"content_html": "<p>“These are either the machinations of concealment, expressions of a burgeoning insanity, or both.” <a href=\"https://www.nytimes.com/2017/05/15/opinion/trumps-madness-invites-mutiny.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Charles Blow</a></p>\n",
+			"date_published": "2017-05-16T02:38:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/16/these-are-either.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/05/16/finally-downloading-journey.html",
+			"content_html": "<p>Finally downloading Journey for PS4. </p>\n",
+			"date_published": "2017-05-16T02:34:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/16/finally-downloading-journey.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/15/are-there-still.html",
 			"content_html": "<p>“Are there still public servants who are prepared to say no to the president?” <a href=\"https://www.washingtonpost.com/opinions/preet-bharara-are-there-still-public-servants-who-will-say-no-to-the-president/2017/05/14/8df915de-38d6-11e7-9e48-c4f199710b69_story.html\">WaPo</a></p>\n",
 			"date_published": "2017-05-15T05:32:00+00:00",
@@ -58,20 +72,6 @@
 			"content_html": "<p>“Most people now realize, I think, that Donald Trump holds basic American political values in contempt. What we need to realize is that much of his party shares that contempt.” <a href=\"https://www.nytimes.com/2017/05/12/opinion/judas-tax-cuts-and-the-great-betrayal.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">NY Times</a></p>\n",
 			"date_published": "2017-05-13T02:07:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/13/most-people-now.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/11/few-public-servants.html",
-			"content_html": "<p>“Few public servants have found themselves with a choice as weighty as yours … Yes, it might cost you your job. But it would save your honor, and so much more besides.” <a href=\"https://www.nytimes.com/2017/05/11/opinion/deputy-attorney-general-open-letter.html?_r=0\">NY Times</a></p>\n",
-			"date_published": "2017-05-11T13:58:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/11/few-public-servants.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/11/the-people-on.html",
-			"content_html": "<p>“The people [on mailing lists] feel like they can make decisions that the world will then obey. You can hear it how people talk. They seem to believe they have arrived at the top of the pyramid and now they are masters of the universe.” <a href=\"http://scripting.com/2017/05/09/rulesForStandardsmakers.html\">Dave Winer</a></p>\n",
-			"date_published": "2017-05-11T13:54:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/11/the-people-on.html"
 		}
 		
 	]
