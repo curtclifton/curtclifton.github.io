@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/17/dont-put-all.html",
+			"content_html": "<p>“Don’t put all your chickens in one basket.” —<a href=\"http://www.exocomics.com/\">Extra Ordinary</a></p>\n",
+			"date_published": "2017-05-17T14:23:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/17/dont-put-all.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/16/you-are-statistically.html",
 			"content_html": "<p>“you are statistically more likely to get mauled by a hungry timeshare salesman than be bitten by a shark” <a href=\"https://itun.es/us/1DhO_.l\">Maui Revealed</a></p>\n",
 			"date_published": "2017-05-16T05:30:00+00:00",
@@ -65,13 +72,6 @@
 			"content_html": "\n",
 			"date_published": "2017-05-13T03:48:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/13/.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/13/the-republican-party.html",
-			"content_html": "<p>“the Republican Party is losing any resemblance to a traditional Western political party, instead simply turning into something more commonly found in the developing world: a platform to support the ego, appetites and interests of one man and his family.” <a href=\"https://www.washingtonpost.com/opinions/the-president-almost-sits-above-the-law-thats-a-bigger-problem-than-ever/2017/05/11/81c05dd0-368e-11e7-b4ee-434b6d506b37_story.html\">WaPo</a></p>\n",
-			"date_published": "2017-05-13T02:36:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/13/the-republican-party.html"
 		}
 		
 	]
