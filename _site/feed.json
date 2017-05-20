@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/20/172523.html",
+			"content_html": "<p>I’m now the only developer at Omni to have deleted /trunk twice. I hope my key fob still works  on Monday. </p>\n",
+			"date_published": "2017-05-20T17:25:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/20/172523.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/05/20/im-now-the.html",
+			"content_html": "<p>I’m now the only developer at Omni to have deleted /trunk on the SVN server <em>twice</em>. Hope my key fob still works on Monday. </p>\n",
+			"date_published": "2017-05-20T17:01:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/20/im-now-the.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/20/finished-my-first.html",
 			"content_html": "<p>Finished my first play through of Journey. Wow. What a game. </p>\n",
 			"date_published": "2017-05-20T04:52:00+00:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p>“leaving a man this witless and unmastered in an office with these powers and responsibilities is an act of gross negligence” —<a href=\"https://www.nytimes.com/2017/05/16/opinion/25th-amendment-trump.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Douthat</a></p>\n",
 			"date_published": "2017-05-18T02:54:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/18/leaving-a-man.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/17/dont-put-all.html",
-			"content_html": "<p>“Don’t put all your chickens in one basket.” —<a href=\"http://www.exocomics.com/\">Extra Ordinary</a></p>\n",
-			"date_published": "2017-05-17T14:23:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/17/dont-put-all.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/16/you-are-statistically.html",
-			"content_html": "<p>“you are statistically more likely to get mauled by a hungry timeshare salesman than be bitten by a shark” <a href=\"https://itun.es/us/1DhO_.l\">Maui Revealed</a></p>\n",
-			"date_published": "2017-05-16T05:30:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/16/you-are-statistically.html"
 		}
 		
 	]
