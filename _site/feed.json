@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/20/finished-my-first.html",
+			"content_html": "<p>Finished my first play through of Journey. Wow. What a game. </p>\n",
+			"date_published": "2017-05-20T04:52:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/20/finished-my-first.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/20/while-traumas-do.html",
 			"content_html": "<p>“While traumas do have a lasting impact, most people actually emerge stronger afterward.” —<a href=\"https://www.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Martin Seligman</a></p>\n",
 			"date_published": "2017-05-20T02:59:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>“you are statistically more likely to get mauled by a hungry timeshare salesman than be bitten by a shark” <a href=\"https://itun.es/us/1DhO_.l\">Maui Revealed</a></p>\n",
 			"date_published": "2017-05-16T05:30:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/16/you-are-statistically.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/16/weve-got-this.html",
-			"content_html": "<p>“We’ve got this perverse situation in which the vast analytic powers of the entire world are being spent trying to understand a guy whose thoughts are often just six fireflies beeping randomly in a jar.” —<a href=\"https://www.nytimes.com/2017/05/15/opinion/trump-classified-data.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">David Brooks</a></p>\n",
-			"date_published": "2017-05-16T02:42:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/16/weve-got-this.html"
 		}
 		
 	]
