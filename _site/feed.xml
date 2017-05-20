@@ -4,8 +4,24 @@
     <title>Curt Clifton</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://curt.micro.blog/</link>
-    <pubDate>Sat, 20 May 2017 04:54:34 +0000</pubDate>
-    <lastBuildDate>Sat, 20 May 2017 04:54:34 +0000</lastBuildDate>
+    <pubDate>Sat, 20 May 2017 18:13:02 +0000</pubDate>
+    <lastBuildDate>Sat, 20 May 2017 18:13:02 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;I’m now the only developer at Omni to have deleted /trunk twice. I hope my key fob still works  on Monday. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 May 2017 17:25:00 +0000</pubDate>
+        <link>http://curt.micro.blog/2017/05/20/172523.html</link>
+        <guid isPermaLink="true">http://curt.micro.blog/2017/05/20/172523.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;I’m now the only developer at Omni to have deleted /trunk on the SVN server &lt;em&gt;twice&lt;/em&gt;. Hope my key fob still works on Monday. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 May 2017 17:01:00 +0000</pubDate>
+        <link>http://curt.micro.blog/2017/05/20/im-now-the.html</link>
+        <guid isPermaLink="true">http://curt.micro.blog/2017/05/20/im-now-the.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;Finished my first play through of Journey. Wow. What a game. &lt;/p&gt;
@@ -405,24 +421,6 @@
         <pubDate>Thu, 04 May 2017 14:00:00 +0000</pubDate>
         <link>http://curt.micro.blog/2017/05/04/and-in-almost.html</link>
         <guid isPermaLink="true">http://curt.micro.blog/2017/05/04/and-in-almost.html</guid>
-      </item>
-    
-      <item>
-        <description>&lt;p&gt;You now it’s going to be a great meeting when you take Tylenol to prepare for it.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 May 2017 21:27:00 +0000</pubDate>
-        <link>http://curt.micro.blog/2017/05/03/you-now-its.html</link>
-        <guid isPermaLink="true">http://curt.micro.blog/2017/05/03/you-now-its.html</guid>
-      </item>
-    
-      <item>
-        <description>&lt;p&gt;Finally, a micro.blog-worthy latte. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://curt.micro.blog/uploads/2017/2a756c20d5.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 May 2017 16:17:00 +0000</pubDate>
-        <link>http://curt.micro.blog/2017/05/03/finally-a-microblogworthy.html</link>
-        <guid isPermaLink="true">http://curt.micro.blog/2017/05/03/finally-a-microblogworthy.html</guid>
       </item>
     
   </channel>
