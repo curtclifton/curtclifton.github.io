@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/20/while-traumas-do.html",
+			"content_html": "<p>“While traumas do have a lasting impact, most people actually emerge stronger afterward.” —<a href=\"https://www.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Martin Seligman</a></p>\n",
+			"date_published": "2017-05-20T02:59:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/20/while-traumas-do.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/20/it-was-a.html",
 			"content_html": "<p>It was a great week of designing, coding, and helping co-workers with interesting problems, but I am end-of-spring-term exhausted.</p>\n",
 			"date_published": "2017-05-20T01:16:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>“We’ve got this perverse situation in which the vast analytic powers of the entire world are being spent trying to understand a guy whose thoughts are often just six fireflies beeping randomly in a jar.” —<a href=\"https://www.nytimes.com/2017/05/15/opinion/trump-classified-data.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">David Brooks</a></p>\n",
 			"date_published": "2017-05-16T02:42:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/16/weve-got-this.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/16/these-are-either.html",
-			"content_html": "<p>“These are either the machinations of concealment, expressions of a burgeoning insanity, or both.” <a href=\"https://www.nytimes.com/2017/05/15/opinion/trumps-madness-invites-mutiny.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Charles Blow</a></p>\n",
-			"date_published": "2017-05-16T02:38:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/16/these-are-either.html"
 		}
 		
 	]
