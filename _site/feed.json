@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/22/draining-the-swamp.html",
+			"content_html": "<p>Draining the swamp? “The Trump administration … has moved to block an effort to disclose any ethics waivers granted to former lobbyists” —<a href=\"https://www.nytimes.com/2017/05/22/us/politics/trump-white-house-government-ethics-lobbyists.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">NY Times</a></p>\n",
+			"date_published": "2017-05-22T14:36:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/22/draining-the-swamp.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/22/after-six-years.html",
 			"content_html": "<p>After six years of tools stashed in boxes, I’m thrilled to have an organized shop again. Next step: rebuild woodworking tool collection. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/adc812f3a6.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-22T03:36:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>“While traumas do have a lasting impact, most people actually emerge stronger afterward.” —<a href=\"https://www.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Martin Seligman</a></p>\n",
 			"date_published": "2017-05-20T02:59:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/20/while-traumas-do.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/20/it-was-a.html",
-			"content_html": "<p>It was a great week of designing, coding, and helping co-workers with interesting problems, but I am end-of-spring-term exhausted.</p>\n",
-			"date_published": "2017-05-20T01:16:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/20/it-was-a.html"
 		}
 		
 	]
