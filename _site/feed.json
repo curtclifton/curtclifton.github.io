@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/22/after-six-years.html",
+			"content_html": "<p>After six years of tools stashed in boxes, I’m thrilled to have an organized shop again. Next step: rebuild woodworking tool collection. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/adc812f3a6.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-05-22T03:36:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/22/after-six-years.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/22/poppies-and-friends.html",
 			"content_html": "<p>Poppies and friends. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/c67988e17d.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-22T01:22:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>It was a great week of designing, coding, and helping co-workers with interesting problems, but I am end-of-spring-term exhausted.</p>\n",
 			"date_published": "2017-05-20T01:16:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/20/it-was-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/19/my-brother-turns.html",
-			"content_html": "<p>My brother turns 50 today and <em>I</em> feel old. That’’s not right. Happy birthday, @phil_clifton!</p>\n",
-			"date_published": "2017-05-19T16:21:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/19/my-brother-turns.html"
 		}
 		
 	]
