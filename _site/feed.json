@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/24/collectionflapmat-sigh.html",
+			"content_html": "<p><code>collection.flapMat { … }</code> sigh</p>\n",
+			"date_published": "2017-05-24T19:13:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/24/collectionflapmat-sigh.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/05/24/dual-wielding-new.html",
+			"content_html": "<p>Dual wielding new MacBook Pros because Xcode is so slow to compile this mixed Swift/ObjC codebase. </p>\n",
+			"date_published": "2017-05-24T19:08:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/24/dual-wielding-new.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/24/people-got-it.html",
 			"content_html": "<p>“people got it into their heads that they had a constitutional right to live in the suburbs and drive … through the center of a city … going seventy miles an hour. Our local politicians can’t bring themselves to tell these entitled shits the truth” —<a href=\"http://www.thestranger.com/slog/2017/05/22/25158186/doing-something-real-about-gentrification-and-displacement\">Dan Savage</a></p>\n",
 			"date_published": "2017-05-24T01:30:00+00:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p>I’m now the only developer at Omni to have deleted /trunk twice. I hope my key fob still works  on Monday. </p>\n",
 			"date_published": "2017-05-20T17:25:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/20/172523.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/20/im-now-the.html",
-			"content_html": "<p>I’m now the only developer at Omni to have deleted /trunk on the SVN server <em>twice</em>. Hope my key fob still works on Monday. </p>\n",
-			"date_published": "2017-05-20T17:01:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/20/im-now-the.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/20/finished-my-first.html",
-			"content_html": "<p>Finished my first play through of Journey. Wow. What a game. </p>\n",
-			"date_published": "2017-05-20T04:52:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/20/finished-my-first.html"
 		}
 		
 	]
