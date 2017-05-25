@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/25/informal-xcoders-night.html",
+			"content_html": "<p>Informal Xcoders night. Cyclops in Belltown. </p>\n",
+			"date_published": "2017-05-25T22:44:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/25/informal-xcoders-night.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/24/collectionflapmat-sigh.html",
 			"content_html": "<p><code>collection.flapMat { … }</code> sigh</p>\n",
 			"date_published": "2017-05-24T19:13:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Solved another thorny coding problem by drawing a picture of it in <a href=\"https://appsto.re/us/l5nqbb.i\">Linea</a>. Visual thinking FTW.</p>\n",
 			"date_published": "2017-05-20T19:51:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/20/solved-another-thorny.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/20/172523.html",
-			"content_html": "<p>I’m now the only developer at Omni to have deleted /trunk twice. I hope my key fob still works  on Monday. </p>\n",
-			"date_published": "2017-05-20T17:25:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/20/172523.html"
 		}
 		
 	]
