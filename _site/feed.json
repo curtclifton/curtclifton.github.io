@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/05/26/the-us-elected.html",
+			"content_html": "<p>“The U.S. elected a laughing stock to the presidency and has now made itself dependent on a joke of a man” —<a href=\"http://www.spiegel.de/international/world/donald-trump-is-a-menace-to-the-world-opinion-a-1148471.html\">Der Spiegel</a></p>\n",
+			"date_published": "2017-05-26T06:35:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/26/the-us-elected.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/05/26/the-future-of.html",
+			"content_html": "<p>“The future of conservatism now depends on its capacity for revulsion. And it is not at all clear whether this capacity still exists.” —<a href=\"https://www.washingtonpost.com/opinions/the-conservative-mind-has-become-diseased/2017/05/25/523f0964-4159-11e7-9869-bac8b446820a_story.html\">Michael Gerson</a></p>\n",
+			"date_published": "2017-05-26T06:23:00+00:00",
+			"url": "http://curt.micro.blog/2017/05/26/the-future-of.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/05/25/informal-xcoders-night.html",
 			"content_html": "<p>Informal Xcoders night. Cyclops in Belltown. </p>\n",
 			"date_published": "2017-05-25T22:44:00+00:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p>“The sad reality is that the greatest defense of the president available at this point is one his team could never give on the record: He is an idiot who does not know any better.” —<a href=\"https://www.washingtonpost.com/opinions/here-comes-the-gop-bloodbath/2017/05/19/8e27eb58-3c18-11e7-8854-21f359183e8c_story.html\">Erick Erickson</a></p>\n",
 			"date_published": "2017-05-21T16:19:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/21/the-sad-reality.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/21/guardians-was-great.html",
-			"content_html": "<p>Guardians 2 was great fun. </p>\n",
-			"date_published": "2017-05-21T04:32:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/21/guardians-was-great.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/20/solved-another-thorny.html",
-			"content_html": "<p>Solved another thorny coding problem by drawing a picture of it in <a href=\"https://appsto.re/us/l5nqbb.i\">Linea</a>. Visual thinking FTW.</p>\n",
-			"date_published": "2017-05-20T19:51:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/20/solved-another-thorny.html"
 		}
 		
 	]
