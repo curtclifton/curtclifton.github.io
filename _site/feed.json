@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/02/whoa-its-my.html",
+			"content_html": "<p>Whoa. It’s my sixth Omniversary. I’ve been @OmniGroup as long as I was at Rose-Hulman. Whoosh. </p>\n",
+			"date_published": "2017-06-02T00:21:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/02/whoa-its-my.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/01/the-still-unresolved.html",
 			"content_html": "<p>“The still unresolved question is whether Washington will seek to mold the world that is coming, as it did after the Second World War, or engage in a futile effort to escape, as it did after the First World War.” —<a href=\"https://apple.news/A03Ih1Mc2NaiXNCiJv5L_ng\">John Cassidy</a></p>\n",
 			"date_published": "2017-06-01T06:09:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>That was a fun match on a perfect Seattle day.</p>\n\n<p>✔️ Bonfire built. \n✔️ Timbers toasted. </p>\n\n<h1 id=\"ebfg\">ebfg</h1>\n",
 			"date_published": "2017-05-27T22:49:00+00:00",
 			"url": "http://curt.micro.blog/2017/05/27/that-was-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/27/since-american-citizens.html",
-			"content_html": "<p>“Since 9/11, American citizens are seven times more likely to be killed by a right-wing extremist than a Muslim attacker.” —<a href=\"http://www.teenvogue.com/story/white-male-terrorists-are-an-issue-we-should-discuss?mbid=social_twitter\">Teen Vogue</a></p>\n",
-			"date_published": "2017-05-27T22:37:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/27/since-american-citizens.html"
 		}
 		
 	]
