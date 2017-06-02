@@ -4,8 +4,18 @@
     <title>Curt Clifton</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://curt.micro.blog/</link>
-    <pubDate>Fri, 02 Jun 2017 13:51:24 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Jun 2017 13:51:24 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2017 16:39:35 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Jun 2017 16:39:35 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;Prediction: macOS 10.13 Death Valley&lt;/p&gt;
+
+&lt;p&gt;You read it here first. &lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Jun 2017 16:08:00 +0000</pubDate>
+        <link>http://curt.micro.blog/2017/06/02/prediction-macos-death.html</link>
+        <guid isPermaLink="true">http://curt.micro.blog/2017/06/02/prediction-macos-death.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;This is really a message to all of us, and uplifting to boot.&lt;/p&gt;
@@ -420,16 +430,6 @@
         <pubDate>Sat, 13 May 2017 05:26:00 +0000</pubDate>
         <link>http://curt.micro.blog/2017/05/13/are-there-even.html</link>
         <guid isPermaLink="true">http://curt.micro.blog/2017/05/13/are-there-even.html</guid>
-      </item>
-    
-      <item>
-        <description>&lt;p&gt;“There were 10283 lines of changes, so I’m not showing them.”&lt;/p&gt;
-
-&lt;p&gt;That was an eventful feature branch.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 13 May 2017 03:50:00 +0000</pubDate>
-        <link>http://curt.micro.blog/2017/05/13/035004.html</link>
-        <guid isPermaLink="true">http://curt.micro.blog/2017/05/13/035004.html</guid>
       </item>
     
   </channel>
