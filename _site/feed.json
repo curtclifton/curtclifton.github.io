@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/04/happy-wweve-im.html",
+			"content_html": "<p>Happy WWeve! I’m jealous of the folks headed to San Jose, but excited about the new toys we’ll all learn about starting tomorrow. </p>\n",
+			"date_published": "2017-06-04T14:30:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/04/happy-wweve-im.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/03/altruism-trust-cooperation.html",
 			"content_html": "<p>“Altruism, trust, cooperation and virtue are unaffordable luxuries in the struggle of all against all. Everything is about self-interest.” —<a href=\"https://www.nytimes.com/2017/06/02/opinion/donald-trump-poisons-the-world.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">David Brooks</a></p>\n",
 			"date_published": "2017-06-03T01:28:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Linea comes through again. Love this iPad app, and the new Linea Link Mac app already has paid for itself. <a href=\"http://blog.iconfactory.com/2017/05/linea-icloud-your-sketches-everywhere-you-need-them/\">Check it out.</a></p>\n",
 			"date_published": "2017-06-01T05:50:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/01/linea-comes-through.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/05/30/thou-shall-not.html",
-			"content_html": "<p>Thou shall not covet… <a href=\"https://www.lie-nielsen.com/product/block-planes/adjustable-mouth-block-planes-?node=4072\">www.lie-nielsen.com/product/b…</a></p>\n",
-			"date_published": "2017-05-30T04:50:00+00:00",
-			"url": "http://curt.micro.blog/2017/05/30/thou-shall-not.html"
 		}
 		
 	]
