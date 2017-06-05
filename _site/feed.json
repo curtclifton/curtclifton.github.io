@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/05/settling-in-for.html",
+			"content_html": "<p>Settling in for OmniWDC. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/72260d673e.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-05T17:00:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/05/settling-in-for.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/05/merry-dubdubmas.html",
 			"content_html": "<p>Merry Dubdubmas!</p>\n",
 			"date_published": "2017-06-05T14:04:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Prediction: macOS 10.13 Death Valley</p>\n\n<p>You read it here first. </p>\n",
 			"date_published": "2017-06-02T16:08:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/02/prediction-macos-death.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/02/this-is-really.html",
-			"content_html": "<p>This is really a message to all of us, and uplifting to boot.</p>\n\n<p>Booming.</p>\n\n<p><a href=\"https://twitter.com/USseriously/status/870455945524109313\">twitter.com/USserious…</a></p>\n",
-			"date_published": "2017-06-02T13:49:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/02/this-is-really.html"
 		}
 		
 	]
