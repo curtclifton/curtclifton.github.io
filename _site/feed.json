@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/07/youll-try-new.html",
+			"content_html": "<p>“You’ll try new things. You’ll fail. Get back up and keep climbing.” —<a href=\"http://jsorge.net/2017/06/07/leveling-up-as-an-ios-developer/\">Jared Sorge</a></p>\n",
+			"date_published": "2017-06-07T14:38:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/07/youll-try-new.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/07/monument-valley-is.html",
 			"content_html": "<p>Monument Valley 2 is as lovely as the original. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/cf6fc62d7d.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-07T05:07:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>And then you have long and productive twitter conversation with the past (and future?) mayor of Seattle. Thanks, @mayormcginn. </p>\n",
 			"date_published": "2017-06-04T20:59:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/04/and-then-you.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/04/hmm-a-four.html",
-			"content_html": "<p>Hmm. A four hour long, TBA session on WWDC Monday. Developer hands-on room with new hardware?</p>\n",
-			"date_published": "2017-06-04T19:23:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/04/hmm-a-four.html"
 		}
 		
 	]
