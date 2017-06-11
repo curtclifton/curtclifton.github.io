@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/11/steaks-and-garlic.html",
+			"content_html": "<p>Steaks and garlic potatoes on the grill. Cab in the glass. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/24787cb2a1.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-11T03:17:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/11/steaks-and-garlic.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/10/a-perfect-saturday.html",
 			"content_html": "<p>A perfect Saturday in June. What should we do? Plumbing!</p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/fb3e0b291e.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-10T22:06:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Sweep! </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/744c962354.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-05T03:04:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/05/sweep-img-srchttpcurtmicrobloguploadscjpg.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/05/with-clydehttpcurtcliftonnetclydetheglide-as.html",
-			"content_html": "<p>With <a href=\"http://curtclifton.net/clyde-the-glide\">Clyde</a> as my daily driver now, I spent the afternoon tuning up my 20 year old Marin, now named Bonnie, and taking off the commuter accessories. She rides nice but it feels like slo-mo after the electric. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/1a9637a24d.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-05T00:56:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/05/with-clydehttpcurtcliftonnetclydetheglide-as.html"
 		}
 		
 	]
