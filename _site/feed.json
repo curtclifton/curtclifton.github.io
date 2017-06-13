@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/13/the-joys-of.html",
+			"content_html": "<p>The joys of biking the Westland Cycle Track. Saved by my Schwalbes. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/e4cbb04a92.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-13T15:56:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/13/the-joys-of.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/13/i-hope-a.html",
 			"content_html": "<p>I hope a senator <a href=\"https://www.nytimes.com/2017/06/12/us/politics/attorney-general-jeff-sessions-testify-russia-comey.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">asks the Attorney General why the committee should believe</a> him when he already lied under oath to the Judiciary Committee.</p>\n",
 			"date_published": "2017-06-13T01:51:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Great session! Well done, @optshiftk! I can’t wait to use all this stuff in iOS 11.</p>\n",
 			"date_published": "2017-06-06T23:43:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/06/great-session-well.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/06/without-social-media.html",
-			"content_html": "<p>“Without social media focusing me on the news of the instant, I consumed news in a slower, less frantic fashion … I came away feeling better informed.” —<a href=\"https://fivethirtyeight.com/features/leaving-social-media-taught-me-how-broken-the-news-cycle-is/\">538</a></p>\n",
-			"date_published": "2017-06-06T13:56:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/06/without-social-media.html"
 		}
 		
 	]
