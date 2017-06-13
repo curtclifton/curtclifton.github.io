@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/13/i-hope-a.html",
+			"content_html": "<p>I hope a senator <a href=\"https://www.nytimes.com/2017/06/12/us/politics/attorney-general-jeff-sessions-testify-russia-comey.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">asks the Attorney General why the committee should believe</a> him when he already lied under oath to the Judiciary Committee.</p>\n",
+			"date_published": "2017-06-13T01:51:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/13/i-hope-a.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/12/it-is-always.html",
 			"content_html": "<p>“It is always important to remember that few customers own multiple platforms and so being consistent across platforms solves your problem but not customer problems.” —<a href=\"https://medium.learningbyshipping.com/wwdc-2017-some-thoughts-3ff3230cdd58\">Steven Sinofsky</a></p>\n",
 			"date_published": "2017-06-12T14:11:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>“Without social media focusing me on the news of the instant, I consumed news in a slower, less frantic fashion … I came away feeling better informed.” —<a href=\"https://fivethirtyeight.com/features/leaving-social-media-taught-me-how-broken-the-news-cycle-is/\">538</a></p>\n",
 			"date_published": "2017-06-06T13:56:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/06/without-social-media.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/05/tfw-apple-name.html",
-			"content_html": "<p>TFW Apple name checks your app with a screenshot during a keynote. @omnifocus FTW</p>\n",
-			"date_published": "2017-06-05T19:38:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/05/tfw-apple-name.html"
 		}
 		
 	]
