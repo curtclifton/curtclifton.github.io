@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2017-06-15 03:35
+---
+A great relief to the 23 million whose health care you want to end, @speakerryan. 
+
+“We do not shed our humanity when we enter this chamber,” Mr. Ryan said… —[NY Times](https://www.nytimes.com/2017/06/14/us/steve-scalise-congress-shot-alexandria-virginia.html?smprod=nytcore-ipad&smid=nytcore-ipad-share)
