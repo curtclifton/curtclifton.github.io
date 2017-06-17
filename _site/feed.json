@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/17/were-a-country.html",
+			"content_html": "<p>“We’re a country of immigrants — by and for them, too. Americans who don’t get it should get out.” —<a href=\"https://www.nytimes.com/2017/06/16/opinion/only-mass-deportation-can-save-america.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Bret Stephens</a></p>\n",
+			"date_published": "2017-06-17T02:36:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/17/were-a-country.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/15/wide-gamut-beach.html",
 			"content_html": "<p>Wide Gamut Beach Ball is my new band name.</p>\n",
 			"date_published": "2017-06-15T19:17:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>“To buoy his ego, they debase themselves, and what you heard them doing in that meeting wasn’t just swallowing their pride but choking on it.” —<a href=\"https://www.nytimes.com/2017/06/13/opinion/the-mortification-of-jeff-sessions.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Frank Bruni</a></p>\n",
 			"date_published": "2017-06-14T03:48:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/14/to-buoy-his.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/13/the-amount-of.html",
-			"content_html": "<p>The amount of energy buzzing around @omnigroup in the week after WWDC is always fun, doubly so this year with Apple’s amazing improvements for productivity apps in iOS 11.</p>\n",
-			"date_published": "2017-06-13T21:44:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/13/the-amount-of.html"
 		}
 		
 	]
