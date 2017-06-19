@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/19/look-at-training.html",
+			"content_html": "<p>Look at training schedule.</p>\n\n<p>Sees 12 400m intervals for tomorrow.</p>\n\n<p>Whimpers softly.</p>\n",
+			"date_published": "2017-06-19T04:23:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/19/look-at-training.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/18/lisa-crushed-it.html",
 			"content_html": "<p>Lisa crushed it! #fb</p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/4a3f65fe3d.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-18T16:02:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>“The special counsel … is interviewing senior intelligence officials as part of a widening probe that now includes an examination of whether … Trump attempted to obstruct justice…” —<a href=\"https://www.washingtonpost.com/world/national-security/special-counsel-is-investigating-trump-for-possible-obstruction-of-justice/2017/06/14/9ce02506-5131-11e7-b064-828ba60fbb98_story.html\">WaPo</a></p>\n",
 			"date_published": "2017-06-15T04:02:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/15/the-special-counsel.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/15/with-deep-sadness.html",
-			"content_html": "<p>With deep sadness, I can’t help but wonder if historians will consider the attack today the first shots of the second American civil war.</p>\n",
-			"date_published": "2017-06-15T03:41:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/15/with-deep-sadness.html"
 		}
 		
 	]
