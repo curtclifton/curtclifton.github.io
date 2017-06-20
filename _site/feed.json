@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/20/cocoaconf-had-a.html",
+			"content_html": "<p><a href=\"https://twitter.com/cocoaconf/status/877196353574752257\">CocoaConf had a great run.</a> I’m thrilled to help kick off their new <a href=\"https://swiftbynorthwest.com\">Swift by Northwest conference</a>. </p>\n",
+			"date_published": "2017-06-20T17:18:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/20/cocoaconf-had-a.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/20/new-commuter-helmet.html",
 			"content_html": "<p>New commuter helmet. Safety first, Vern. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/663298637a.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-20T15:27:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Registered for the <a href=\"http://snohomishriverrun.com/\">Snohomish River Run half marathon</a> in October. Price increases tomorrow. Perfect time to sign up and start training. </p>\n",
 			"date_published": "2017-06-15T05:35:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/15/registered-for-the.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/15/what-then-must.html",
-			"content_html": "<p>“What then must we, who believe in the free world, do?” —<a href=\"https://www.washingtonpost.com/news/democracy-post/wp/2017/06/14/the-free-world-is-still-worth-fighting-for/\">Daniel Fried</a></p>\n",
-			"date_published": "2017-06-15T04:22:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/15/what-then-must.html"
 		}
 		
 	]
