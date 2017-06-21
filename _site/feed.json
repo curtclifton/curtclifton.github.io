@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/21/a-giant-release.html",
+			"content_html": "<p>A giant release for giant iPads. <a href=\"https://twitter.com/OmniPlan/status/877312828536799232\">Take OmniPlan 3.6 for iOS for a test flight.</a></p>\n",
+			"date_published": "2017-06-21T03:01:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/21/a-giant-release.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/20/cocoaconf-had-a.html",
 			"content_html": "<p><a href=\"https://twitter.com/cocoaconf/status/877196353574752257\">CocoaConf had a great run.</a> I’m thrilled to help kick off their new <a href=\"https://swiftbynorthwest.com\">Swift by Northwest conference</a>. </p>\n",
 			"date_published": "2017-06-20T17:18:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Wide Gamut Beach Ball is my new band name.</p>\n",
 			"date_published": "2017-06-15T19:17:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/15/wide-gamut-beach.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/15/registered-for-the.html",
-			"content_html": "<p>Registered for the <a href=\"http://snohomishriverrun.com/\">Snohomish River Run half marathon</a> in October. Price increases tomorrow. Perfect time to sign up and start training. </p>\n",
-			"date_published": "2017-06-15T05:35:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/15/registered-for-the.html"
 		}
 		
 	]
