@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/23/sometimes-the-daily.html",
+			"content_html": "<p>Sometimes the daily grind can wear me down. It’s good to be reminded what a great community I’m lucky enough to be a part of. @xcoders ❤️</p>\n",
+			"date_published": "2017-06-23T06:43:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/23/sometimes-the-daily.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/21/a-giant-release.html",
 			"content_html": "<p>A giant release for giant iPads. <a href=\"https://twitter.com/OmniPlan/status/877312828536799232\">Take OmniPlan 3.6 for iOS for a test flight.</a></p>\n",
 			"date_published": "2017-06-21T03:01:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>“We’re a country of immigrants — by and for them, too. Americans who don’t get it should get out.” —<a href=\"https://www.nytimes.com/2017/06/16/opinion/only-mass-deportation-can-save-america.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Bret Stephens</a></p>\n",
 			"date_published": "2017-06-17T02:36:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/17/were-a-country.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/15/wide-gamut-beach.html",
-			"content_html": "<p>Wide Gamut Beach Ball is my new band name.</p>\n",
-			"date_published": "2017-06-15T19:17:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/15/wide-gamut-beach.html"
 		}
 		
 	]
