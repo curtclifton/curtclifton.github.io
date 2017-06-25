@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/25/the-good-news.html",
+			"content_html": "<p>The good news is the yard waste bin is full, so we’re done until Friday. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/6f15f2f05e.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-25T23:15:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/25/the-good-news.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/06/25/hottest-day-in.html",
+			"content_html": "<p>Hottest day in 10 months. What should we do? Trim trees and clean gutters! </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/28ce624938.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-25T23:13:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/25/hottest-day-in.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/25/203443.html",
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/version-1-2-of-export-omnifocus-view-to-omnioutl\">Version 1.2 of my Export OmniFocus View to OmniOutliner script</a></p>\n",
 			"date_published": "2017-06-25T20:34:00+00:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p>Sometimes the daily grind can wear me down. It’s good to be reminded what a great community I’m lucky enough to be a part of. @xcoders ❤️</p>\n",
 			"date_published": "2017-06-23T06:43:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/23/sometimes-the-daily.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/21/a-giant-release.html",
-			"content_html": "<p>A giant release for giant iPads. <a href=\"https://twitter.com/OmniPlan/status/877312828536799232\">Take OmniPlan 3.6 for iOS for a test flight.</a></p>\n",
-			"date_published": "2017-06-21T03:01:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/21/a-giant-release.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/20/cocoaconf-had-a.html",
-			"content_html": "<p><a href=\"https://twitter.com/cocoaconf/status/877196353574752257\">CocoaConf had a great run.</a> I’m thrilled to help kick off their new <a href=\"https://swiftbynorthwest.com\">Swift by Northwest conference</a>. </p>\n",
-			"date_published": "2017-06-20T17:18:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/20/cocoaconf-had-a.html"
 		}
 		
 	]
