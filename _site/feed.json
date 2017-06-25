@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/25/it-was-great.html",
+			"content_html": "<p>It was great fun biking to Red Hook and back yesterday with @tbunch, @jimcorreia, @bobtiki, @tropicana_jones, Andrew, and Anthony. Surprise bonus: back on the electric today at it feels insanely fast again.</p>\n",
+			"date_published": "2017-06-25T17:36:00+00:00",
+			"url": "http://curt.micro.blog/2017/06/25/it-was-great.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/24/shared-my-democracy.html",
 			"content_html": "<p>Shared my Democracy Vouchers to support <a href=\"http://www.electjongrant.com/\">Jon Grant</a> for Seattle City Council. Lost yours? <a href=\"http://www.seattle.gov/democracyvoucher\">Get replacements from the city.</a></p>\n",
 			"date_published": "2017-06-24T16:36:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Look at training schedule.</p>\n\n<p>Sees 12 400m intervals for tomorrow.</p>\n\n<p>Whimpers softly.</p>\n",
 			"date_published": "2017-06-19T04:23:00+00:00",
 			"url": "http://curt.micro.blog/2017/06/19/look-at-training.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/18/lisa-crushed-it.html",
-			"content_html": "<p>Lisa crushed it! #fb</p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/4a3f65fe3d.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-18T16:02:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/18/lisa-crushed-it.html"
 		}
 		
 	]
