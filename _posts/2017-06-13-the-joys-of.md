@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-06-13 15:56
+date: 2017-06-13 15:56 +0700
+guid: http://curt.micro.blog/2017/06/13/the-joys-of.html
 ---
 The joys of biking the Westland Cycle Track. Saved by my Schwalbes. 
 
