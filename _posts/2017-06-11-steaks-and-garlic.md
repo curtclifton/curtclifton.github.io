@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-06-11 03:17
+date: 2017-06-11 03:17 +0700
+guid: http://curt.micro.blog/2017/06/11/steaks-and-garlic.html
 ---
 Steaks and garlic potatoes on the grill. Cab in the glass. 
 
