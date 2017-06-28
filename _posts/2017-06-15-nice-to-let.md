@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-06-15 01:56
+date: 2017-06-15 01:56 +0700
+guid: http://curt.micro.blog/2017/06/15/nice-to-let.html
 ---
 Nice to let myself run fast again. It's been too long. 
 
