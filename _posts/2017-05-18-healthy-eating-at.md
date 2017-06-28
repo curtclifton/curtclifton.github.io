@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-05-18 16:34
+date: 2017-05-18 16:34 +0700
+guid: http://curt.micro.blog/2017/05/18/healthy-eating-at.html
 ---
 Healthy eating at the Omni Group. /@omnigroup 
 
