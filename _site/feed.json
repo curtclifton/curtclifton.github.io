@@ -1,78 +1,78 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Curt Clifton",
-	"home_page_url": "http://curt.micro.blog/",
-	"feed_url": "http://curt.micro.blog/feed.json",
+	"home_page_url": "http://microblog.curtclifton.net/",
+	"feed_url": "http://microblog.curtclifton.net/feed.json",
 	"items": [
+		
+		{
+			"id": "http://curt.micro.blog/2017/06/28/the-current-republican.html",
+			"content_html": "<p>“The current Republican Party has iron, dogmatic rules about the role of government, but no vision about America.” —<a href=\"https://www.nytimes.com/2017/06/27/opinion/the-gop-rejects-conservatism.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">David Brooks</a></p>\n",
+			"date_published": "2017-06-27T19:19:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/27/the-current-republican.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/06/25/those-power-lines.html",
+			"content_html": "<p>Those power lines are farther away than they look. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/88617d1adc.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-25T16:38:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/25/those-power-lines.html"
+		},
 		
 		{
 			"id": "http://curt.micro.blog/2017/06/25/the-good-news.html",
 			"content_html": "<p>The good news is the yard waste bin is full, so we’re done until Friday. </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/6f15f2f05e.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-25T23:15:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/25/the-good-news.html"
+			"date_published": "2017-06-25T16:15:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/25/the-good-news.html"
 		},
 		
 		{
 			"id": "http://curt.micro.blog/2017/06/25/hottest-day-in.html",
 			"content_html": "<p>Hottest day in 10 months. What should we do? Trim trees and clean gutters! </p>\n\n<p><img src=\"http://curt.micro.blog/uploads/2017/28ce624938.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-25T23:13:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/25/hottest-day-in.html"
+			"date_published": "2017-06-25T16:13:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/25/hottest-day-in.html"
 		},
 		
 		{
 			"id": "http://curt.micro.blog/2017/06/25/203443.html",
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/version-1-2-of-export-omnifocus-view-to-omnioutl\">Version 1.2 of my Export OmniFocus View to OmniOutliner script</a></p>\n",
-			"date_published": "2017-06-25T20:34:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/25/203443.html"
+			"date_published": "2017-06-25T13:34:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/25/203443.html"
 		},
 		
 		{
 			"id": "http://curt.micro.blog/2017/06/25/so-many-side.html",
 			"content_html": "<p>So many side projects, so little time.</p>\n",
-			"date_published": "2017-06-25T18:07:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/25/so-many-side.html"
+			"date_published": "2017-06-25T11:07:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/25/so-many-side.html"
 		},
 		
 		{
 			"id": "http://curt.micro.blog/2017/06/25/interfaces-which-demand.html",
 			"content_html": "<p>“Interfaces, which demand [users] remember too many options at once, can create … tension and [irritate them]” —<a href=\"https://icons8.com/articles/tips-for-ux-designers/?utm_campaign=iOS%2BDev%2BWeekly&amp;utm_medium=email&amp;utm_source=iOS_Dev_Weekly_Issue_306\">Marina Yalanska</a></p>\n",
-			"date_published": "2017-06-25T18:05:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/25/interfaces-which-demand.html"
+			"date_published": "2017-06-25T11:05:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/25/interfaces-which-demand.html"
 		},
 		
 		{
 			"id": "http://curt.micro.blog/2017/06/25/it-was-great.html",
 			"content_html": "<p>It was great fun biking to Red Hook and back yesterday with @tbunch, @jimcorreia, @bobtiki, @tropicana_jones, Andrew, and Anthony. Surprise bonus: back on the electric today at it feels insanely fast again.</p>\n",
-			"date_published": "2017-06-25T17:36:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/25/it-was-great.html"
+			"date_published": "2017-06-25T10:36:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/25/it-was-great.html"
 		},
 		
 		{
 			"id": "http://curt.micro.blog/2017/06/24/shared-my-democracy.html",
 			"content_html": "<p>Shared my Democracy Vouchers to support <a href=\"http://www.electjongrant.com/\">Jon Grant</a> for Seattle City Council. Lost yours? <a href=\"http://www.seattle.gov/democracyvoucher\">Get replacements from the city.</a></p>\n",
-			"date_published": "2017-06-24T16:36:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/24/shared-my-democracy.html"
+			"date_published": "2017-06-24T09:36:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/24/shared-my-democracy.html"
 		},
 		
 		{
 			"id": "http://curt.micro.blog/2017/06/24/we-have-a.html",
 			"content_html": "<p>“We have a fake democracy, growing less responsive and less representative by the day.” —<a href=\"https://www.nytimes.com/2017/06/23/opinion/our-fake-democracy.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Timothy Egan</a></p>\n",
-			"date_published": "2017-06-24T05:29:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/24/we-have-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/23/dutifully-file-radars.html",
-			"content_html": "<p>Dutifully file radars. Get request from Apple engineering for more info. Bloody Fischer-Price bug reporter web app fails to render the comments section. Have to use web inspector to see the comments in the page source. smh </p>\n",
-			"date_published": "2017-06-23T21:39:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/23/dutifully-file-radars.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/23/sometimes-the-daily.html",
-			"content_html": "<p>Sometimes the daily grind can wear me down. It’s good to be reminded what a great community I’m lucky enough to be a part of. @xcoders ❤️</p>\n",
-			"date_published": "2017-06-23T06:43:00+00:00",
-			"url": "http://curt.micro.blog/2017/06/23/sometimes-the-daily.html"
+			"date_published": "2017-06-23T22:29:00+00:00",
+			"url": "http://microblog.curtclifton.net/2017/06/23/we-have-a.html"
 		}
 		
 	]
