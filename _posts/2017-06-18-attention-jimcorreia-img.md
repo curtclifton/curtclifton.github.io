@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-06-18 15:20
+date: 2017-06-18 15:20 +0700
+guid: http://curt.micro.blog/2017/06/18/attention-jimcorreia-img.html
 ---
 Attention @jimcorreia 
 
