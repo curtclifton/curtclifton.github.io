@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-06-07 05:07
+date: 2017-06-07 05:07 +0700
+guid: http://curt.micro.blog/2017/06/07/monument-valley-is.html
 ---
 Monument Valley 2 is as lovely as the original. 
 
