@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-06-05 17:00
+date: 2017-06-05 17:00 +0700
+guid: http://curt.micro.blog/2017/06/05/settling-in-for.html
 ---
 Settling in for OmniWDC. 
 
