@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-06-18 16:02
+date: 2017-06-18 16:02 +0700
+guid: http://curt.micro.blog/2017/06/18/lisa-crushed-it.html
 ---
 Lisa crushed it! #fb
 
