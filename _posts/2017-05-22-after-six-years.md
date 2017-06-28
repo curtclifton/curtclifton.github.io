@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-05-22 03:36
+date: 2017-05-22 03:36 +0700
+guid: http://curt.micro.blog/2017/05/22/after-six-years.html
 ---
 After six years of tools stashed in boxes, I'm thrilled to have an organized shop again. Next step: rebuild woodworking tool collection. 
 
