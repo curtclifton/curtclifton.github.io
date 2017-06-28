@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-05-06 18:07
+date: 2017-05-06 18:07 +0700
+guid: http://curt.micro.blog/2017/05/06/posted-appearance-managerwith.html
 ---
 Posted: Appearance Manager
 
