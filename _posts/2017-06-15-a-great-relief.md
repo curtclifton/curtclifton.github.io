@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-06-15 03:35
+date: 2017-06-15 03:35 +0700
+guid: http://curt.micro.blog/2017/06/15/a-great-relief.html
 ---
 A great relief to the 23 million whose health care you want to end, @speakerryan. 
 
