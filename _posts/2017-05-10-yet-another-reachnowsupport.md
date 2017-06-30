@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-05-10 15:30 +0700
+date: 2017-05-10 08:30 -0700
 guid: http://curt.micro.blog/2017/05/10/yet-another-reachnowsupport.html
 ---
 Yet another @ReachNowSupport trip marred but their buggy software. Trips regularly fail to end and I get charged for an extra 10-15 minutes.
