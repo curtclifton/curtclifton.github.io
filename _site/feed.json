@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/06/30/happy-to-see.html",
+			"content_html": "<p><a href=\"https://twitter.com/tim_cook/status/880796356457136129\">Happy to see one of my favorite companies supporting one of my favorite causes…</a></p>\n",
+			"date_published": "2017-06-30T08:10:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/06/30/happy-to-see.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/06/30/fifth-thursday-xcoders.html",
 			"content_html": "<p>Fifth Thursday @Xcoders at the Waterwheel. No better way to kick off a five day weekend.</p>\n",
 			"date_published": "2017-06-29T22:23:00-07:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>It was great fun biking to Red Hook and back yesterday with @tbunch, @jimcorreia, @bobtiki, @tropicana_jones, Andrew, and Anthony. Surprise bonus: back on the electric today at it feels insanely fast again.</p>\n",
 			"date_published": "2017-06-25T10:36:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/06/25/it-was-great.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/24/shared-my-democracy.html",
-			"content_html": "<p>Shared my Democracy Vouchers to support <a href=\"http://www.electjongrant.com/\">Jon Grant</a> for Seattle City Council. Lost yours? <a href=\"http://www.seattle.gov/democracyvoucher\">Get replacements from the city.</a></p>\n",
-			"date_published": "2017-06-24T09:36:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/06/24/shared-my-democracy.html"
 		}
 		
 	]
