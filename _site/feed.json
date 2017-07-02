@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/02/hey-look-i.html",
+			"content_html": "<p>Hey, look. I was on Mount Townsend too. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/9008a3a37d.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-07-01T18:20:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/01/hey-look-i.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/07/02/that-was-nice.html",
+			"content_html": "<p>That was nice enough I decided to continue the practice in the backyard. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/bc02f65405.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-07-01T17:24:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/01/that-was-nice.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/01/beer-in-the.html",
 			"content_html": "<p>Beer in the sunshine at Chuck’s. Doing Seattle summer right. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/093c67b0e8.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-01T16:53:00-07:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p><a href=\"https://twitter.com/tim_cook/status/880796356457136129\">Happy to see one of my favorite companies supporting one of my favorite causes…</a></p>\n",
 			"date_published": "2017-06-30T08:10:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/06/30/happy-to-see.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/30/fifth-thursday-xcoders.html",
-			"content_html": "<p>Fifth Thursday @Xcoders at the Waterwheel. No better way to kick off a five day weekend.</p>\n",
-			"date_published": "2017-06-29T22:23:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/06/29/fifth-thursday-xcoders.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/28/the-current-republican.html",
-			"content_html": "<p>“The current Republican Party has iron, dogmatic rules about the role of government, but no vision about America.” —<a href=\"https://www.nytimes.com/2017/06/27/opinion/the-gop-rejects-conservatism.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">David Brooks</a></p>\n",
-			"date_published": "2017-06-27T19:19:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/06/27/the-current-republican.html"
 		}
 		
 	]
