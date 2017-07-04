@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/04/day-seized-now.html",
+			"content_html": "<p>Day seized. Now for S’mores. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/6d04119d98.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-07-03T19:05:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/03/day-seized-now.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/07/03/it-is-more.html",
+			"content_html": "<p>“It is more violent … has worse health outcomes … America’s average levels of academic achievement lag … Fewer Americans vote” —<a href=\"https://www.theatlantic.com/politics/archive/2017/07/the-sunset-of-american-exceptionalism/532548/\">David Frum</a></p>\n",
+			"date_published": "2017-07-03T09:03:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/03/it-is-more.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/03/abroad-no-one.html",
 			"content_html": "<p>“Abroad, no one wants the United States Constitution any more. But we’re stuck with it, Second Amendment and all.” —<a href=\"https://www.nytimes.com/2017/07/03/opinion/the-making-of-a-non-patriot.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Alex Rosenberg</a></p>\n",
 			"date_published": "2017-07-03T08:27:00-07:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p>Wake. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/861a08514f.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-30T19:22:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/06/30/022235.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/30/175042.html",
-			"content_html": "<p>Wake. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/69e12615a1.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-30T10:50:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/06/30/175042.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/06/30/the-mountains-are.html",
-			"content_html": "<p>The mountains are calling. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/f8bd0b82f9.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-30T10:40:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/06/30/the-mountains-are.html"
 		}
 		
 	]
