@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/15/it-is-a.html",
+			"content_html": "<p>“It is a party no longer capable of defending our national interests and Constitution from foreign enemies.”</p>\n",
+			"date_published": "2017-07-14T21:10:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/14/it-is-a.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/07/15/republicans-willingness-to.html",
+			"content_html": "<p>“Republicans’ willingness to accept even national betrayal … will disgrace the party and its leaders for years, if not permanently.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/14/neither-trump-nor-the-gop-will-recover-anytime-soon/\">Jennifer Rubin</a></p>\n",
+			"date_published": "2017-07-14T21:09:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/14/republicans-willingness-to.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/12/indeed-if-the.html",
 			"content_html": "<p>“Indeed, if the Russians didn’t approach the Trump circle…, it was probably because they recognized that anyone this naïve, giddy and … stupid would make a rather poor espionage partner.” —<a href=\"https://www.nytimes.com/2017/07/11/opinion/trump-russia-collusion.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Ross Douthat</a></p>\n",
 			"date_published": "2017-07-11T17:25:00-07:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p>“It is the Right of the People to alter or to abolish it, and to institute new Government”</p>\n",
 			"date_published": "2017-07-04T17:26:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/04/it-is-the.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/05/when-in-the.html",
-			"content_html": "<p>“When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another…”</p>\n",
-			"date_published": "2017-07-04T17:25:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/04/when-in-the.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/04/day-seized-now.html",
-			"content_html": "<p>Day seized. Now for S’mores. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/6d04119d98.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-03T19:05:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/03/day-seized-now.html"
 		}
 		
 	]
