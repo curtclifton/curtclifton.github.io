@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/15/i-lose-myself.html",
+			"content_html": "<p>“I lose myself to the silences beyond noise and here I find myself rested in my working” —<a href=\"https://paulsellers.com/2017/07/midst-noise-silence/?pk_campaign=feed&amp;pk_kwd=midst-noise-silence\">Paul Sellers</a></p>\n",
+			"date_published": "2017-07-15T11:18:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/15/i-lose-myself.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/15/it-is-a.html",
 			"content_html": "<p>“It is a party no longer capable of defending our national interests and Constitution from foreign enemies.”</p>\n",
 			"date_published": "2017-07-14T21:10:00-07:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>“What we have of national goodness, so incompletely realized, is fragile.” —<a href=\"http://inessential.com/2017/07/04/square_world\">Brent Simmons</a></p>\n",
 			"date_published": "2017-07-04T21:11:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/04/what-we-have.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/05/it-is-the.html",
-			"content_html": "<p>“It is the Right of the People to alter or to abolish it, and to institute new Government”</p>\n",
-			"date_published": "2017-07-04T17:26:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/04/it-is-the.html"
 		}
 		
 	]
