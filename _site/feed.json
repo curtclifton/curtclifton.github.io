@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/16/out-of-its.html",
+			"content_html": "<p>“Out of its collective sense of victimhood came the GOP’s disdain for not just intellectuals but also intellectualism, science, Economics 101, history and constitutional fidelity.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/14/the-gops-moral-rot-is-the-problem-not-donald-trump-jr/\">Jennifer Rubin</a></p>\n",
+			"date_published": "2017-07-15T17:41:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/15/out-of-its.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/15/i-lose-myself.html",
 			"content_html": "<p>“I lose myself to the silences beyond noise and here I find myself rested in my working” —<a href=\"https://paulsellers.com/2017/07/midst-noise-silence/?pk_campaign=feed&amp;pk_kwd=midst-noise-silence\">Paul Sellers</a></p>\n",
 			"date_published": "2017-07-15T11:18:00-07:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>I’m proud to be represented by this woman. “As we took the oath of citizenship, the solemnity of the moment spiked through me” —<a href=\"https://www.nytimes.com/2017/07/04/opinion/immigration-naturalization.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Pramila Jayapal</a></p>\n",
 			"date_published": "2017-07-04T22:10:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/04/im-proud-to.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/05/what-we-have.html",
-			"content_html": "<p>“What we have of national goodness, so incompletely realized, is fragile.” —<a href=\"http://inessential.com/2017/07/04/square_world\">Brent Simmons</a></p>\n",
-			"date_published": "2017-07-04T21:11:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/04/what-we-have.html"
 		}
 		
 	]
