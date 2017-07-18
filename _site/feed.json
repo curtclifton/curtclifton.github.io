@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/18/todays-work-on.html",
+			"content_html": "<p>Today’s work on OmniFocus [redacted] is brought to you by Archie Bell and the Drells. Tighten Up y’all. </p>\n",
+			"date_published": "2017-07-18T08:32:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/18/todays-work-on.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/16/out-of-its.html",
 			"content_html": "<p>“Out of its collective sense of victimhood came the GOP’s disdain for not just intellectuals but also intellectualism, science, Economics 101, history and constitutional fidelity.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/14/the-gops-moral-rot-is-the-problem-not-donald-trump-jr/\">Jennifer Rubin</a></p>\n",
 			"date_published": "2017-07-15T17:41:00-07:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Correct diagnosis, but the remedy is divorce. “It’s been 241 years and counting, but we may be falling apart.” —<a href=\"https://www.washingtonpost.com/opinions/america-badly-needs-relationship-counseling/2017/07/04/60779616-60b9-11e7-8adc-fea80e32bf47_story.html\">Christine Emba</a></p>\n",
 			"date_published": "2017-07-04T22:29:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/04/correct-diagnosis-but.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/05/im-proud-to.html",
-			"content_html": "<p>I’m proud to be represented by this woman. “As we took the oath of citizenship, the solemnity of the moment spiked through me” —<a href=\"https://www.nytimes.com/2017/07/04/opinion/immigration-naturalization.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Pramila Jayapal</a></p>\n",
-			"date_published": "2017-07-04T22:10:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/04/im-proud-to.html"
 		}
 		
 	]
