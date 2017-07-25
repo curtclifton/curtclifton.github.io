@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-06 22:07 -0700
 guid: http://curt.micro.blog/2017/06/07/monument-valley-is.html
 ---
