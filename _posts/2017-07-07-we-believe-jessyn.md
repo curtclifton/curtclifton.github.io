@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-07 09:18 -0700
 guid: http://curt.micro.blog/2017/07/07/we-believe-jessyn.html
 ---
