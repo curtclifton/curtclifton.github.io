@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-14 22:35 -0700
 guid: http://curt.micro.blog/2017/06/15/registered-for-the.html
 ---
