@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-11 06:58 -0700
 guid: http://curt.micro.blog/2017/05/11/few-public-servants.html
 ---
