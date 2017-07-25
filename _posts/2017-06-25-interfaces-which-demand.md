@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-25 11:05 -0700
 guid: http://curt.micro.blog/2017/06/25/interfaces-which-demand.html
 ---
