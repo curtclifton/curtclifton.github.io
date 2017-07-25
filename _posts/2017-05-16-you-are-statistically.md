@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-15 22:30 -0700
 guid: http://curt.micro.blog/2017/05/16/you-are-statistically.html
 ---
