@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-12 07:11 -0700
 guid: http://curt.micro.blog/2017/06/12/it-is-always.html
 ---
