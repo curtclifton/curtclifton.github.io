@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-02 15:50 -0700
 guid: http://curt.micro.blog/2017/05/02/the-omni-grouphttpwwwomnigroupcom.html
 ---
