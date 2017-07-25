@@ -6,7 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/25/its-a-beautiful.html",
+	      	
+			"content_html": "<p>It’s a beautiful night for a ballgame. Go Mariners. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/9783265e37.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-07-24T19:06:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/24/its-a-beautiful.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/23/under-a-monkey.html",
+	      	
 			"content_html": "<p>Under a monkey puzzle tree. /cc @tropicana_jones</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/978f3828a2.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-23T09:07:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/23/under-a-monkey.html"
@@ -14,6 +23,7 @@
 		
 		{
 			"id": "http://curt.micro.blog/2017/07/22/our-ag-should.html",
+	      	
 			"content_html": "<p>Our AG should be hanged for treason. <a href=\"https://www.washingtonpost.com/world/national-security/sessions-discussed-trump-campaign-related-matters-with-russian-ambassador-us-intelligence-intercepts-show/2017/07/21/3e704692-6e44-11e7-9c15-177740635e83_story.html\">“Sessions … has provided ‘misleading’ statements that are ‘contradicted by other evidence.’”</a></p>\n",
 			"date_published": "2017-07-21T20:44:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/21/our-ag-should.html"
@@ -21,6 +31,7 @@
 		
 		{
 			"id": "http://curt.micro.blog/2017/07/22/and-if-there.html",
+	      	
 			"content_html": "<p>“And if there is something bad, Mueller will find it. … In no scenario does Trump’s presidency recover.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/21/this-presidency-cant-be-saved-its-all-downhill-from-here/\">Jennifer Rubin</a></p>\n",
 			"date_published": "2017-07-21T20:42:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/21/and-if-there.html"
@@ -28,6 +39,7 @@
 		
 		{
 			"id": "http://curt.micro.blog/2017/07/18/todays-work-on.html",
+	      	
 			"content_html": "<p>Today’s work on OmniFocus [redacted] is brought to you by Archie Bell and the Drells. Tighten Up y’all. </p>\n",
 			"date_published": "2017-07-18T08:32:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/18/todays-work-on.html"
@@ -35,6 +47,7 @@
 		
 		{
 			"id": "http://curt.micro.blog/2017/07/16/out-of-its.html",
+	      	
 			"content_html": "<p>“Out of its collective sense of victimhood came the GOP’s disdain for not just intellectuals but also intellectualism, science, Economics 101, history and constitutional fidelity.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/14/the-gops-moral-rot-is-the-problem-not-donald-trump-jr/\">Jennifer Rubin</a></p>\n",
 			"date_published": "2017-07-15T17:41:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/15/out-of-its.html"
@@ -42,6 +55,7 @@
 		
 		{
 			"id": "http://curt.micro.blog/2017/07/15/i-lose-myself.html",
+	      	
 			"content_html": "<p>“I lose myself to the silences beyond noise and here I find myself rested in my working” —<a href=\"https://paulsellers.com/2017/07/midst-noise-silence/?pk_campaign=feed&amp;pk_kwd=midst-noise-silence\">Paul Sellers</a></p>\n",
 			"date_published": "2017-07-15T11:18:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/15/i-lose-myself.html"
@@ -49,6 +63,7 @@
 		
 		{
 			"id": "http://curt.micro.blog/2017/07/15/it-is-a.html",
+	      	
 			"content_html": "<p>“It is a party no longer capable of defending our national interests and Constitution from foreign enemies.”</p>\n",
 			"date_published": "2017-07-14T21:10:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/14/it-is-a.html"
@@ -56,6 +71,7 @@
 		
 		{
 			"id": "http://curt.micro.blog/2017/07/15/republicans-willingness-to.html",
+	      	
 			"content_html": "<p>“Republicans’ willingness to accept even national betrayal … will disgrace the party and its leaders for years, if not permanently.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/14/neither-trump-nor-the-gop-will-recover-anytime-soon/\">Jennifer Rubin</a></p>\n",
 			"date_published": "2017-07-14T21:09:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/14/republicans-willingness-to.html"
@@ -63,16 +79,10 @@
 		
 		{
 			"id": "http://curt.micro.blog/2017/07/12/indeed-if-the.html",
+	      	
 			"content_html": "<p>“Indeed, if the Russians didn’t approach the Trump circle…, it was probably because they recognized that anyone this naïve, giddy and … stupid would make a rather poor espionage partner.” —<a href=\"https://www.nytimes.com/2017/07/11/opinion/trump-russia-collusion.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Ross Douthat</a></p>\n",
 			"date_published": "2017-07-11T17:25:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/11/indeed-if-the.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/08/interesting-what-would.html",
-			"content_html": "<p>Interesting. “What would transform politics would be combining ranked choice voting with multi-winner districts.” —<a href=\"https://www.nytimes.com/2017/07/07/opinion/how-to-make-congress-bipartisan.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Reihan Salam and Rob Ritchie</a></p>\n",
-			"date_published": "2017-07-08T13:13:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/08/interesting-what-would.html"
 		}
 		
 	]
