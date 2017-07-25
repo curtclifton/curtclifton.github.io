@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-12 06:54 -0700
 guid: http://curt.micro.blog/2017/06/12/although-its-activities.html
 ---
