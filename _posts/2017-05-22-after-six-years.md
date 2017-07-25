@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-21 20:36 -0700
 guid: http://curt.micro.blog/2017/05/22/after-six-years.html
 ---
