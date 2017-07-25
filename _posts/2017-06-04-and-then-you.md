@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-04 13:59 -0700
 guid: http://curt.micro.blog/2017/06/04/and-then-you.html
 ---
