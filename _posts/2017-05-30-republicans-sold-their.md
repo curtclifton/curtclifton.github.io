@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-29 21:26 -0700
 guid: http://curt.micro.blog/2017/05/30/republicans-sold-their.html
 ---
