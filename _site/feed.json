@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/26/it-is-a.html",
+	      	
+			"content_html": "<p>“It is a multitiered tower of political idiocy, a sublime monument to the moronic, a gaudy, gleaming, Ozymandian folly that leaves many of the president’s prior efforts in its shade.” —<a href=\"https://www.nytimes.com/2017/07/26/opinion/donald-trump-jeff-sessions.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Ross Douthat</a></p>\n",
+			"date_published": "2017-07-26T09:55:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/26/it-is-a.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/07/26/in-the-end.html",
+	      	
+			"content_html": "<p>In the end, McCain is reduced to merely an angry hypocrite. “[his] vote on Tuesday helped enable the broken process on health care that he came to the floor to decry” —<a href=\"https://www.washingtonpost.com/powerpost/were-getting-nothing-done-mccain-in-emotional-return-laments-what-the-senate-has-become/2017/07/25/54d1c812-715e-11e7-8f39-eeb7d3a2d304_story.html\">WaPo</a></p>\n",
+			"date_published": "2017-07-25T21:10:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/25/in-the-end.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/26/hey-seattle-if.html",
 	      	
 			"content_html": "<p>Hey, Seattle. If you haven’t pick a mayoral candidate, please consider Jessyn Farrell, a brilliant transit/density wonk who can get things done. Just six days left to vote!</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/f16bf50507.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>“I lose myself to the silences beyond noise and here I find myself rested in my working” —<a href=\"https://paulsellers.com/2017/07/midst-noise-silence/?pk_campaign=feed&amp;pk_kwd=midst-noise-silence\">Paul Sellers</a></p>\n",
 			"date_published": "2017-07-15T11:18:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/15/i-lose-myself.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/15/it-is-a.html",
-	      	
-			"content_html": "<p>“It is a party no longer capable of defending our national interests and Constitution from foreign enemies.”</p>\n",
-			"date_published": "2017-07-14T21:10:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/14/it-is-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/15/republicans-willingness-to.html",
-	      	
-			"content_html": "<p>“Republicans’ willingness to accept even national betrayal … will disgrace the party and its leaders for years, if not permanently.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/14/neither-trump-nor-the-gop-will-recover-anytime-soon/\">Jennifer Rubin</a></p>\n",
-			"date_published": "2017-07-14T21:09:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/14/republicans-willingness-to.html"
 		}
 		
 	]
