@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/26/hey-seattle-if.html",
+	      	
+			"content_html": "<p>Hey, Seattle. If you haven’t pick a mayoral candidate, please consider Jessyn Farrell, a brilliant transit/density wonk who can get things done. Just six days left to vote!</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/f16bf50507.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-07-25T20:50:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/25/hey-seattle-if.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/25/its-a-beautiful.html",
 	      	
 			"content_html": "<p>It’s a beautiful night for a ballgame. Go Mariners. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/9783265e37.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“Republicans’ willingness to accept even national betrayal … will disgrace the party and its leaders for years, if not permanently.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/14/neither-trump-nor-the-gop-will-recover-anytime-soon/\">Jennifer Rubin</a></p>\n",
 			"date_published": "2017-07-14T21:09:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/14/republicans-willingness-to.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/12/indeed-if-the.html",
-	      	
-			"content_html": "<p>“Indeed, if the Russians didn’t approach the Trump circle…, it was probably because they recognized that anyone this naïve, giddy and … stupid would make a rather poor espionage partner.” —<a href=\"https://www.nytimes.com/2017/07/11/opinion/trump-russia-collusion.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Ross Douthat</a></p>\n",
-			"date_published": "2017-07-11T17:25:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/11/indeed-if-the.html"
 		}
 		
 	]
