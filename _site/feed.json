@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/28/finally-mccains-actions.html",
+	      	
+			"content_html": "<p>Finally McCain’s actions match his rhetoric. <a href=\"https://www.nytimes.com/2017/07/27/us/politics/obamacare-partial-repeal-senate-republicans-revolt.html\">“Senate Rejects Slimmed Down Obamacare Repeal as McCain Votes No”</a></p>\n",
+			"date_published": "2017-07-27T23:03:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/27/finally-mccains-actions.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/28/but-can-we.html",
 	      	
 			"content_html": "<p>“But can we take a moment to consider the awfulness of Senator John McCain?” —<a href=\"https://www.nytimes.com/2017/07/27/opinion/columnists/trumpcare-republican-moderates.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Today’s work on OmniFocus [redacted] is brought to you by Archie Bell and the Drells. Tighten Up y’all. </p>\n",
 			"date_published": "2017-07-18T08:32:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/18/todays-work-on.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/16/out-of-its.html",
-	      	
-			"content_html": "<p>“Out of its collective sense of victimhood came the GOP’s disdain for not just intellectuals but also intellectualism, science, Economics 101, history and constitutional fidelity.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/14/the-gops-moral-rot-is-the-problem-not-donald-trump-jr/\">Jennifer Rubin</a></p>\n",
-			"date_published": "2017-07-15T17:41:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/15/out-of-its.html"
 		}
 		
 	]
