@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/28/but-can-we.html",
+	      	
+			"content_html": "<p>“But can we take a moment to consider the awfulness of Senator John McCain?” —<a href=\"https://www.nytimes.com/2017/07/27/opinion/columnists/trumpcare-republican-moderates.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
+			"date_published": "2017-07-27T21:01:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/27/but-can-we.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/26/it-is-a.html",
 	      	
 			"content_html": "<p>“It is a multitiered tower of political idiocy, a sublime monument to the moronic, a gaudy, gleaming, Ozymandian folly that leaves many of the president’s prior efforts in its shade.” —<a href=\"https://www.nytimes.com/2017/07/26/opinion/donald-trump-jeff-sessions.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Ross Douthat</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“Out of its collective sense of victimhood came the GOP’s disdain for not just intellectuals but also intellectualism, science, Economics 101, history and constitutional fidelity.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/14/the-gops-moral-rot-is-the-problem-not-donald-trump-jr/\">Jennifer Rubin</a></p>\n",
 			"date_published": "2017-07-15T17:41:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/15/out-of-its.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/15/i-lose-myself.html",
-	      	
-			"content_html": "<p>“I lose myself to the silences beyond noise and here I find myself rested in my working” —<a href=\"https://paulsellers.com/2017/07/midst-noise-silence/?pk_campaign=feed&amp;pk_kwd=midst-noise-silence\">Paul Sellers</a></p>\n",
-			"date_published": "2017-07-15T11:18:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/15/i-lose-myself.html"
 		}
 		
 	]
