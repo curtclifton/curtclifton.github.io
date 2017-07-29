@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/29/every-vote-cast.html",
+	      	
+			"content_html": "<p>“Every vote cast for Donald Trump was a vote for vulgarity. His supporters got exactly what they paid for.” —<a href=\"https://www.nytimes.com/2017/07/28/opinion/trump-vulgarity-scaramucci-conservatives.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Bret Stephens</a></p>\n",
+			"date_published": "2017-07-28T20:32:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/28/every-vote-cast.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/28/finally-mccains-actions.html",
 	      	
 			"content_html": "<p>Finally McCain’s actions match his rhetoric. <a href=\"https://www.nytimes.com/2017/07/27/us/politics/obamacare-partial-repeal-senate-republicans-revolt.html\">“Senate Rejects Slimmed Down Obamacare Repeal as McCain Votes No”</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“And if there is something bad, Mueller will find it. … In no scenario does Trump’s presidency recover.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/07/21/this-presidency-cant-be-saved-its-all-downhill-from-here/\">Jennifer Rubin</a></p>\n",
 			"date_published": "2017-07-21T20:42:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/21/and-if-there.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/18/todays-work-on.html",
-	      	
-			"content_html": "<p>Today’s work on OmniFocus [redacted] is brought to you by Archie Bell and the Drells. Tighten Up y’all. </p>\n",
-			"date_published": "2017-07-18T08:32:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/18/todays-work-on.html"
 		}
 		
 	]
