@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/30/the-lesson-that.html",
+	      	
+			"content_html": "<p>“the lesson that … conservatives appear to be teaching … is that power is more important than principle, … compromise is failure, and … that facts don’t matter.” —<a href=\"https://www.washingtonpost.com/news/grade-point/wp/2017/07/26/its-not-liberals-on-campus-crushing-republican-ideas-its-conservatives/\">Brian C. Rosenberg</a></p>\n",
+			"date_published": "2017-07-30T12:44:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/30/the-lesson-that.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/07/30/wealth-it-turns.html",
+	      	
+			"content_html": "<p>“Wealth, it turns out, leads to behavioral and psychological maladies. The rich act and think in misdirected ways.” —<a href=\"https://www.washingtonpost.com/outlook/being-rich-wrecks-your-soul-we-used-to-know-that/2017/07/28/7d3e2b90-5ab3-11e7-9fc6-c7ef4bc58d13_story.html\">Charles Matthewes and Evan Sandsmark</a></p>\n",
+			"date_published": "2017-07-30T12:35:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/30/wealth-it-turns.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/30/posted-swift-by.html",
 	      	
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/swift-by-northwest-plans\">Swift by Northwest Plans</a></p>\n\n<p><em>These are a Few of My Stateful Machines</em></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Hey, Seattle. If you haven’t pick a mayoral candidate, please consider Jessyn Farrell, a brilliant transit/density wonk who can get things done. Just six days left to vote!</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/f16bf50507.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-25T20:50:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/25/hey-seattle-if.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/25/its-a-beautiful.html",
-	      	
-			"content_html": "<p>It’s a beautiful night for a ballgame. Go Mariners. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/9783265e37.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-24T19:06:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/24/its-a-beautiful.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/23/under-a-monkey.html",
-	      	
-			"content_html": "<p>Under a monkey puzzle tree. /cc @tropicana_jones</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/978f3828a2.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-23T09:07:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/23/under-a-monkey.html"
 		}
 		
 	]
