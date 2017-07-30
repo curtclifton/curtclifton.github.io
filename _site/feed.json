@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/07/30/posted-swift-by.html",
+	      	
+			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/swift-by-northwest-plans\">Swift by Northwest Plans</a></p>\n\n<p><em>These are a Few of My Stateful Machines</em></p>\n",
+			"date_published": "2017-07-30T10:11:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/07/30/posted-swift-by.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/29/trump-is-the.html",
 	      	
 			"content_html": "<p>“Trump is the essence of the GOP, distilled down to its depraved and odious core. … Have no doubt: There are more horrors to come.” —<a href=\"https://www.washingtonpost.com/blogs/plum-line/wp/2017/07/28/this-is-what-you-get-when-you-elect-republicans/\">Paul Waldman</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Under a monkey puzzle tree. /cc @tropicana_jones</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/978f3828a2.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-23T09:07:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/23/under-a-monkey.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/22/our-ag-should.html",
-	      	
-			"content_html": "<p>Our AG should be hanged for treason. <a href=\"https://www.washingtonpost.com/world/national-security/sessions-discussed-trump-campaign-related-matters-with-russian-ambassador-us-intelligence-intercepts-show/2017/07/21/3e704692-6e44-11e7-9c15-177740635e83_story.html\">“Sessions … has provided ‘misleading’ statements that are ‘contradicted by other evidence.’”</a></p>\n",
-			"date_published": "2017-07-21T20:44:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/21/our-ag-should.html"
 		}
 		
 	]
