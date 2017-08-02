@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/02/and-so-that.html",
+	      	
+			"content_html": "<p>“And so, that unnerving silence in the face of an erratic executive branch is an abdication, and those in positions of leadership bear particular responsibility.” —<a href=\"http://www.politico.com/magazine/story/2017/07/31/my-party-is-in-denial-about-donald-trump-215442\">Sen. Jeff Flake–R, AZ</a></p>\n",
+			"date_published": "2017-08-01T19:00:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/01/and-so-that.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/07/30/the-lesson-that.html",
 	      	
 			"content_html": "<p>“the lesson that … conservatives appear to be teaching … is that power is more important than principle, … compromise is failure, and … that facts don’t matter.” —<a href=\"https://www.washingtonpost.com/news/grade-point/wp/2017/07/26/its-not-liberals-on-campus-crushing-republican-ideas-its-conservatives/\">Brian C. Rosenberg</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>In the end, McCain is reduced to merely an angry hypocrite. “[his] vote on Tuesday helped enable the broken process on health care that he came to the floor to decry” —<a href=\"https://www.washingtonpost.com/powerpost/were-getting-nothing-done-mccain-in-emotional-return-laments-what-the-senate-has-become/2017/07/25/54d1c812-715e-11e7-8f39-eeb7d3a2d304_story.html\">WaPo</a></p>\n",
 			"date_published": "2017-07-25T21:10:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/25/in-the-end.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/26/hey-seattle-if.html",
-	      	
-			"content_html": "<p>Hey, Seattle. If you haven’t pick a mayoral candidate, please consider Jessyn Farrell, a brilliant transit/density wonk who can get things done. Just six days left to vote!</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/f16bf50507.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-25T20:50:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/25/hey-seattle-if.html"
 		}
 		
 	]
