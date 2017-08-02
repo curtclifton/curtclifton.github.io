@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/02/what-but-some.html",
+	      	
+			"content_html": "<p>“What but some profound sense of inadequacy could explain the neediness and the nastiness, the pout and the pettiness, the vanity and the vulgarity, the anger and the aggression?” —<a href=\"https://www.nytimes.com/2017/08/01/opinion/goodbye-anthony-scaramucci.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Roger Cohen</a></p>\n",
+			"date_published": "2017-08-01T20:16:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/01/what-but-some.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/02/and-so-that.html",
 	      	
 			"content_html": "<p>“And so, that unnerving silence in the face of an erratic executive branch is an abdication, and those in positions of leadership bear particular responsibility.” —<a href=\"http://www.politico.com/magazine/story/2017/07/31/my-party-is-in-denial-about-donald-trump-215442\">Sen. Jeff Flake–R, AZ</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“It is a multitiered tower of political idiocy, a sublime monument to the moronic, a gaudy, gleaming, Ozymandian folly that leaves many of the president’s prior efforts in its shade.” —<a href=\"https://www.nytimes.com/2017/07/26/opinion/donald-trump-jeff-sessions.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Ross Douthat</a></p>\n",
 			"date_published": "2017-07-26T09:55:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/26/it-is-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/26/in-the-end.html",
-	      	
-			"content_html": "<p>In the end, McCain is reduced to merely an angry hypocrite. “[his] vote on Tuesday helped enable the broken process on health care that he came to the floor to decry” —<a href=\"https://www.washingtonpost.com/powerpost/were-getting-nothing-done-mccain-in-emotional-return-laments-what-the-senate-has-become/2017/07/25/54d1c812-715e-11e7-8f39-eeb7d3a2d304_story.html\">WaPo</a></p>\n",
-			"date_published": "2017-07-25T21:10:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/25/in-the-end.html"
 		}
 		
 	]
