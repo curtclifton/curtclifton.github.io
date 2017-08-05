@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/05/if-its-a.html",
+	      	
+			"content_html": "<p>“if it’s a witch hunt, there are an awful lot of people around the president who just happen to be wearing pointy hats” —<a href=\"https://www.washingtonpost.com/blogs/plum-line/wp/2017/08/04/the-russia-investigation-is-getting-serious-and-president-trump-is-feeling-the-heat/\">Paul Waldman</a></p>\n",
+			"date_published": "2017-08-04T19:09:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/04/if-its-a.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/08/05/without-the-lies.html",
+	      	
+			"content_html": "<p>“without the lies there would be virtually nothing for Trump to say and nothing left of his presidency” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/08/04/how-can-kelly-tell-trump-the-truth-when-his-entire-presidency-is-built-on-lies/\">Jennifer Rubin</a></p>\n",
+			"date_published": "2017-08-04T19:05:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/04/without-the-lies.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/02/so-the-line.html",
 	      	
 			"content_html": "<p>“So the line from the Trump team is essentially that they were trying to collude with the Russian government to help their campaign, but the attempt was unsuccessful.” —<a href=\"https://www.washingtonpost.com/blogs/plum-line/wp/2017/08/01/president-trump-is-now-directly-implicated-in-trying-to-cover-up-the-russia-scandal/\">Paul Waldman</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>“Every vote cast for Donald Trump was a vote for vulgarity. His supporters got exactly what they paid for.” —<a href=\"https://www.nytimes.com/2017/07/28/opinion/trump-vulgarity-scaramucci-conservatives.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Bret Stephens</a></p>\n",
 			"date_published": "2017-07-28T20:32:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/28/every-vote-cast.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/28/finally-mccains-actions.html",
-	      	
-			"content_html": "<p>Finally McCain’s actions match his rhetoric. <a href=\"https://www.nytimes.com/2017/07/27/us/politics/obamacare-partial-repeal-senate-republicans-revolt.html\">“Senate Rejects Slimmed Down Obamacare Repeal as McCain Votes No”</a></p>\n",
-			"date_published": "2017-07-27T23:03:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/27/finally-mccains-actions.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/28/but-can-we.html",
-	      	
-			"content_html": "<p>“But can we take a moment to consider the awfulness of Senator John McCain?” —<a href=\"https://www.nytimes.com/2017/07/27/opinion/columnists/trumpcare-republican-moderates.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
-			"date_published": "2017-07-27T21:01:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/27/but-can-we.html"
 		}
 		
 	]
