@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/06/coffee-shop-cold.html",
+	      	
+			"content_html": "<p>Coffee shop, cold brew, Jackson 5, and a weekly review with OmniFocus. Good morning.</p>\n",
+			"date_published": "2017-08-06T11:24:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/06/coffee-shop-cold.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/05/as-long-as.html",
 	      	
 			"content_html": "<p>“As long as these problems persist — a right marred by bigotry, a liberalism maddened by utopianism — it is hard to imagine a reasonable [immigration] deal.” —<a href=\"https://www.nytimes.com/2017/08/05/opinion/sunday/trump-immigration-compromise-douthat.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Ross Douthat</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/swift-by-northwest-plans\">Swift by Northwest Plans</a></p>\n\n<p><em>These are a Few of My Stateful Machines</em></p>\n",
 			"date_published": "2017-07-30T10:11:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/07/30/posted-swift-by.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/29/trump-is-the.html",
-	      	
-			"content_html": "<p>“Trump is the essence of the GOP, distilled down to its depraved and odious core. … Have no doubt: There are more horrors to come.” —<a href=\"https://www.washingtonpost.com/blogs/plum-line/wp/2017/07/28/this-is-what-you-get-when-you-elect-republicans/\">Paul Waldman</a></p>\n",
-			"date_published": "2017-07-28T21:41:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/28/trump-is-the.html"
 		}
 		
 	]
