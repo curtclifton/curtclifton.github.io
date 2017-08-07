@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/07/on-page-of.html",
+	      	
+			"content_html": "<p>On page <em>7</em> of the b5 release notes: “Building macOS apps with the AVFoundation framework is not supported with Xcode 9 beta 5.” JFC, good thing no one builds Mac apps anymore.</p>\n",
+			"date_published": "2017-08-07T10:44:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/07/on-page-of.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/06/north-seattle-friends.html",
 	      	
 			"content_html": "<p>North Seattle friends, the Northgate Pedestrian/Bike Bridge (over I-5) <a href=\"http://www.northgatebridge.infocommunity.org\">online open house</a> is open for feedback. Looks great!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“And so, that unnerving silence in the face of an erratic executive branch is an abdication, and those in positions of leadership bear particular responsibility.” —<a href=\"http://www.politico.com/magazine/story/2017/07/31/my-party-is-in-denial-about-donald-trump-215442\">Sen. Jeff Flake–R, AZ</a></p>\n",
 			"date_published": "2017-08-01T19:00:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/01/and-so-that.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/07/30/the-lesson-that.html",
-	      	
-			"content_html": "<p>“the lesson that … conservatives appear to be teaching … is that power is more important than principle, … compromise is failure, and … that facts don’t matter.” —<a href=\"https://www.washingtonpost.com/news/grade-point/wp/2017/07/26/its-not-liberals-on-campus-crushing-republican-ideas-its-conservatives/\">Brian C. Rosenberg</a></p>\n",
-			"date_published": "2017-07-30T12:44:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/07/30/the-lesson-that.html"
 		}
 		
 	]
