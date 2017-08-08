@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/08/i-think-ill.html",
+	      	
+			"content_html": "<p>I think I’ll like measuring screen real estate in m^2. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/608e4b0259.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-08-08T09:19:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/08/i-think-ill.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/08/08/if-the-gop.html",
+	      	
+			"content_html": "<p>“If the GOP cannot be recaptured from Trump and Trumpism, it should be discarded for in its current state it represents a threat to the republic.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/08/07/what-a-republican-anti-trump-agenda-should-look-like/\">Jennifer Rubin</a></p>\n",
+			"date_published": "2017-08-07T20:16:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/07/if-the-gop.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/08/when-you-compare.html",
 	      	
 			"content_html": "<p>“When you compare the U.S. social welfare system with those of other wealthy countries, what really stands out now is our neglect of children.” —<a href=\"https://www.nytimes.com/2017/08/07/opinion/healthcare-single-payer-children.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>“if it’s a witch hunt, there are an awful lot of people around the president who just happen to be wearing pointy hats” —<a href=\"https://www.washingtonpost.com/blogs/plum-line/wp/2017/08/04/the-russia-investigation-is-getting-serious-and-president-trump-is-feeling-the-heat/\">Paul Waldman</a></p>\n",
 			"date_published": "2017-08-04T19:09:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/04/if-its-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/05/without-the-lies.html",
-	      	
-			"content_html": "<p>“without the lies there would be virtually nothing for Trump to say and nothing left of his presidency” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/08/04/how-can-kelly-tell-trump-the-truth-when-his-entire-presidency-is-built-on-lies/\">Jennifer Rubin</a></p>\n",
-			"date_published": "2017-08-04T19:05:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/04/without-the-lies.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/02/so-the-line.html",
-	      	
-			"content_html": "<p>“So the line from the Trump team is essentially that they were trying to collude with the Russian government to help their campaign, but the attempt was unsuccessful.” —<a href=\"https://www.washingtonpost.com/blogs/plum-line/wp/2017/08/01/president-trump-is-now-directly-implicated-in-trying-to-cover-up-the-russia-scandal/\">Paul Waldman</a></p>\n",
-			"date_published": "2017-08-01T21:26:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/01/so-the-line.html"
 		}
 		
 	]
