@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/10/we-think-app.html",
+	      	
+			"content_html": "<p>“we think [app subscriptions] clearly are the way forward, at least for our kind of app: A complex, multi-platform productivity app.” <a href=\"https://medium.com/building-ulysses/why-were-switching-ulysses-to-subscription-47f80b07a9cd\">Max Seelemann, Ulysses</a></p>\n",
+			"date_published": "2017-08-10T10:20:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/10/we-think-app.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/10/a-city-ordinance.html",
 	      	
 			"content_html": "<p>“A city ordinance seeks to aid the homeless by effectively legalizing car-camping all over the city.” —<a href=\"http://www.seattletimes.com/seattle-news/politics/an-act-of-compassion-that-could-make-seattles-homeless-situation-worse/\">Danny Westneat</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Coffee shop, cold brew, Jackson 5, and a weekly review with OmniFocus. Good morning.</p>\n",
 			"date_published": "2017-08-06T11:24:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/06/coffee-shop-cold.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/05/as-long-as.html",
-	      	
-			"content_html": "<p>“As long as these problems persist — a right marred by bigotry, a liberalism maddened by utopianism — it is hard to imagine a reasonable [immigration] deal.” —<a href=\"https://www.nytimes.com/2017/08/05/opinion/sunday/trump-immigration-compromise-douthat.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Ross Douthat</a></p>\n",
-			"date_published": "2017-08-05T12:36:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/05/as-long-as.html"
 		}
 		
 	]
