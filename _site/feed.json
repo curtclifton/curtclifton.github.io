@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/12/the-gop-is.html",
+	      	
+			"content_html": "<p>“…the G.O.P. is completely united behind its project of destroying civilization, and it’s making good progress toward that goal.” —<a href=\"https://www.nytimes.com/2017/08/11/opinion/climate-science-denial.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
+			"date_published": "2017-08-11T19:35:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/11/the-gop-is.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/10/we-think-app.html",
 	      	
 			"content_html": "<p>“we think [app subscriptions] clearly are the way forward, at least for our kind of app: A complex, multi-platform productivity app.” <a href=\"https://medium.com/building-ulysses/why-were-switching-ulysses-to-subscription-47f80b07a9cd\">Max Seelemann, Ulysses</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Matchless Summer ESB and a 74th St. Red Reuben. Mariners double header on the TV. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/bcf8457502.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-08-06T13:10:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/06/matchless-summer-esb.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/06/coffee-shop-cold.html",
-	      	
-			"content_html": "<p>Coffee shop, cold brew, Jackson 5, and a weekly review with OmniFocus. Good morning.</p>\n",
-			"date_published": "2017-08-06T11:24:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/06/coffee-shop-cold.html"
 		}
 		
 	]
