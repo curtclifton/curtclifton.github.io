@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/14/loch-lomond-pear.html",
+	      	
+			"content_html": "<p>Loch Lomond 12. Pear, menthol, just a hint of smoke. Brilliant. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/18cf39a109.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-13T19:20:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/13/loch-lomond-pear.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/13/weve-now-erased.html",
 	      	
 			"content_html": "<p>“We’ve now erased the fictions that these monuments are about ‘Southern heritage.’ No, they are giant concrete shrines to white nationalism.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/08/12/enough-of-the-confederate-statues-the-alt-right-heroes-and-trumps-moral-idiocy/\">Jennifer Rubin</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I think I’ll like measuring screen real estate in m^2. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/608e4b0259.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-08-08T09:19:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/08/i-think-ill.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/08/if-the-gop.html",
-	      	
-			"content_html": "<p>“If the GOP cannot be recaptured from Trump and Trumpism, it should be discarded for in its current state it represents a threat to the republic.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/08/07/what-a-republican-anti-trump-agenda-should-look-like/\">Jennifer Rubin</a></p>\n",
-			"date_published": "2017-08-07T20:16:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/07/if-the-gop.html"
 		}
 		
 	]
