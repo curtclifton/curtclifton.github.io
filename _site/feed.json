@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/18/but-it-seems.html",
+	      	
+			"content_html": "<p>“But it seems like only when actual swastikas show up do [Republicans] say anything.” —<a href=\"http://inessential.com/2017/08/18/republicans_have_been_playing_with_racis\">Brent Simmons</a></p>\n",
+			"date_published": "2017-08-18T14:12:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/18/but-it-seems.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/08/18/it-is-not.html",
+	      	
+			"content_html": "<p>“it is not possible for a Cabinet officer or White House staffer to comfort himself or herself that ‘at least the president’s heart is good.’ … Trump has opened his own chest for all to see. And the cavity is horrifyingly empty.” —<a href=\"https://www.washingtonpost.com/opinions/there-is-a-shriveled-emptiness-where-trumps-soul-once-resided/2017/08/17/bb9edd22-8370-11e7-b359-15a3617c767b_story.html\">Michael Gerson</a></p>\n",
+			"date_published": "2017-08-17T23:08:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/17/it-is-not.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/18/the-views-fueling.html",
 	      	
 			"content_html": "<p>“The ‘views fueling the spectacle in Charlottesville’ have been meticulously seeded and nurtured by the Republican Party for decades.” —<a href=\"https://www.nytimes.com/2017/08/16/opinion/republicans-president-donald-trump.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Lindy West</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>“…we don’t need to wonder whether an anti-American cabal, hostile to everything we stand for,… has seized power in Washington. It has: it’s called the Trump administration.” —<a href=\"https://www.nytimes.com/2017/08/14/opinion/when-the-president-is-un-american.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
 			"date_published": "2017-08-14T10:38:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/14/we-dont-need.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/14/loch-lomond-pear.html",
-	      	
-			"content_html": "<p>Loch Lomond 12. Pear, menthol, just a hint of smoke. Brilliant. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/18cf39a109.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-08-13T19:20:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/13/loch-lomond-pear.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/13/weve-now-erased.html",
-	      	
-			"content_html": "<p>“We’ve now erased the fictions that these monuments are about ‘Southern heritage.’ No, they are giant concrete shrines to white nationalism.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/08/12/enough-of-the-confederate-statues-the-alt-right-heroes-and-trumps-moral-idiocy/\">Jennifer Rubin</a></p>\n",
-			"date_published": "2017-08-13T12:51:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/13/weve-now-erased.html"
 		}
 		
 	]
