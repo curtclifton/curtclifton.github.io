@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/18/rainier-from-spray.html",
+	      	
+			"content_html": "<p>Rainier from Spray Park. Perfect day for a hike. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/849b0061bd.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-08-17T20:01:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/17/rainier-from-spray.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/08/18/starting-our-th.html",
+	      	
+			"content_html": "<p>Starting our 26th year right (on Tolmie Peak, Mt. Rainier in the background)</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/efb01f8c08.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-17T19:53:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/17/starting-our-th.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/16/downtown-seattle-from.html",
 	      	
 			"content_html": "<p>Downtown Seattle from Gasworks Park. #</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/c8817239c5.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>“Republican fratricide, instigated by tea-party purity police, made Trump possible and left the GOP unable to govern. This is what Sanders’s people would emulate.” —<a href=\"https://www.washingtonpost.com/opinions/the-bernie-bros-and-sisters-are-coming-to-the-republicans-rescue/2017/08/11/caacbad0-7e9f-11e7-9d08-b79f191668ed_story.html\">Dana Milbank</a></p>\n",
 			"date_published": "2017-08-13T11:58:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/13/republican-fratricide-instigated.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/13/what-do-we.html",
-	      	
-			"content_html": "<p>“What do we do when he is incapable of outrage at outrageous things? What do we do with a president who provides barely veiled cover for the darkest instincts of the human heart?” —<a href=\"https://www.washingtonpost.com/opinions/trump-babbles-in-the-face-of-tragedy/2017/08/12/a27211ba-7fbb-11e7-9d08-b79f191668ed_story.html\">Michael Gerson</a></p>\n",
-			"date_published": "2017-08-13T11:53:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/13/what-do-we.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/13/why-are-any.html",
-	      	
-			"content_html": "<p>“why are any of us the least bit surprised that Trump’s devoted clan of white nationalists would be so emboldened as to brazenly emulate their klan forbears and take it to the streets?” —<a href=\"https://www.washingtonpost.com/blogs/post-partisan/wp/2017/08/12/the-charlottesville-attackers-put-trumps-words-into-action/\">Colby King</a></p>\n",
-			"date_published": "2017-08-13T11:50:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/13/why-are-any.html"
 		}
 		
 	]
