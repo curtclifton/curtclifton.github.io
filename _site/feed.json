@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/08/23/drinking-scotch-and.html",
+	      	
+			"content_html": "<p>Drinking scotch and reading about quantum theory. You?</p>\n",
+			"date_published": "2017-08-22T21:45:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/08/22/drinking-scotch-and.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/08/22/lack-of-principle.html",
 	      	
 			"content_html": "<p>“Lack of principle, however, has been par for the course for the vast number of politically active Christian conservatives who endorsed and defended Trump…” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/08/21/jerry-falwell-jr-and-other-religious-backers-of-trump-embarrass-themselves/\">Jennifer Rubin</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“But it seems like only when actual swastikas show up do [Republicans] say anything.” —<a href=\"http://inessential.com/2017/08/18/republicans_have_been_playing_with_racis\">Brent Simmons</a></p>\n",
 			"date_published": "2017-08-18T14:12:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/18/but-it-seems.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/18/it-is-not.html",
-	      	
-			"content_html": "<p>“it is not possible for a Cabinet officer or White House staffer to comfort himself or herself that ‘at least the president’s heart is good.’ … Trump has opened his own chest for all to see. And the cavity is horrifyingly empty.” —<a href=\"https://www.washingtonpost.com/opinions/there-is-a-shriveled-emptiness-where-trumps-soul-once-resided/2017/08/17/bb9edd22-8370-11e7-b359-15a3617c767b_story.html\">Michael Gerson</a></p>\n",
-			"date_published": "2017-08-17T23:08:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/17/it-is-not.html"
 		}
 		
 	]
