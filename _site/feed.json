@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/03/fourteen-mile-run.html",
+	      	
+			"content_html": "<p>Fourteen mile run, bloody mary, eggs benedict, two and a half hour nap. Day, uh, seized?</p>\n",
+			"date_published": "2017-09-02T17:17:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/02/fourteen-mile-run.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/01/twenty-five-years.html",
 	      	
 			"content_html": "<p><a href=\"https://www.omnigroup.com/anniversary\">Twenty five years ago today, OmniGroup.com was registered. Still doing our best to make great software.</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“Thus, systems of government are to be judged not for their prophetic ability to choose and install good leaders and policies, but for their ability to remove bad ones that are already there.”</p>\n\n<p><a href=\"https://itunes.apple.com/us/book/the-beginning-of-infinity/id451546463?mt=11\">The Beginning of Infinity, David Deutsch</a></p>\n",
 			"date_published": "2017-08-20T20:02:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/20/thus-systems-of.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/20/with-the-same.html",
-	      	
-			"content_html": "<p>“With the same spirit of those New Yorkers who toppled the statue of King George …, we should topple all monuments to the Confederacy.” —<a href=\"https://www.washingtonpost.com/opinions/go-ahead-topple-the-monuments-to-the-confederacy-all-of-them/2017/08/18/6b54c658-8427-11e7-ab27-1a21a8e006ab_story.html\">Bree Newsome</a></p>\n",
-			"date_published": "2017-08-19T21:04:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/19/with-the-same.html"
 		}
 		
 	]
