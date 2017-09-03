@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/03/185847.html",
+	      	
+			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/terminal-palettes\">Terminal Palettes</a></p>\n\n<p>“With a three part solution — AppleScript, shell script, and a zsh hook — my Terminal palette now updates whenever I switch between source directories. Yours can too.“</p>\n",
+			"date_published": "2017-09-03T11:58:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/03/185847.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/09/03/coffee-and-procrasticoding.html",
+	      	
+			"content_html": "<p>Coffee and procrasti-coding. </p>\n",
+			"date_published": "2017-09-03T09:15:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/03/coffee-and-procrasticoding.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/03/fourteen-mile-run.html",
 	      	
 			"content_html": "<p>Fourteen mile run, bloody mary, eggs benedict, two and a half hour nap. Day, uh, seized?</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Drinking scotch and reading about quantum theory. You?</p>\n",
 			"date_published": "2017-08-22T21:45:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/22/drinking-scotch-and.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/22/lack-of-principle.html",
-	      	
-			"content_html": "<p>“Lack of principle, however, has been par for the course for the vast number of politically active Christian conservatives who endorsed and defended Trump…” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/08/21/jerry-falwell-jr-and-other-religious-backers-of-trump-embarrass-themselves/\">Jennifer Rubin</a></p>\n",
-			"date_published": "2017-08-22T07:20:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/22/lack-of-principle.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/21/thus-systems-of.html",
-	      	
-			"content_html": "<p>“Thus, systems of government are to be judged not for their prophetic ability to choose and install good leaders and policies, but for their ability to remove bad ones that are already there.”</p>\n\n<p><a href=\"https://itunes.apple.com/us/book/the-beginning-of-infinity/id451546463?mt=11\">The Beginning of Infinity, David Deutsch</a></p>\n",
-			"date_published": "2017-08-20T20:02:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/20/thus-systems-of.html"
 		}
 		
 	]
