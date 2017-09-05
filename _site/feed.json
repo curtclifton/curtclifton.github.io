@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/05/success-i-figured.html",
+	      	
+			"content_html": "<p>Success. I figured out how to work <a href=\"https://itunes.apple.com/us/album/narwhals/id923071611?i=923071649\">the Narwhal song</a> into my Swift by Northwest talk. Because they are so awesome.</p>\n",
+			"date_published": "2017-09-04T18:37:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/04/success-i-figured.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/09/03/principled-liberals-and.html",
+	      	
+			"content_html": "<p>“Principled liberals and conservatives need to wake up to this peril. The solid center that has defined American politics for generations is under assault by empowered radicals on both sides.” —<a href=\"https://www.washingtonpost.com/opinions/liberals-and-conservatives-must-stand-together-against-the-extremes/2017/09/01/14410c90-8f36-11e7-8df5-c2e5cf46c1e2_story.html\">David Von Drehle</a></p>\n",
+			"date_published": "2017-09-03T12:43:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/03/principled-liberals-and.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/03/185847.html",
 	      	
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/terminal-palettes\">Terminal Palettes</a></p>\n\n<p>“With a three part solution — AppleScript, shell script, and a zsh hook — my Terminal palette now updates whenever I switch between source directories. Yours can too.“</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>“For Trump to pardon him [is] an assault on the federal judiciary, the Constitution and the rule of law itself. … it [is] an impeachable offense” —<a href=\"https://www.bloomberg.com/view/articles/2017-08-23/arpaio-pardon-would-show-contempt-for-constitution\">Noah Feldman</a></p>\n",
 			"date_published": "2017-08-26T15:47:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/26/for-trump-to.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/26/one-day-trump.html",
-	      	
-			"content_html": "<p>“One day, Trump will do something really awful. And on that day, I will also draft a very stern letter, which I will place into a drawer and not send.” —<a href=\"https://www.washingtonpost.com/blogs/compost/wp/2017/08/25/my-letter-of-not-quite-resignation-from-the-trump-white-house/\">Alexandra Petri, channeling Gary Cohn</a></p>\n",
-			"date_published": "2017-08-26T13:02:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/26/one-day-trump.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/23/drinking-scotch-and.html",
-	      	
-			"content_html": "<p>Drinking scotch and reading about quantum theory. You?</p>\n",
-			"date_published": "2017-08-22T21:45:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/22/drinking-scotch-and.html"
 		}
 		
 	]
