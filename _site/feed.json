@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/07/what-this-means.html",
+	      	
+			"content_html": "<p>“What this means is that even more than it is in the advertising business, Facebook is in the surveillance business. … It knows far, far more about you than the most intrusive government has ever known about its citizens.” <a href=\"https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product\">John Lanchester, London Review of Books</a></p>\n",
+			"date_published": "2017-09-06T21:41:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/06/what-this-means.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/05/success-i-figured.html",
 	      	
 			"content_html": "<p>Success. I figured out how to work <a href=\"https://itunes.apple.com/us/album/narwhals/id923071611?i=923071649\">the Narwhal song</a> into my Swift by Northwest talk. Because they are so awesome.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“there’s a word for people who round up members of ethnic minorities and send them to concentration camps… There’s also a word for people who, out of cowardice or self-interest, go along with such abuses” —<a href=\"https://www.nytimes.com/2017/08/28/opinion/fascism-arpaio-pardon-trump.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
 			"date_published": "2017-08-28T19:38:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/28/theres-a-word.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/26/for-trump-to.html",
-	      	
-			"content_html": "<p>“For Trump to pardon him [is] an assault on the federal judiciary, the Constitution and the rule of law itself. … it [is] an impeachable offense” —<a href=\"https://www.bloomberg.com/view/articles/2017-08-23/arpaio-pardon-would-show-contempt-for-constitution\">Noah Feldman</a></p>\n",
-			"date_published": "2017-08-26T15:47:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/26/for-trump-to.html"
 		}
 		
 	]
