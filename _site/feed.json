@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/09/omni-group-feature.html",
+	      	
+			"content_html": "<p><a href=\"https://itunes.apple.com/us/story/id1278393779\">Omni Group feature article in the new iOS 11 App Store.</a> Nice. </p>\n",
+			"date_published": "2017-09-09T07:46:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/09/omni-group-feature.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/09/the-truth-is.html",
 	      	
 			"content_html": "<p>“The truth is that letting the Dreamers work legally helps the U.S. economy; pushing them out or into the shadows is bad for everyone except racists.” —<a href=\"https://www.nytimes.com/2017/09/08/opinion/dreamers-liars-and-bad-economics.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Beautiful, poignant, convicting. <a href=\"https://overcast.fm/+DAQdzvUhttps://overcast.fm/+DAQdzvU\">99% Invisible: 273- Notes on an Imagined Plaque</a></p>\n",
 			"date_published": "2017-08-31T07:47:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/08/31/beautiful-poignant-convicting.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/29/swift-by-northwest.html",
-	      	
-			"content_html": "<p><a href=\"http://curtclifton.net/swift-by-northwest-schedule-posted\">Swift by Northwest Schedule Posted</a> If you register this week, you can still get the early-bird discount! Hope to see you there.</p>\n",
-			"date_published": "2017-08-28T20:24:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/28/swift-by-northwest.html"
 		}
 		
 	]
