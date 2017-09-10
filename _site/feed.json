@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/10/cranking-the-dad.html",
+	      	
+			"content_html": "<p>Cranking the dad rock while working on my Swift×Northwest talk. Accidentally made a mash up of Free Bird and Narwhals. Pretty great, really.</p>\n",
+			"date_published": "2017-09-09T21:10:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/09/cranking-the-dad.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/09/omni-group-feature.html",
 	      	
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/story/id1278393779\">Omni Group feature article in the new iOS 11 App Store.</a> Nice. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://www.omnigroup.com/anniversary\">Twenty five years ago today, OmniGroup.com was registered. Still doing our best to make great software.</a></p>\n",
 			"date_published": "2017-09-01T10:57:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/09/01/twenty-five-years.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/08/31/beautiful-poignant-convicting.html",
-	      	
-			"content_html": "<p>Beautiful, poignant, convicting. <a href=\"https://overcast.fm/+DAQdzvUhttps://overcast.fm/+DAQdzvU\">99% Invisible: 273- Notes on an Imagined Plaque</a></p>\n",
-			"date_published": "2017-08-31T07:47:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/08/31/beautiful-poignant-convicting.html"
 		}
 		
 	]
