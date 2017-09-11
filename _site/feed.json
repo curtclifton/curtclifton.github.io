@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/11/the-bottom-line.html",
+	      	
+			"content_html": "<p>“The bottom line is that we are now ruled by people who are completely alienated not just from the scientific community, but from the scientific idea… And this willful ignorance is deeply frightening. Indeed, it may end up destroying civilization.” —<a href=\"https://www.nytimes.com/2017/09/11/opinion/columnists/climate-rush-limbaugh-hurricanes.html\">Paul Krugman</a></p>\n",
+			"date_published": "2017-09-11T08:23:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/11/the-bottom-line.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/10/k-pr-beat.html",
 	      	
 			"content_html": "<p>5k PR, beat my bucket list goal time, and won the age group (in a very small field). Good way to spend a morning. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/ff31b8d74c.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Coffee and procrasti-coding. </p>\n",
 			"date_published": "2017-09-03T09:15:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/09/03/coffee-and-procrasticoding.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/03/fourteen-mile-run.html",
-	      	
-			"content_html": "<p>Fourteen mile run, bloody mary, eggs benedict, two and a half hour nap. Day, uh, seized?</p>\n",
-			"date_published": "2017-09-02T17:17:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/09/02/fourteen-mile-run.html"
 		}
 		
 	]
