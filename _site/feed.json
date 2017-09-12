@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/12/i-was-better.html",
+	      	
+			"content_html": "<p>I was better off before I knew that <a href=\"https://www.toolsforworkingwood.com/store/dept/TP/item/MS-CLIFBLOCK.XX\">this</a> existed. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/499bdf7eb7.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2017-09-11T20:27:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/11/i-was-better.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/11/the-bottom-line.html",
 	      	
 			"content_html": "<p>“The bottom line is that we are now ruled by people who are completely alienated not just from the scientific community, but from the scientific idea… And this willful ignorance is deeply frightening. Indeed, it may end up destroying civilization.” —<a href=\"https://www.nytimes.com/2017/09/11/opinion/columnists/climate-rush-limbaugh-hurricanes.html\">Paul Krugman</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/terminal-palettes\">Terminal Palettes</a></p>\n\n<p>“With a three part solution — AppleScript, shell script, and a zsh hook — my Terminal palette now updates whenever I switch between source directories. Yours can too.“</p>\n",
 			"date_published": "2017-09-03T11:58:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/09/03/185847.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/03/coffee-and-procrasticoding.html",
-	      	
-			"content_html": "<p>Coffee and procrasti-coding. </p>\n",
-			"date_published": "2017-09-03T09:15:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/09/03/coffee-and-procrasticoding.html"
 		}
 		
 	]
