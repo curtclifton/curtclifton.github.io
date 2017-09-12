@@ -4,8 +4,19 @@
     <title>Curt Clifton</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/curt&quot;&gt;@curt on Micro.blog&lt;/a&gt;.</description>
     <link>http://microblog.curtclifton.net/</link>
-    <pubDate>Mon, 11 Sep 2017 08:23:12 -0700</pubDate>
-    <lastBuildDate>Mon, 11 Sep 2017 08:23:12 -0700</lastBuildDate>
+    <pubDate>Mon, 11 Sep 2017 20:27:29 -0700</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2017 20:27:29 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I was better off before I knew that &lt;a href=&quot;https://www.toolsforworkingwood.com/store/dept/TP/item/MS-CLIFBLOCK.XX&quot;&gt;this&lt;/a&gt; existed. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://microblog.curtclifton.net/uploads/2017/499bdf7eb7.jpg&quot; width=&quot;600&quot; height=&quot;598&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2017 20:27:00 -0700</pubDate>
+        <link>http://microblog.curtclifton.net/2017/09/11/i-was-better.html</link>
+        <guid isPermaLink="true">http://curt.micro.blog/2017/09/12/i-was-better.html</guid>
+      </item>
     
       <item>
       	
@@ -466,15 +477,6 @@
         <pubDate>Mon, 07 Aug 2017 13:44:00 -0700</pubDate>
         <link>http://microblog.curtclifton.net/2017/08/07/avfoundation-workaround-in.html</link>
         <guid isPermaLink="true">http://curt.micro.blog/2017/08/07/avfoundation-workaround-in.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;On page &lt;em&gt;7&lt;/em&gt; of the b5 release notes: “Building macOS apps with the AVFoundation framework is not supported with Xcode 9 beta 5.” JFC, good thing no one builds Mac apps anymore.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Aug 2017 10:44:00 -0700</pubDate>
-        <link>http://microblog.curtclifton.net/2017/08/07/on-page-of.html</link>
-        <guid isPermaLink="true">http://curt.micro.blog/2017/08/07/on-page-of.html</guid>
       </item>
     
   </channel>
