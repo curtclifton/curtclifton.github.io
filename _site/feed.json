@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/25/on-top-of.html",
+	      	
+			"content_html": "<p>On top of Poe Mountain in the Glacier Peak Wilderness. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/182151a1ea.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-24T21:27:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/24/on-top-of.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/16/but-what-if.html",
 	      	
 			"content_html": "<p>“But what if rigid support for single-payer…becomes a litmus test? … Democrats could eventually find themselves facing a Trumpcare-type debacle, unable either to implement their unrealistic vision or to let it go.” —<a href=\"https://www.nytimes.com/2017/09/15/opinion/politicians-promises-and-getting-real.html\">Paul Krugman</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Success. I figured out how to work <a href=\"https://itunes.apple.com/us/album/narwhals/id923071611?i=923071649\">the Narwhal song</a> into my Swift by Northwest talk. Because they are so awesome.</p>\n",
 			"date_published": "2017-09-04T18:37:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/09/04/success-i-figured.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/03/principled-liberals-and.html",
-	      	
-			"content_html": "<p>“Principled liberals and conservatives need to wake up to this peril. The solid center that has defined American politics for generations is under assault by empowered radicals on both sides.” —<a href=\"https://www.washingtonpost.com/opinions/liberals-and-conservatives-must-stand-together-against-the-extremes/2017/09/01/14410c90-8f36-11e7-8df5-c2e5cf46c1e2_story.html\">David Von Drehle</a></p>\n",
-			"date_published": "2017-09-03T12:43:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/09/03/principled-liberals-and.html"
 		}
 		
 	]
