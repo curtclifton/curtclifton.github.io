@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/26/marina-from-sunset.html",
+	      	
+			"content_html": "<p>Marina from Sunset Hill at dawn. There are some benefits to not being able to sleep. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/a96f2b864b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-26T07:39:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/26/marina-from-sunset.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/26/the-bottom-line.html",
 	      	
 			"content_html": "<p>“The bottom line is that the bill for cynicism seems to be coming due. For years, flat-out lies about policy served Republicans well… But those same lies now leave them unable to govern.” —<a href=\"https://www.nytimes.com/2017/09/25/opinion/columnists/republican-lies-krugman.html\">Paul Krugman</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/story/id1278393779\">Omni Group feature article in the new iOS 11 App Store.</a> Nice. </p>\n",
 			"date_published": "2017-09-09T07:46:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/09/09/omni-group-feature.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/09/the-truth-is.html",
-	      	
-			"content_html": "<p>“The truth is that letting the Dreamers work legally helps the U.S. economy; pushing them out or into the shadows is bad for everyone except racists.” —<a href=\"https://www.nytimes.com/2017/09/08/opinion/dreamers-liars-and-bad-economics.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
-			"date_published": "2017-09-08T20:19:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/09/08/the-truth-is.html"
 		}
 		
 	]
