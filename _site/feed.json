@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/09/26/the-bottom-line.html",
+	      	
+			"content_html": "<p>“The bottom line is that the bill for cynicism seems to be coming due. For years, flat-out lies about policy served Republicans well… But those same lies now leave them unable to govern.” —<a href=\"https://www.nytimes.com/2017/09/25/opinion/columnists/republican-lies-krugman.html\">Paul Krugman</a></p>\n",
+			"date_published": "2017-09-25T21:33:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/25/the-bottom-line.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/09/26/america-is-now.html",
+	      	
+			"content_html": "<p>“America is now two countries, eyeing each other across a chasm of distrust and contempt. One is urban, diverse and outward-looking. This is the America that’s growing. The other is white, provincial and culturally revanchist. This is the America that’s in charge.” —<a href=\"https://www.nytimes.com/2017/09/25/opinion/trump-electoral-college-minority.html\">Michelle Goldberg</a></p>\n",
+			"date_published": "2017-09-25T21:23:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/09/25/america-is-now.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/25/on-top-of.html",
 	      	
 			"content_html": "<p>On top of Poe Mountain in the Glacier Peak Wilderness. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/182151a1ea.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>“The truth is that letting the Dreamers work legally helps the U.S. economy; pushing them out or into the shadows is bad for everyone except racists.” —<a href=\"https://www.nytimes.com/2017/09/08/opinion/dreamers-liars-and-bad-economics.html?smprod=nytcore-ipad&amp;smid=nytcore-ipad-share\">Paul Krugman</a></p>\n",
 			"date_published": "2017-09-08T20:19:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/09/08/the-truth-is.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/07/what-this-means.html",
-	      	
-			"content_html": "<p>“What this means is that even more than it is in the advertising business, Facebook is in the surveillance business. … It knows far, far more about you than the most intrusive government has ever known about its citizens.” <a href=\"https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product\">John Lanchester, London Review of Books</a></p>\n",
-			"date_published": "2017-09-06T21:41:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/09/06/what-this-means.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/05/success-i-figured.html",
-	      	
-			"content_html": "<p>Success. I figured out how to work <a href=\"https://itunes.apple.com/us/album/narwhals/id923071611?i=923071649\">the Narwhal song</a> into my Swift by Northwest talk. Because they are so awesome.</p>\n",
-			"date_published": "2017-09-04T18:37:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/09/04/success-i-figured.html"
 		}
 		
 	]
