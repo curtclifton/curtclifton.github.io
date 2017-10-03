@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/03/oh-if-the.html",
+	      	
+			"content_html": "<p>OH: If the gummi bears are made of the wrong stuff you don’t need to use a chain saw. </p>\n",
+			"date_published": "2017-10-03T10:00:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/03/oh-if-the.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/09/30/accidental-nine-run.html",
 	      	
 			"content_html": "<p>Accidental nine run nap. Go Cubs Go!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“But what if rigid support for single-payer…becomes a litmus test? … Democrats could eventually find themselves facing a Trumpcare-type debacle, unable either to implement their unrealistic vision or to let it go.” —<a href=\"https://www.nytimes.com/2017/09/15/opinion/politicians-promises-and-getting-real.html\">Paul Krugman</a></p>\n",
 			"date_published": "2017-09-15T21:23:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/09/15/but-what-if.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/12/i-was-better.html",
-	      	
-			"content_html": "<p>I was better off before I knew that <a href=\"https://www.toolsforworkingwood.com/store/dept/TP/item/MS-CLIFBLOCK.XX\">this</a> existed. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/499bdf7eb7.jpg\" width=\"600\" height=\"598\" /></p>\n",
-			"date_published": "2017-09-11T20:27:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/09/11/i-was-better.html"
 		}
 		
 	]
