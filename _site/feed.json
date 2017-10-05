@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/05/on-board.html",
+	      	
+			"content_html": "<p>On board. 🛫🛬🌴</p>\n",
+			"date_published": "2017-10-05T11:41:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/05/on-board.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/03/oh-if-the.html",
 	      	
 			"content_html": "<p>OH: If the gummi bears are made of the wrong stuff you don’t need to use a chain saw. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>On top of Poe Mountain in the Glacier Peak Wilderness. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/182151a1ea.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-24T21:27:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/09/24/on-top-of.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/16/but-what-if.html",
-	      	
-			"content_html": "<p>“But what if rigid support for single-payer…becomes a litmus test? … Democrats could eventually find themselves facing a Trumpcare-type debacle, unable either to implement their unrealistic vision or to let it go.” —<a href=\"https://www.nytimes.com/2017/09/15/opinion/politicians-promises-and-getting-real.html\">Paul Krugman</a></p>\n",
-			"date_published": "2017-09-15T21:23:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/09/15/but-what-if.html"
 		}
 		
 	]
