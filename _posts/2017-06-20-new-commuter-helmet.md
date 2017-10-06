@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-20 08:27 -0700
+date: 2017-06-20 05:27 -1000
 guid: http://curt.micro.blog/2017/06/20/new-commuter-helmet.html
 ---
 New commuter helmet. Safety first, Vern. 
