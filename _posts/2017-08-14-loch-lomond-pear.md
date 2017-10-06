@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-13 19:20 -0700
+date: 2017-08-13 16:20 -1000
 guid: http://curt.micro.blog/2017/08/14/loch-lomond-pear.html
 ---
 Loch Lomond 12. Pear, menthol, just a hint of smoke. Brilliant. 
