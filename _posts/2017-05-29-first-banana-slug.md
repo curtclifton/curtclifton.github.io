@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-28 18:05 -0700
+date: 2017-05-28 15:05 -1000
 guid: http://curt.micro.blog/2017/05/29/first-banana-slug.html
 ---
 First banana slug of the hiking season says, “Hello.”
