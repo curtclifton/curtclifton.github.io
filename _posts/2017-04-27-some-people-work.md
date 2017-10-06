@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-04-27 09:44 -0700
+date: 2017-04-27 06:44 -1000
 guid: http://curt.micro.blog/2017/04/27/some-people-work.html
 ---
 Some people work from home. At the @omnigroup I vacation from office. /cc @fet
