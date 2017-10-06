@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-01 16:53 -0700
+date: 2017-07-01 13:53 -1000
 guid: http://curt.micro.blog/2017/07/01/beer-in-the.html
 ---
 Beer in the sunshine at Chuck's. Doing Seattle summer right. 
