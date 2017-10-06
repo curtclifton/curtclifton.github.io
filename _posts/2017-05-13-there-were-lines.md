@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-12 20:48 -0700
+date: 2017-05-12 17:48 -1000
 guid: http://curt.micro.blog/2017/05/13/there-were-lines.html
 ---
 “There were 10283 lines of changes, so I'm not showing them.”
