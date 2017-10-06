@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-26 10:35 -0700
+date: 2017-05-26 07:35 -1000
 guid: http://curt.micro.blog/2017/05/26/its-a-perfect.html
 ---
 It's a perfect Seattle day. (Center for Wooden Boats, Museum of History and Industry)
