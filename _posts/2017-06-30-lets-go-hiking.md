@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-30 09:36 -0700
+date: 2017-06-30 06:36 -1000
 guid: http://curt.micro.blog/2017/06/30/lets-go-hiking.html
 ---
 Let's go hiking! 
