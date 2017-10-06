@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-24 19:06 -0700
+date: 2017-07-24 16:06 -1000
 guid: http://curt.micro.blog/2017/07/25/its-a-beautiful.html
 ---
 It's a beautiful night for a ballgame. Go Mariners. 
