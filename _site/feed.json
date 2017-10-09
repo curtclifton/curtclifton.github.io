@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/09/outside-the-ritzcarlton.html",
+	      	
+			"content_html": "<p>Outside the Ritz-Carlton Kapalua. The lizard was staying there, but we weren’t. </p>\n",
+			"date_published": "2017-10-08T15:55:00-10:00",
+			"url": "http://microblog.curtclifton.net/2017/10/08/outside-the-ritzcarlton.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/10/07/discovered-a-new.html",
+	      	
+			"content_html": "<p>Discovered a new item for my bucket list at the same time I checked it off today:</p>\n\n<p>☑️ Swim with sea turtles </p>\n",
+			"date_published": "2017-10-07T12:15:00-10:00",
+			"url": "http://microblog.curtclifton.net/2017/10/07/discovered-a-new.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/06/lying-on-kapalua.html",
 	      	
 			"content_html": "<p>Lying on Kapalua Bay Beach, listening to the waves, and watching the clouds build on Molokai. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/23828257ea.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>And then company engineering chat becomes a discussion of how to implement NSDate comparisons in relativistic reference frames. 🚀</p>\n",
 			"date_published": "2017-09-26T08:01:00-10:00",
 			"url": "http://microblog.curtclifton.net/2017/09/26/and-then-company.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/26/marina-from-sunset.html",
-	      	
-			"content_html": "<p>Marina from Sunset Hill at dawn. There are some benefits to not being able to sleep. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/a96f2b864b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-26T04:39:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/09/26/marina-from-sunset.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/26/the-bottom-line.html",
-	      	
-			"content_html": "<p>“The bottom line is that the bill for cynicism seems to be coming due. For years, flat-out lies about policy served Republicans well… But those same lies now leave them unable to govern.” —<a href=\"https://www.nytimes.com/2017/09/25/opinion/columnists/republican-lies-krugman.html\">Paul Krugman</a></p>\n",
-			"date_published": "2017-09-25T18:33:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/09/25/the-bottom-line.html"
 		}
 		
 	]
