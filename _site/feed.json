@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/10/casual-friday-at.html",
+	      	
+			"content_html": "<p>Casual Friday at the office</p>\n\n<ul>\n  <li>\n    <p>not actually Friday</p>\n  </li>\n  <li>\n    <p>not actually the office</p>\n  </li>\n</ul>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/85e7713327.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-10-10T08:55:00-10:00",
+			"url": "http://microblog.curtclifton.net/2017/10/10/casual-friday-at.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/10/its-the-eye.html",
 	      	
 			"content_html": "<p>It’s the eye of the lizard, it’s the thrill of the fight…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/15c7987f38.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>On board. 🛫🛬🌴</p>\n",
 			"date_published": "2017-10-05T08:41:00-10:00",
 			"url": "http://microblog.curtclifton.net/2017/10/05/on-board.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/03/oh-if-the.html",
-	      	
-			"content_html": "<p>OH: If the gummi bears are made of the wrong stuff you don’t need to use a chain saw. </p>\n",
-			"date_published": "2017-10-03T07:00:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/10/03/oh-if-the.html"
 		}
 		
 	]
