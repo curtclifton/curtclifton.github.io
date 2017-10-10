@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/10/word-to-the.html",
+	      	
+			"content_html": "<p>Word to the wise…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/71dd36651a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-09T19:38:00-10:00",
+			"url": "http://microblog.curtclifton.net/2017/10/09/word-to-the.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/09/the-road-to.html",
 	      	
 			"content_html": "<p>The Road to Hana is paved with good banana bread.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“Their specialty is the communication of rage to an audience prone to histrionics. It can feel awfully good to be awfully mad.” —<a href=\"https://www.nytimes.com/2017/09/29/opinion/impotence-anger-republicans.html\">Bret Stephens</a></p>\n",
 			"date_published": "2017-09-30T05:59:00-10:00",
 			"url": "http://microblog.curtclifton.net/2017/09/30/their-specialty-is.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/28/its-a-beautiful.html",
-	      	
-			"content_html": "<p>It’s a beautiful morning to celebrate another NL Central championship. Go Cubs Go!</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/34bf4bc569.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-28T05:08:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/09/28/its-a-beautiful.html"
 		}
 		
 	]
