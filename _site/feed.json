@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/10/at-puaa-kaa.html",
+	      	
+			"content_html": "<p>At Pua’a Ka’a State Park outside Hana, Hawai’i. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/f78eee5879.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-09T22:38:00-10:00",
+			"url": "http://microblog.curtclifton.net/2017/10/09/at-puaa-kaa.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/10/word-to-the.html",
 	      	
 			"content_html": "<p>Word to the wise…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/71dd36651a.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Accidental nine run nap. Go Cubs Go!</p>\n",
 			"date_published": "2017-09-30T13:01:00-10:00",
 			"url": "http://microblog.curtclifton.net/2017/09/30/accidental-nine-run.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/09/30/their-specialty-is.html",
-	      	
-			"content_html": "<p>“Their specialty is the communication of rage to an audience prone to histrionics. It can feel awfully good to be awfully mad.” —<a href=\"https://www.nytimes.com/2017/09/29/opinion/impotence-anger-republicans.html\">Bret Stephens</a></p>\n",
-			"date_published": "2017-09-30T05:59:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/09/30/their-specialty-is.html"
 		}
 		
 	]
