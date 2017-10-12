@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/12/palm-trees-over.html",
+	      	
+			"content_html": "<p>Palm trees over Napili Beach…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/ad269b42ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-12T08:08:00-10:00",
+			"url": "http://microblog.curtclifton.net/2017/10/12/palm-trees-over.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/12/on-the-shifting.html",
 	      	
 			"content_html": "<p>On the Shifting Sands Trail into Haleakalā Crater…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/1a7e0d182a.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The Road to Hana is paved with good banana bread.</p>\n",
 			"date_published": "2017-10-09T06:22:00-10:00",
 			"url": "http://microblog.curtclifton.net/2017/10/09/the-road-to.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/09/outside-the-ritzcarlton.html",
-	      	
-			"content_html": "<p>Outside the Ritz-Carlton Kapalua. The lizard was staying there, but we weren’t. </p>\n",
-			"date_published": "2017-10-08T15:55:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/10/08/outside-the-ritzcarlton.html"
 		}
 		
 	]
