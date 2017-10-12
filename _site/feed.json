@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/12/on-the-shifting.html",
+	      	
+			"content_html": "<p>On the Shifting Sands Trail into Haleakalā Crater…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/1a7e0d182a.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-10-11T19:08:00-10:00",
+			"url": "http://microblog.curtclifton.net/2017/10/11/on-the-shifting.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/11/nice-spot-for.html",
 	      	
 			"content_html": "<p>Nice spot for breakfast. The view from the patio of our VRBO…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/7417cdb0f4.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Outside the Ritz-Carlton Kapalua. The lizard was staying there, but we weren’t. </p>\n",
 			"date_published": "2017-10-08T15:55:00-10:00",
 			"url": "http://microblog.curtclifton.net/2017/10/08/outside-the-ritzcarlton.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/07/discovered-a-new.html",
-	      	
-			"content_html": "<p>Discovered a new item for my bucket list at the same time I checked it off today:</p>\n\n<p>☑️ Swim with sea turtles </p>\n",
-			"date_published": "2017-10-07T12:15:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/10/07/discovered-a-new.html"
 		}
 		
 	]
