@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/15/some-decisions-are.html",
+	      	
+			"content_html": "<p>Some decisions are agonizing…</p>\n\n<p>World Champions sweatshirt or home jersey?</p>\n\n<p>Go Cubs Go!</p>\n",
+			"date_published": "2017-10-14T17:19:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/14/some-decisions-are.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/13/on-board.html",
 	      	
 			"content_html": "<p>On board. 🌴🛫🛬🌧</p>\n",
-			"date_published": "2017-10-12T20:05:00-10:00",
+			"date_published": "2017-10-12T23:05:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/12/on-board.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://curt.micro.blog/2017/10/12/palm-trees-over.html",
 	      	
 			"content_html": "<p>Palm trees over Napili Beach…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/ad269b42ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-12T08:08:00-10:00",
+			"date_published": "2017-10-12T11:08:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/12/palm-trees-over.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://curt.micro.blog/2017/10/12/on-the-shifting.html",
 	      	
 			"content_html": "<p>On the Shifting Sands Trail into Haleakalā Crater…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/1a7e0d182a.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2017-10-11T19:08:00-10:00",
+			"date_published": "2017-10-11T22:08:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/11/on-the-shifting.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://curt.micro.blog/2017/10/11/nice-spot-for.html",
 	      	
 			"content_html": "<p>Nice spot for breakfast. The view from the patio of our VRBO…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/7417cdb0f4.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-11T06:53:00-10:00",
+			"date_published": "2017-10-11T09:53:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/11/nice-spot-for.html"
 		},
 		
@@ -41,15 +49,15 @@
 			"id": "http://curt.micro.blog/2017/10/11/its-not-all.html",
 	      	
 			"content_html": "<p>It’s not all sunshine and orchids in paradise. Somebody cut the fuel fill line on our rental and siphoned our gas while we were parked at the beach. Avis sent a truck to tow the Jeep and us back to the airport to get a replacement. The tow truck driver, John, was great though.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/c819a5cc00.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-10T21:20:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/10/10/its-not-all.html"
+			"date_published": "2017-10-11T00:20:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/11/its-not-all.html"
 		},
 		
 		{
 			"id": "http://curt.micro.blog/2017/10/10/if-the-deranged.html",
 	      	
 			"content_html": "<p>If the deranged coconut trees don’t get you…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/108cadc544.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-10T11:02:00-10:00",
+			"date_published": "2017-10-10T14:02:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/10/if-the-deranged.html"
 		},
 		
@@ -57,7 +65,7 @@
 			"id": "http://curt.micro.blog/2017/10/10/casual-friday-at.html",
 	      	
 			"content_html": "<p>Casual Friday at the office</p>\n\n<ul>\n  <li>\n    <p>not actually Friday</p>\n  </li>\n  <li>\n    <p>not actually the office</p>\n  </li>\n</ul>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/85e7713327.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2017-10-10T08:55:00-10:00",
+			"date_published": "2017-10-10T11:55:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/10/casual-friday-at.html"
 		},
 		
@@ -65,7 +73,7 @@
 			"id": "http://curt.micro.blog/2017/10/10/its-the-eye.html",
 	      	
 			"content_html": "<p>It’s the eye of the lizard, it’s the thrill of the fight…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/15c7987f38.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-10T07:50:00-10:00",
+			"date_published": "2017-10-10T10:50:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/10/its-the-eye.html"
 		},
 		
@@ -73,16 +81,8 @@
 			"id": "http://curt.micro.blog/2017/10/10/at-puaa-kaa.html",
 	      	
 			"content_html": "<p>At Pua’a Ka’a State Park outside Hana, Hawai’i. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/f78eee5879.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-09T22:38:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/10/09/at-puaa-kaa.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/10/word-to-the.html",
-	      	
-			"content_html": "<p>Word to the wise…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/71dd36651a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-09T19:38:00-10:00",
-			"url": "http://microblog.curtclifton.net/2017/10/09/word-to-the.html"
+			"date_published": "2017-10-10T01:38:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/10/at-puaa-kaa.html"
 		}
 		
 	]
