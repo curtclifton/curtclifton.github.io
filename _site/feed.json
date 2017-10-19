@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/19/thats-more-like.html",
+	      	
+			"content_html": "<p>That’s more like it, Cubbies…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/cb1e80ebef.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-18T21:22:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/18/thats-more-like.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/19/theyve-decided-to.html",
 	      	
 			"content_html": "<p>“they’ve decided to become… exactly what their enemies and critics said they were… a movement of plutocrats and grievance-mongers with an ever-weaker understanding of the common good.” —<a href=\"https://www.nytimes.com/2017/10/18/opinion/whats-the-matter-with-republicans.html\">Ross Douthat</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>If the deranged coconut trees don’t get you…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/108cadc544.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-10T14:02:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/10/if-the-deranged.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/10/casual-friday-at.html",
-	      	
-			"content_html": "<p>Casual Friday at the office</p>\n\n<ul>\n  <li>\n    <p>not actually Friday</p>\n  </li>\n  <li>\n    <p>not actually the office</p>\n  </li>\n</ul>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/85e7713327.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2017-10-10T11:55:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/10/casual-friday-at.html"
 		}
 		
 	]
