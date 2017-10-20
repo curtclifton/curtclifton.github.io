@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/20/cutest-latte-mug.html",
+	      	
+			"content_html": "<p>Cutest latte mug. Sugar packet for scale…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/a5129013dd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-20T10:29:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/20/cutest-latte-mug.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/19/thats-more-like.html",
 	      	
 			"content_html": "<p>That’s more like it, Cubbies…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/cb1e80ebef.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>It’s not all sunshine and orchids in paradise. Somebody cut the fuel fill line on our rental and siphoned our gas while we were parked at the beach. Avis sent a truck to tow the Jeep and us back to the airport to get a replacement. The tow truck driver, John, was great though.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/c819a5cc00.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-11T00:20:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/11/its-not-all.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/10/if-the-deranged.html",
-	      	
-			"content_html": "<p>If the deranged coconut trees don’t get you…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/108cadc544.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-10T14:02:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/10/if-the-deranged.html"
 		}
 		
 	]
