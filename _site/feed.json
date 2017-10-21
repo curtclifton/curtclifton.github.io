@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/21/the-opposite-message.html",
+	      	
+			"content_html": "<p>“The opposite message — that life is hard and unfair, that what is not necessarily your fault may yet be your problem, that you must act and bear responsibility for your actions — is what conservatism used to offer…”</p>\n",
+			"date_published": "2017-10-21T07:01:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/21/the-opposite-message.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/20/cutest-latte-mug.html",
 	      	
 			"content_html": "<p>Cutest latte mug. Sugar packet for scale…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/a5129013dd.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Nice spot for breakfast. The view from the patio of our VRBO…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/7417cdb0f4.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-11T09:53:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/11/nice-spot-for.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/11/its-not-all.html",
-	      	
-			"content_html": "<p>It’s not all sunshine and orchids in paradise. Somebody cut the fuel fill line on our rental and siphoned our gas while we were parked at the beach. Avis sent a truck to tow the Jeep and us back to the airport to get a replacement. The tow truck driver, John, was great though.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/c819a5cc00.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-11T00:20:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/11/its-not-all.html"
 		}
 		
 	]
