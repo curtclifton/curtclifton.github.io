@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/22/at-herkimer-coffee.html",
+	      	
+			"content_html": "<p>At Herkimer Coffee polishing my @SwiftxNW talk. I’m super excited about the talk, but that might be the four shots of espresso talking.</p>\n",
+			"date_published": "2017-10-22T10:00:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/22/at-herkimer-coffee.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/10/21/144032.html",
+	      	
+			"content_html": "<p>“The opposite message — that life is hard and unfair, that what is not necessarily your fault may yet be your problem, that you must act and bear responsibility for your actions — is what conservatism used to offer…\n” —<a href=\"http://www.nationalreview.com/article/452910/white-working-class-populism-underclass-anti-elitism-acting-white-incompatible-conservativism\">Kevin D. Williamson</a></p>\n",
+			"date_published": "2017-10-21T07:40:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/21/144032.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/21/the-opposite-message.html",
 	      	
 			"content_html": "<p>“The opposite message — that life is hard and unfair, that what is not necessarily your fault may yet be your problem, that you must act and bear responsibility for your actions — is what conservatism used to offer…”</p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Palm trees over Napili Beach…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/ad269b42ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-12T11:08:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/12/palm-trees-over.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/12/on-the-shifting.html",
-	      	
-			"content_html": "<p>On the Shifting Sands Trail into Haleakalā Crater…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/1a7e0d182a.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2017-10-11T22:08:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/11/on-the-shifting.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/11/nice-spot-for.html",
-	      	
-			"content_html": "<p>Nice spot for breakfast. The view from the patio of our VRBO…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/7417cdb0f4.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-11T09:53:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/11/nice-spot-for.html"
 		}
 		
 	]
