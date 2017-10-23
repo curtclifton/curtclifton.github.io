@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/23/trump-has-brought.html",
+	      	
+			"content_html": "<p>“Trump has brought us to the brink of nuclear war, obstructed justice, and taken money from foreign governments.” — <a href=\"https://www.needtoimpeach.com\">Tom Steyer</a></p>\n",
+			"date_published": "2017-10-23T14:48:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/23/trump-has-brought.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/22/at-herkimer-coffee.html",
 	      	
 			"content_html": "<p>At Herkimer Coffee polishing my @SwiftxNW talk. I’m super excited about the talk, but that might be the four shots of espresso talking.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>On board. 🌴🛫🛬🌧</p>\n",
 			"date_published": "2017-10-12T23:05:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/12/on-board.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/12/palm-trees-over.html",
-	      	
-			"content_html": "<p>Palm trees over Napili Beach…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/ad269b42ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-12T11:08:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/12/palm-trees-over.html"
 		}
 		
 	]
