@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/27/posted-these-are.html",
+	      	
+			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/these-are-a-few-of-my-stateful-machines\">These are a Few of My Stateful Machines</a></p>\n\n<p>Slides and code for my Swift by Northwest talk today.</p>\n",
+			"date_published": "2017-10-27T08:20:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/27/posted-these-are.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/10/24/and-the-best.html",
+	      	
+			"content_html": "<p>“And the best way to show Trump that people are serious about impeaching him is to put the message on television.” —<a href=\"https://www.nytimes.com/2017/10/23/opinion/trump-impeachment-tom-steyer.html\">Michelle Goldberg</a></p>\n",
+			"date_published": "2017-10-23T20:13:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/23/and-the-best.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/23/trump-has-brought.html",
 	      	
 			"content_html": "<p>“Trump has brought us to the brink of nuclear war, obstructed justice, and taken money from foreign governments.” — <a href=\"https://www.needtoimpeach.com\">Tom Steyer</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Our chrysanthemums from last fall over-wintered and are just incredible this fall…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/21fc321014.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-18T09:06:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/18/our-chrysanthemums-from.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/15/some-decisions-are.html",
-	      	
-			"content_html": "<p>Some decisions are agonizing…</p>\n\n<p>World Champions sweatshirt or home jersey?</p>\n\n<p>Go Cubs Go!</p>\n",
-			"date_published": "2017-10-14T17:19:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/14/some-decisions-are.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/13/on-board.html",
-	      	
-			"content_html": "<p>On board. 🌴🛫🛬🌧</p>\n",
-			"date_published": "2017-10-12T23:05:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/12/on-board.html"
 		}
 		
 	]
