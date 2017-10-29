@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/29/swiftxnw-was-a.html",
+	      	
+			"content_html": "<p>. @SwiftxNW was a great conference. Smart, friendly people and I learned something cool from every talk. </p>\n",
+			"date_published": "2017-10-28T17:50:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/28/swiftxnw-was-a.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/27/posted-these-are.html",
 	      	
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/these-are-a-few-of-my-stateful-machines\">These are a Few of My Stateful Machines</a></p>\n\n<p>Slides and code for my Swift by Northwest talk today.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“they’ve decided to become… exactly what their enemies and critics said they were… a movement of plutocrats and grievance-mongers with an ever-weaker understanding of the common good.” —<a href=\"https://www.nytimes.com/2017/10/18/opinion/whats-the-matter-with-republicans.html\">Ross Douthat</a></p>\n",
 			"date_published": "2017-10-18T17:37:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/18/theyve-decided-to.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/18/our-chrysanthemums-from.html",
-	      	
-			"content_html": "<p>Our chrysanthemums from last fall over-wintered and are just incredible this fall…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/21fc321014.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-18T09:06:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/18/our-chrysanthemums-from.html"
 		}
 		
 	]
