@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/30/lets-put-it.html",
+	      	
+			"content_html": "<p>“Let’s put it the other way around: Kind words and gentle feelings are being used to absolve bad performance and lack of creativity.” —<a href=\"https://mondaynote.com/lame-neutering-performance-reviews-b9b76ed29713\">Jean-Louis Gassée</a></p>\n",
+			"date_published": "2017-10-29T18:31:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/29/lets-put-it.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/29/swiftxnw-was-a.html",
 	      	
 			"content_html": "<p>. @SwiftxNW was a great conference. Smart, friendly people and I learned something cool from every talk. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>That’s more like it, Cubbies…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/cb1e80ebef.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-18T21:22:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/18/thats-more-like.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/19/theyve-decided-to.html",
-	      	
-			"content_html": "<p>“they’ve decided to become… exactly what their enemies and critics said they were… a movement of plutocrats and grievance-mongers with an ever-weaker understanding of the common good.” —<a href=\"https://www.nytimes.com/2017/10/18/opinion/whats-the-matter-with-republicans.html\">Ross Douthat</a></p>\n",
-			"date_published": "2017-10-18T17:37:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/18/theyve-decided-to.html"
 		}
 		
 	]
