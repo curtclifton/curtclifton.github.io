@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/10/30/the-future-of.html",
+	      	
+			"content_html": "<p>“The future of the Western democratic project is the fundamental issue of our era.” —<a href=\"https://www.nytimes.com/2017/10/29/opinion/the-silence-of-the-democrats.html\">Michael Tomasky</a></p>\n",
+			"date_published": "2017-10-30T07:12:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/10/30/the-future-of.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/30/lets-put-it.html",
 	      	
 			"content_html": "<p>“Let’s put it the other way around: Kind words and gentle feelings are being used to absolve bad performance and lack of creativity.” —<a href=\"https://mondaynote.com/lame-neutering-performance-reviews-b9b76ed29713\">Jean-Louis Gassée</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Cutest latte mug. Sugar packet for scale…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/a5129013dd.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-20T10:29:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/20/cutest-latte-mug.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/19/thats-more-like.html",
-	      	
-			"content_html": "<p>That’s more like it, Cubbies…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/cb1e80ebef.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-18T21:22:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/18/thats-more-like.html"
 		}
 		
 	]
