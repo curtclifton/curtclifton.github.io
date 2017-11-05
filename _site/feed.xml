@@ -4,8 +4,17 @@
     <title>Curt Clifton</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/curt&quot;&gt;@curt on Micro.blog&lt;/a&gt;.</description>
     <link>http://microblog.curtclifton.net/</link>
-    <pubDate>Mon, 30 Oct 2017 07:12:08 -0700</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2017 07:12:08 -0700</lastBuildDate>
+    <pubDate>Sun, 05 Nov 2017 09:50:45 -0800</pubDate>
+    <lastBuildDate>Sun, 05 Nov 2017 09:50:45 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Ballots are due Tuesday, Seattle! “Vote in every race on your ballot! It’s our right and our responsibility.” —&lt;a href=&quot;https://progressivevotersguide.com/washington/2017/general/city/seattle/&quot;&gt;Progressive Voter’s Guide&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Nov 2017 10:50:00 -0700</pubDate>
+        <link>http://microblog.curtclifton.net/2017/11/05/ballots-are-due.html</link>
+        <guid isPermaLink="true">http://curt.micro.blog/2017/11/05/ballots-are-due.html</guid>
+      </item>
     
       <item>
       	
@@ -502,17 +511,6 @@
         <pubDate>Sun, 03 Sep 2017 12:43:00 -0700</pubDate>
         <link>http://microblog.curtclifton.net/2017/09/03/principled-liberals-and.html</link>
         <guid isPermaLink="true">http://curt.micro.blog/2017/09/03/principled-liberals-and.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Posted: &lt;a href=&quot;http://curtclifton.net/terminal-palettes&quot;&gt;Terminal Palettes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;“With a three part solution — AppleScript, shell script, and a zsh hook — my Terminal palette now updates whenever I switch between source directories. Yours can too.“&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Sep 2017 11:58:00 -0700</pubDate>
-        <link>http://microblog.curtclifton.net/2017/09/03/185847.html</link>
-        <guid isPermaLink="true">http://curt.micro.blog/2017/09/03/185847.html</guid>
       </item>
     
   </channel>
