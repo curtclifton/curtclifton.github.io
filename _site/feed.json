@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/05/ballots-are-due.html",
+	      	
+			"content_html": "<p>Ballots are due Tuesday, Seattle! “Vote in every race on your ballot! It’s our right and our responsibility.” —<a href=\"https://progressivevotersguide.com/washington/2017/general/city/seattle/\">Progressive Voter’s Guide</a></p>\n",
+			"date_published": "2017-11-05T10:50:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/11/05/ballots-are-due.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/10/30/the-future-of.html",
 	      	
 			"content_html": "<p>“The future of the Western democratic project is the fundamental issue of our era.” —<a href=\"https://www.nytimes.com/2017/10/29/opinion/the-silence-of-the-democrats.html\">Michael Tomasky</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“The opposite message — that life is hard and unfair, that what is not necessarily your fault may yet be your problem, that you must act and bear responsibility for your actions — is what conservatism used to offer…”</p>\n",
 			"date_published": "2017-10-21T07:01:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/21/the-opposite-message.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/20/cutest-latte-mug.html",
-	      	
-			"content_html": "<p>Cutest latte mug. Sugar packet for scale…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/a5129013dd.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-20T10:29:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/20/cutest-latte-mug.html"
 		}
 		
 	]
