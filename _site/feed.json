@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/06/darrin-bell-on.html",
+	      	
+			"content_html": "<p><a href=\"http://www.gocomics.com/candorville/2017/11/06\">Darrin Bell on compromising.</a></p>\n",
+			"date_published": "2017-11-06T07:25:00-07:00",
+			"url": "http://microblog.curtclifton.net/2017/11/06/darrin-bell-on.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/06/western-conference-final.html",
 	      	
 			"content_html": "<p>Western Conference Final tickets procured. Beat Houston. Up the Sounders. Up ECS. #ebfg</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>At Herkimer Coffee polishing my @SwiftxNW talk. I’m super excited about the talk, but that might be the four shots of espresso talking.</p>\n",
 			"date_published": "2017-10-22T10:00:00-07:00",
 			"url": "http://microblog.curtclifton.net/2017/10/22/at-herkimer-coffee.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/21/144032.html",
-	      	
-			"content_html": "<p>“The opposite message — that life is hard and unfair, that what is not necessarily your fault may yet be your problem, that you must act and bear responsibility for your actions — is what conservatism used to offer…\n” —<a href=\"http://www.nationalreview.com/article/452910/white-working-class-populism-underclass-anti-elitism-acting-white-incompatible-conservativism\">Kevin D. Williamson</a></p>\n",
-			"date_published": "2017-10-21T07:40:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/21/144032.html"
 		}
 		
 	]
