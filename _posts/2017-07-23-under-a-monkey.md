@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-23 09:07 -0700
+date: 2017-07-23 08:07 -0800
 guid: http://curt.micro.blog/2017/07/23/under-a-monkey.html
 ---
 Under a monkey puzzle tree. /cc @tropicana_jones
