@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-07 15:15 -0700
+date: 2017-10-07 14:15 -0800
 guid: http://curt.micro.blog/2017/10/07/discovered-a-new.html
 ---
 Discovered a new item for my bucket list at the same time I checked it off today:
