@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/08/the-omni-show.html",
+	      	
+			"content_html": "<p><a href=\"https://www.omnigroup.com/blog/the-omni-show-debuts\">The Omni Show debuts.</a> I’m on a podcast. </p>\n",
+			"date_published": "2017-11-08T10:38:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/08/the-omni-show.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/06/darrin-bell-on.html",
 	      	
 			"content_html": "<p><a href=\"http://www.gocomics.com/candorville/2017/11/06\">Darrin Bell on compromising.</a></p>\n",
-			"date_published": "2017-11-06T07:25:00-07:00",
+			"date_published": "2017-11-06T06:25:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/06/darrin-bell-on.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://curt.micro.blog/2017/11/06/western-conference-final.html",
 	      	
 			"content_html": "<p>Western Conference Final tickets procured. Beat Houston. Up the Sounders. Up ECS. #ebfg</p>\n",
-			"date_published": "2017-11-05T20:18:00-07:00",
+			"date_published": "2017-11-05T19:18:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/05/western-conference-final.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://curt.micro.blog/2017/11/05/ballots-are-due.html",
 	      	
 			"content_html": "<p>Ballots are due Tuesday, Seattle! “Vote in every race on your ballot! It’s our right and our responsibility.” —<a href=\"https://progressivevotersguide.com/washington/2017/general/city/seattle/\">Progressive Voter’s Guide</a></p>\n",
-			"date_published": "2017-11-05T10:50:00-07:00",
+			"date_published": "2017-11-05T09:50:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/05/ballots-are-due.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://curt.micro.blog/2017/10/30/the-future-of.html",
 	      	
 			"content_html": "<p>“The future of the Western democratic project is the fundamental issue of our era.” —<a href=\"https://www.nytimes.com/2017/10/29/opinion/the-silence-of-the-democrats.html\">Michael Tomasky</a></p>\n",
-			"date_published": "2017-10-30T07:12:00-07:00",
+			"date_published": "2017-10-30T06:12:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/10/30/the-future-of.html"
 		},
 		
@@ -41,7 +49,7 @@
 			"id": "http://curt.micro.blog/2017/10/30/lets-put-it.html",
 	      	
 			"content_html": "<p>“Let’s put it the other way around: Kind words and gentle feelings are being used to absolve bad performance and lack of creativity.” —<a href=\"https://mondaynote.com/lame-neutering-performance-reviews-b9b76ed29713\">Jean-Louis Gassée</a></p>\n",
-			"date_published": "2017-10-29T18:31:00-07:00",
+			"date_published": "2017-10-29T17:31:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/10/29/lets-put-it.html"
 		},
 		
@@ -49,7 +57,7 @@
 			"id": "http://curt.micro.blog/2017/10/29/swiftxnw-was-a.html",
 	      	
 			"content_html": "<p>. @SwiftxNW was a great conference. Smart, friendly people and I learned something cool from every talk. </p>\n",
-			"date_published": "2017-10-28T17:50:00-07:00",
+			"date_published": "2017-10-28T16:50:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/10/28/swiftxnw-was-a.html"
 		},
 		
@@ -57,7 +65,7 @@
 			"id": "http://curt.micro.blog/2017/10/27/posted-these-are.html",
 	      	
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/these-are-a-few-of-my-stateful-machines\">These are a Few of My Stateful Machines</a></p>\n\n<p>Slides and code for my Swift by Northwest talk today.</p>\n",
-			"date_published": "2017-10-27T08:20:00-07:00",
+			"date_published": "2017-10-27T07:20:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/10/27/posted-these-are.html"
 		},
 		
@@ -65,7 +73,7 @@
 			"id": "http://curt.micro.blog/2017/10/24/and-the-best.html",
 	      	
 			"content_html": "<p>“And the best way to show Trump that people are serious about impeaching him is to put the message on television.” —<a href=\"https://www.nytimes.com/2017/10/23/opinion/trump-impeachment-tom-steyer.html\">Michelle Goldberg</a></p>\n",
-			"date_published": "2017-10-23T20:13:00-07:00",
+			"date_published": "2017-10-23T19:13:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/10/23/and-the-best.html"
 		},
 		
@@ -73,16 +81,8 @@
 			"id": "http://curt.micro.blog/2017/10/23/trump-has-brought.html",
 	      	
 			"content_html": "<p>“Trump has brought us to the brink of nuclear war, obstructed justice, and taken money from foreign governments.” — <a href=\"https://www.needtoimpeach.com\">Tom Steyer</a></p>\n",
-			"date_published": "2017-10-23T14:48:00-07:00",
+			"date_published": "2017-10-23T13:48:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/10/23/trump-has-brought.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/22/at-herkimer-coffee.html",
-	      	
-			"content_html": "<p>At Herkimer Coffee polishing my @SwiftxNW talk. I’m super excited about the talk, but that might be the four shots of espresso talking.</p>\n",
-			"date_published": "2017-10-22T10:00:00-07:00",
-			"url": "http://microblog.curtclifton.net/2017/10/22/at-herkimer-coffee.html"
 		}
 		
 	]
