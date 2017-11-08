@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-30 10:40 -0700
+date: 2017-06-30 09:40 -0800
 guid: http://curt.micro.blog/2017/06/30/the-mountains-are.html
 ---
 The mountains are calling. 
