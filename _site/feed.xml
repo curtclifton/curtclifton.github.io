@@ -4,8 +4,17 @@
     <title>Curt Clifton</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/curt&quot;&gt;@curt on Micro.blog&lt;/a&gt;.</description>
     <link>http://microblog.curtclifton.net/</link>
-    <pubDate>Wed, 08 Nov 2017 10:38:45 -0800</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2017 10:38:45 -0800</lastBuildDate>
+    <pubDate>Thu, 09 Nov 2017 15:29:41 -0800</pubDate>
+    <lastBuildDate>Thu, 09 Nov 2017 15:29:41 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Swift &lt;code&gt;enum&lt;/code&gt;s are the absolute best. Using them for drop location tracking in deep hierarchies makes it easy. Sum types for the win.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Nov 2017 15:29:00 -0800</pubDate>
+        <link>http://microblog.curtclifton.net/2017/11/09/swift-enums-are.html</link>
+        <guid isPermaLink="true">http://curt.micro.blog/2017/11/09/swift-enums-are.html</guid>
+      </item>
     
       <item>
       	
@@ -502,15 +511,6 @@
         <pubDate>Sat, 09 Sep 2017 06:46:00 -0800</pubDate>
         <link>http://microblog.curtclifton.net/2017/09/09/omni-group-feature.html</link>
         <guid isPermaLink="true">http://curt.micro.blog/2017/09/09/omni-group-feature.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;“The truth is that letting the Dreamers work legally helps the U.S. economy; pushing them out or into the shadows is bad for everyone except racists.” —&lt;a href=&quot;https://www.nytimes.com/2017/09/08/opinion/dreamers-liars-and-bad-economics.html?smprod=nytcore-ipad&amp;amp;smid=nytcore-ipad-share&quot;&gt;Paul Krugman&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 Sep 2017 19:19:00 -0800</pubDate>
-        <link>http://microblog.curtclifton.net/2017/09/08/the-truth-is.html</link>
-        <guid isPermaLink="true">http://curt.micro.blog/2017/09/09/the-truth-is.html</guid>
       </item>
     
   </channel>
