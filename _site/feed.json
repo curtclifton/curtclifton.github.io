@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/10/this-bill-does.html",
+	      	
+			"content_html": "<p>“This bill does little or nothing for the middle class, and even among the affluent it’s biased against those who work hard in favor of the idle rich.” —<a href=\"https://www.nytimes.com/2017/11/09/opinion/trump-ryan-republican-taxes.html\">Paul Krugman</a></p>\n",
+			"date_published": "2017-11-09T23:22:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/09/this-bill-does.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/09/swift-enums-are.html",
 	      	
 			"content_html": "<p>Swift <code>enum</code>s are the absolute best. Using them for drop location tracking in deep hierarchies makes it easy. Sum types for the win.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/these-are-a-few-of-my-stateful-machines\">These are a Few of My Stateful Machines</a></p>\n\n<p>Slides and code for my Swift by Northwest talk today.</p>\n",
 			"date_published": "2017-10-27T07:20:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/10/27/posted-these-are.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/24/and-the-best.html",
-	      	
-			"content_html": "<p>“And the best way to show Trump that people are serious about impeaching him is to put the message on television.” —<a href=\"https://www.nytimes.com/2017/10/23/opinion/trump-impeachment-tom-steyer.html\">Michelle Goldberg</a></p>\n",
-			"date_published": "2017-10-23T19:13:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/10/23/and-the-best.html"
 		}
 		
 	]
