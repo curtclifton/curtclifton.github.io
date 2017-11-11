@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/11/if-you-find.html",
+	      	
+			"content_html": "<p>“If you find yourself excusing child molestation, then you are driven not by morality or faith, but simply by the emptiest kind of tribalism.” —<a href=\"https://www.nytimes.com/2017/11/10/opinion/roy-moore-sexual-assault.html\">Nicholas Kristof</a></p>\n",
+			"date_published": "2017-11-10T18:20:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/10/if-you-find.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/10/this-bill-does.html",
 	      	
 			"content_html": "<p>“This bill does little or nothing for the middle class, and even among the affluent it’s biased against those who work hard in favor of the idle rich.” —<a href=\"https://www.nytimes.com/2017/11/09/opinion/trump-ryan-republican-taxes.html\">Paul Krugman</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>. @SwiftxNW was a great conference. Smart, friendly people and I learned something cool from every talk. </p>\n",
 			"date_published": "2017-10-28T16:50:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/10/28/swiftxnw-was-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/27/posted-these-are.html",
-	      	
-			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/these-are-a-few-of-my-stateful-machines\">These are a Few of My Stateful Machines</a></p>\n\n<p>Slides and code for my Swift by Northwest talk today.</p>\n",
-			"date_published": "2017-10-27T07:20:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/10/27/posted-these-are.html"
 		}
 		
 	]
