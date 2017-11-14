@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/14/seattle-area-friends.html",
+	      	
+			"content_html": "<p>Seattle area friends: Looking for a used 21.5″ iMac (late 2012) in excellent condition? <a href=\"https://seattle.craigslist.org/see/sys/d/lateimac-29-ghz-core-i5-16-gb/6386147341.html\">Lisa’s is for sale.</a></p>\n",
+			"date_published": "2017-11-13T21:07:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/13/seattle-area-friends.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/11/12/ill-look-forward.html",
+	      	
+			"content_html": "<p>I’ll look forward to the Southern Baptists leading the push for sensible gun control… “When we say our “thoughts and prayers” are with them, we are not washing our hands of duty” —<a href=\"https://www.washingtonpost.com/opinions/thoughts-and-prayers-mean-more-than-critics-claim/2017/11/10/25db1d6e-c592-11e7-aae0-cb18a8c29c65_story.html\">R. Albert Mohler, Jr.</a></p>\n",
+			"date_published": "2017-11-11T21:12:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/11/ill-look-forward.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/11/12/it-tells-your.html",
+	      	
+			"content_html": "<p>“it tells your neighbors and your children that your religious convictions are always secondary to your partisanship” —<a href=\"https://www.nytimes.com/2017/11/11/opinion/sunday/the-swine-of-conservatism.html\">Ross Douthat</a></p>\n",
+			"date_published": "2017-11-11T20:52:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/11/it-tells-your.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/11/does-the-combover.html",
 	      	
 			"content_html": "<p>Does the combover hide the lobotomy scar? <a href=\"https://www.nytimes.com/2017/11/11/world/asia/trump-putin-election.html\">“President Trump said on Saturday that he believed President Vladimir V. Putin was sincere in his denials of interference in the 2016 presidential elections…”</a></p>\n",
@@ -59,30 +83,6 @@
 			"content_html": "<p>Western Conference Final tickets procured. Beat Houston. Up the Sounders. Up ECS. #ebfg</p>\n",
 			"date_published": "2017-11-05T19:18:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/05/western-conference-final.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/05/ballots-are-due.html",
-	      	
-			"content_html": "<p>Ballots are due Tuesday, Seattle! “Vote in every race on your ballot! It’s our right and our responsibility.” —<a href=\"https://progressivevotersguide.com/washington/2017/general/city/seattle/\">Progressive Voter’s Guide</a></p>\n",
-			"date_published": "2017-11-05T09:50:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/05/ballots-are-due.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/30/the-future-of.html",
-	      	
-			"content_html": "<p>“The future of the Western democratic project is the fundamental issue of our era.” —<a href=\"https://www.nytimes.com/2017/10/29/opinion/the-silence-of-the-democrats.html\">Michael Tomasky</a></p>\n",
-			"date_published": "2017-10-30T06:12:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/10/30/the-future-of.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/10/30/lets-put-it.html",
-	      	
-			"content_html": "<p>“Let’s put it the other way around: Kind words and gentle feelings are being used to absolve bad performance and lack of creativity.” —<a href=\"https://mondaynote.com/lame-neutering-performance-reviews-b9b76ed29713\">Jean-Louis Gassée</a></p>\n",
-			"date_published": "2017-10-29T17:31:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/10/29/lets-put-it.html"
 		}
 		
 	]
