@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/18/the-house-tax.html",
+	      	
+			"content_html": "<p>“The House tax bill is wildly regressive; the Senate bill actually raises taxes on most families, while including a special tax break for private planes. In effect, the GOP is giving middle-class Americans a giant middle finger.” —<a href=\"https://krugman.blogs.nytimes.com/2017/11/17/days-of-greed-and-desperation/\">Paul Krugman</a></p>\n",
+			"date_published": "2017-11-18T14:25:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/18/the-house-tax.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/11/17/todays-gop-stands.html",
+	      	
+			"content_html": "<p>“Today’s GOP stands for a set of crackpot ideas, unworkable and unpopular policies and a president not remotely fit to remain in office. Some sunny optimists think the GOP can be saved. From our perspective, it’s not worth trying.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/11/16/just-how-bad-are-republicans/\">Jennifer Rubin</a></p>\n",
+			"date_published": "2017-11-16T19:03:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/16/todays-gop-stands.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/11/17/if-moore-is.html",
+	      	
+			"content_html": "<p>“If Moore is ‘guilty as accused,’ these people prefer a devil to a Democrat. That’s not about religious rigor, that’s ideological extremism on a Middle Eastern scale. That is a country-ruining worldview.” —<a href=\"https://www.nytimes.com/2017/11/16/opinion/moore-trump-religious-right.html\">Charles Blow</a></p>\n",
+			"date_published": "2017-11-16T18:53:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/16/if-moore-is.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/11/17/gop-tax-reform.html",
+	      	
+			"content_html": "<p>“G.O.P. tax ‘reform’ … would raise taxes on most individuals, especially in the middle and working classes, and add around 13 million Americans to the ranks of the uninsured, all to pay for big cuts in corporate taxes” —<a href=\"https://www.nytimes.com/2017/11/16/opinion/trump-tax-plan-hate.html\">Paul Krugman</a></p>\n",
+			"date_published": "2017-11-16T18:43:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/16/gop-tax-reform.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/14/seattle-area-friends.html",
 	      	
 			"content_html": "<p>Seattle area friends: Looking for a used 21.5″ iMac (late 2012) in excellent condition? <a href=\"https://seattle.craigslist.org/see/sys/d/lateimac-29-ghz-core-i5-16-gb/6386147341.html\">Lisa’s is for sale.</a></p>\n",
@@ -51,38 +83,6 @@
 			"content_html": "<p>“This bill does little or nothing for the middle class, and even among the affluent it’s biased against those who work hard in favor of the idle rich.” —<a href=\"https://www.nytimes.com/2017/11/09/opinion/trump-ryan-republican-taxes.html\">Paul Krugman</a></p>\n",
 			"date_published": "2017-11-09T23:22:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/09/this-bill-does.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/09/swift-enums-are.html",
-	      	
-			"content_html": "<p>Swift <code>enum</code>s are the absolute best. Using them for drop location tracking in deep hierarchies makes it easy. Sum types for the win.</p>\n",
-			"date_published": "2017-11-09T15:29:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/09/swift-enums-are.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/08/the-omni-show.html",
-	      	
-			"content_html": "<p><a href=\"https://www.omnigroup.com/blog/the-omni-show-debuts\">The Omni Show debuts.</a> I’m on a podcast. </p>\n",
-			"date_published": "2017-11-08T10:38:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/08/the-omni-show.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/06/darrin-bell-on.html",
-	      	
-			"content_html": "<p><a href=\"http://www.gocomics.com/candorville/2017/11/06\">Darrin Bell on compromising.</a></p>\n",
-			"date_published": "2017-11-06T06:25:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/06/darrin-bell-on.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/06/western-conference-final.html",
-	      	
-			"content_html": "<p>Western Conference Final tickets procured. Beat Houston. Up the Sounders. Up ECS. #ebfg</p>\n",
-			"date_published": "2017-11-05T19:18:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/05/western-conference-final.html"
 		}
 		
 	]
