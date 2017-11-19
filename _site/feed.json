@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/19/im-trying-to.html",
+	      	
+			"content_html": "<p>I’m trying to figure out how our kitchen outlets are wired so I can install a GFCI. It seems like they’re wired in a circle. I’d expect our electricity bill to be lower.</p>\n",
+			"date_published": "2017-11-18T17:33:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/18/im-trying-to.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/18/the-house-tax.html",
 	      	
 			"content_html": "<p>“The House tax bill is wildly regressive; the Senate bill actually raises taxes on most families, while including a special tax break for private planes. In effect, the GOP is giving middle-class Americans a giant middle finger.” —<a href=\"https://krugman.blogs.nytimes.com/2017/11/17/days-of-greed-and-desperation/\">Paul Krugman</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“If you find yourself excusing child molestation, then you are driven not by morality or faith, but simply by the emptiest kind of tribalism.” —<a href=\"https://www.nytimes.com/2017/11/10/opinion/roy-moore-sexual-assault.html\">Nicholas Kristof</a></p>\n",
 			"date_published": "2017-11-10T18:20:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/10/if-you-find.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/10/this-bill-does.html",
-	      	
-			"content_html": "<p>“This bill does little or nothing for the middle class, and even among the affluent it’s biased against those who work hard in favor of the idle rich.” —<a href=\"https://www.nytimes.com/2017/11/09/opinion/trump-ryan-republican-taxes.html\">Paul Krugman</a></p>\n",
-			"date_published": "2017-11-09T23:22:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/09/this-bill-does.html"
 		}
 		
 	]
