@@ -4,8 +4,17 @@
     <title>Curt Clifton</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/curt&quot;&gt;@curt on Micro.blog&lt;/a&gt;.</description>
     <link>http://microblog.curtclifton.net/</link>
-    <pubDate>Sat, 18 Nov 2017 14:25:35 -0800</pubDate>
-    <lastBuildDate>Sat, 18 Nov 2017 14:25:35 -0800</lastBuildDate>
+    <pubDate>Sat, 18 Nov 2017 17:33:20 -0800</pubDate>
+    <lastBuildDate>Sat, 18 Nov 2017 17:33:20 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m trying to figure out how our kitchen outlets are wired so I can install a GFCI. It seems like they’re wired in a circle. I’d expect our electricity bill to be lower.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Nov 2017 17:33:00 -0800</pubDate>
+        <link>http://microblog.curtclifton.net/2017/11/18/im-trying-to.html</link>
+        <guid isPermaLink="true">http://curt.micro.blog/2017/11/19/im-trying-to.html</guid>
+      </item>
     
       <item>
       	
@@ -494,15 +503,6 @@
         <pubDate>Thu, 28 Sep 2017 07:08:00 -0800</pubDate>
         <link>http://microblog.curtclifton.net/2017/09/28/its-a-beautiful.html</link>
         <guid isPermaLink="true">http://curt.micro.blog/2017/09/28/its-a-beautiful.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;And then company engineering chat becomes a discussion of how to implement NSDate comparisons in relativistic reference frames. 🚀&lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 Sep 2017 10:01:00 -0800</pubDate>
-        <link>http://microblog.curtclifton.net/2017/09/26/and-then-company.html</link>
-        <guid isPermaLink="true">http://curt.micro.blog/2017/09/26/and-then-company.html</guid>
       </item>
     
   </channel>
