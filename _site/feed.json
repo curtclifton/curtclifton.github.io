@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/20/a-bunch-of.html",
+	      	
+			"content_html": "<p>A bunch of household jobs to finish in the next month, along with a bottle of scotch. Today’s jobs: clean gutters and install GFCI in kitchen. So, a double…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/831f429810.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-19T17:42:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/19/a-bunch-of.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/19/im-trying-to.html",
 	      	
 			"content_html": "<p>I’m trying to figure out how our kitchen outlets are wired so I can install a GFCI. It seems like they’re wired in a circle. I’d expect our electricity bill to be lower.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Does the combover hide the lobotomy scar? <a href=\"https://www.nytimes.com/2017/11/11/world/asia/trump-putin-election.html\">“President Trump said on Saturday that he believed President Vladimir V. Putin was sincere in his denials of interference in the 2016 presidential elections…”</a></p>\n",
 			"date_published": "2017-11-11T11:02:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/11/does-the-combover.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/11/if-you-find.html",
-	      	
-			"content_html": "<p>“If you find yourself excusing child molestation, then you are driven not by morality or faith, but simply by the emptiest kind of tribalism.” —<a href=\"https://www.nytimes.com/2017/11/10/opinion/roy-moore-sexual-assault.html\">Nicholas Kristof</a></p>\n",
-			"date_published": "2017-11-10T18:20:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/10/if-you-find.html"
 		}
 		
 	]
