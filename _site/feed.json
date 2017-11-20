@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/20/i-need-a.html",
+	      	
+			"content_html": "<p>I need a giant cup of ability-to-focus today. Seattle gray is winning.</p>\n",
+			"date_published": "2017-11-20T14:41:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/20/i-need-a.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/20/a-bunch-of.html",
 	      	
 			"content_html": "<p>A bunch of household jobs to finish in the next month, along with a bottle of scotch. Today’s jobs: clean gutters and install GFCI in kitchen. So, a double…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/831f429810.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“it tells your neighbors and your children that your religious convictions are always secondary to your partisanship” —<a href=\"https://www.nytimes.com/2017/11/11/opinion/sunday/the-swine-of-conservatism.html\">Ross Douthat</a></p>\n",
 			"date_published": "2017-11-11T20:52:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/11/it-tells-your.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/11/does-the-combover.html",
-	      	
-			"content_html": "<p>Does the combover hide the lobotomy scar? <a href=\"https://www.nytimes.com/2017/11/11/world/asia/trump-putin-election.html\">“President Trump said on Saturday that he believed President Vladimir V. Putin was sincere in his denials of interference in the 2016 presidential elections…”</a></p>\n",
-			"date_published": "2017-11-11T11:02:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/11/does-the-combover.html"
 		}
 		
 	]
