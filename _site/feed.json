@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/21/these-days-the.html",
+	      	
+			"content_html": "<p>“These days, [the Republicans] can’t even seem to get their fake story straight — and they literally start yelling obscenities when someone tries to point out the facts.” —<a href=\"https://www.nytimes.com/2017/11/20/opinion/lies-incoherence-and-rage-on-tax-cuts.html\">Paul Krugman</a></p>\n",
+			"date_published": "2017-11-20T19:12:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/20/these-days-the.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/20/i-need-a.html",
 	      	
 			"content_html": "<p>I need a giant cup of ability-to-focus today. Seattle gray is winning.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’ll look forward to the Southern Baptists leading the push for sensible gun control… “When we say our “thoughts and prayers” are with them, we are not washing our hands of duty” —<a href=\"https://www.washingtonpost.com/opinions/thoughts-and-prayers-mean-more-than-critics-claim/2017/11/10/25db1d6e-c592-11e7-aae0-cb18a8c29c65_story.html\">R. Albert Mohler, Jr.</a></p>\n",
 			"date_published": "2017-11-11T21:12:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/11/ill-look-forward.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/12/it-tells-your.html",
-	      	
-			"content_html": "<p>“it tells your neighbors and your children that your religious convictions are always secondary to your partisanship” —<a href=\"https://www.nytimes.com/2017/11/11/opinion/sunday/the-swine-of-conservatism.html\">Ross Douthat</a></p>\n",
-			"date_published": "2017-11-11T20:52:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/11/it-tells-your.html"
 		}
 		
 	]
