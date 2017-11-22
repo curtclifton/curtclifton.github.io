@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/22/its-true-obama.html",
+	      	
+			"content_html": "<p>It’s true. Obama approves of oxygen. Now, let’s get these folks their fluorine. Can we kickstart that? Gofundme? <a href=\"https://twitter.com/scalzi/status/933123593965273093\">twitter.com/scalzi/st…</a></p>\n",
+			"date_published": "2017-11-22T10:55:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/22/its-true-obama.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/22/nevertheless-a-majority.html",
 	      	
 			"content_html": "<p>“Nevertheless, a majority of white voters backed a candidate who assured them that they will never have to share this country with people of color as equals. That is the reality that all Americans will have to deal with, and one that most of the country has yet to confront.” —<a href=\"https://www.theatlantic.com/politics/archive/2017/11/the-nationalists-delusion/546356/\">Adam Serwer</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“Today’s GOP stands for a set of crackpot ideas, unworkable and unpopular policies and a president not remotely fit to remain in office. Some sunny optimists think the GOP can be saved. From our perspective, it’s not worth trying.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/11/16/just-how-bad-are-republicans/\">Jennifer Rubin</a></p>\n",
 			"date_published": "2017-11-16T19:03:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/16/todays-gop-stands.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/17/if-moore-is.html",
-	      	
-			"content_html": "<p>“If Moore is ‘guilty as accused,’ these people prefer a devil to a Democrat. That’s not about religious rigor, that’s ideological extremism on a Middle Eastern scale. That is a country-ruining worldview.” —<a href=\"https://www.nytimes.com/2017/11/16/opinion/moore-trump-religious-right.html\">Charles Blow</a></p>\n",
-			"date_published": "2017-11-16T18:53:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/16/if-moore-is.html"
 		}
 		
 	]
