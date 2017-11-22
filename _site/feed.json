@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/22/nevertheless-a-majority.html",
+	      	
+			"content_html": "<p>“Nevertheless, a majority of white voters backed a candidate who assured them that they will never have to share this country with people of color as equals. That is the reality that all Americans will have to deal with, and one that most of the country has yet to confront.” —<a href=\"https://www.theatlantic.com/politics/archive/2017/11/the-nationalists-delusion/546356/\">Adam Serwer</a></p>\n",
+			"date_published": "2017-11-21T21:56:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/21/nevertheless-a-majority.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/22/in-sum-the.html",
 	      	
 			"content_html": "<p>“In sum, the problem is not Trump’s advisers calling him names. The problem is that he’s unfit, his top advisers know it and collectively they are pretending that everything is fine.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/11/21/dont-just-complain-that-trump-is-dumb-do-something-about-it/\">Jennifer Rubin</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“If Moore is ‘guilty as accused,’ these people prefer a devil to a Democrat. That’s not about religious rigor, that’s ideological extremism on a Middle Eastern scale. That is a country-ruining worldview.” —<a href=\"https://www.nytimes.com/2017/11/16/opinion/moore-trump-religious-right.html\">Charles Blow</a></p>\n",
 			"date_published": "2017-11-16T18:53:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/16/if-moore-is.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/17/gop-tax-reform.html",
-	      	
-			"content_html": "<p>“G.O.P. tax ‘reform’ … would raise taxes on most individuals, especially in the middle and working classes, and add around 13 million Americans to the ranks of the uninsured, all to pay for big cuts in corporate taxes” —<a href=\"https://www.nytimes.com/2017/11/16/opinion/trump-tax-plan-hate.html\">Paul Krugman</a></p>\n",
-			"date_published": "2017-11-16T18:43:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/16/gop-tax-reform.html"
 		}
 		
 	]
