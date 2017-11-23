@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/23/happy-thanksgiving-this.html",
+	      	
+			"content_html": "<p>Happy Thanksgiving. This morning I’m thankful for coffee. Starting small…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/9d88f5c789.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-23T09:54:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/23/happy-thanksgiving-this.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/22/its-true-obama.html",
 	      	
 			"content_html": "<p>It’s true. Obama approves of oxygen. Now, let’s get these folks their fluorine. Can we kickstart that? Gofundme? <a href=\"https://twitter.com/scalzi/status/933123593965273093\">twitter.com/scalzi/st…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“The House tax bill is wildly regressive; the Senate bill actually raises taxes on most families, while including a special tax break for private planes. In effect, the GOP is giving middle-class Americans a giant middle finger.” —<a href=\"https://krugman.blogs.nytimes.com/2017/11/17/days-of-greed-and-desperation/\">Paul Krugman</a></p>\n",
 			"date_published": "2017-11-18T14:25:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/18/the-house-tax.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/17/todays-gop-stands.html",
-	      	
-			"content_html": "<p>“Today’s GOP stands for a set of crackpot ideas, unworkable and unpopular policies and a president not remotely fit to remain in office. Some sunny optimists think the GOP can be saved. From our perspective, it’s not worth trying.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2017/11/16/just-how-bad-are-republicans/\">Jennifer Rubin</a></p>\n",
-			"date_published": "2017-11-16T19:03:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/16/todays-gop-stands.html"
 		}
 		
 	]
