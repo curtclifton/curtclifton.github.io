@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/27/swift-by-northwest.html",
+	      	
+			"content_html": "<p>Swift by Northwest 2018 is coming to Portland next October! The first S×NW was amazing. Great talks, great community. <a href=\"https://swiftbynorthwest.com/register\">From now till midnight December 1st, you can use the code “SwiftCyber” to save 25%.</a></p>\n",
+			"date_published": "2017-11-27T11:17:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/27/swift-by-northwest.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/27/will-a-future.html",
 	      	
 			"content_html": "<p>“Will a future generation look back … and wonder, mystifyingly, why a generation of humans believed in these platforms despite mounting evidence that they were tearing society apart” —<a href=\"https://www.vanityfair.com/news/2017/11/the-end-of-the-social-era-twitter-facebook-snapchat\">Nick Bilton</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Happy Thanksgiving. This morning I’m thankful for coffee. Starting small…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/9d88f5c789.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-23T09:54:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/23/happy-thanksgiving-this.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/22/its-true-obama.html",
-	      	
-			"content_html": "<p>It’s true. Obama approves of oxygen. Now, let’s get these folks their fluorine. Can we kickstart that? Gofundme? <a href=\"https://twitter.com/scalzi/status/933123593965273093\">twitter.com/scalzi/st…</a></p>\n",
-			"date_published": "2017-11-22T10:55:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/22/its-true-obama.html"
 		}
 		
 	]
