@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/27/six-and-a.html",
+	      	
+			"content_html": "<p>Six and a half years at Omni and I just committed my first use of semaphores.</p>\n\n<p>wrong? What go could</p>\n",
+			"date_published": "2017-11-27T15:59:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/27/six-and-a.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/27/swift-by-northwest.html",
 	      	
 			"content_html": "<p>Swift by Northwest 2018 is coming to Portland next October! The first S×NW was amazing. Great talks, great community. <a href=\"https://swiftbynorthwest.com/register\">From now till midnight December 1st, you can use the code “SwiftCyber” to save 25%.</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Why GOP pols preach fear: “…if they had … just imagined being completely physically safe, the Republicans became significantly more liberal — their positions on social attitudes were much more like the Democratic respondents.” —<a href=\"https://www.washingtonpost.com/news/inspired-life/wp/2017/11/22/at-yale-we-conducted-an-experiment-to-turn-conservatives-into-liberals-the-results-say-a-lot-about-our-political-divisions/\">John Bargh</a></p>\n",
 			"date_published": "2017-11-23T11:17:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/23/why-gop-pols.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/23/happy-thanksgiving-this.html",
-	      	
-			"content_html": "<p>Happy Thanksgiving. This morning I’m thankful for coffee. Starting small…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/9d88f5c789.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-23T09:54:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/23/happy-thanksgiving-this.html"
 		}
 		
 	]
