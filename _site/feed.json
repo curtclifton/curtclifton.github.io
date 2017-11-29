@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/29/the-joys-of.html",
+	      	
+			"content_html": "<p>The joys of home ownership…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/d14466c3ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-29T09:26:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/29/the-joys-of.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/29/it-wasnt-putin.html",
 	      	
 			"content_html": "<p>“It wasn’t Putin who fashioned a Republican Party willing to tolerate something close to treason if it’s the price of corporate tax cuts. Even if all the Republicans in Congress read Harding’s book, they probably wouldn’t act. But at least they’d know what they’re abetting.” —<a href=\"https://www.nytimes.com/2017/11/27/opinion/trump-patriot-russia.html\">Michelle Goldberg</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Muahahahaha. I took a screen recording of the Quicken 2018 import progress sheet, found the account that was being imported during the crash (only visible for two frames of the recording), deleted the account from Quicken 2007, then import worked. Accounting vengeance is mine.</p>\n",
 			"date_published": "2017-11-24T11:01:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/24/muahahahaha-i-took.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/24/trying-to-import.html",
-	      	
-			"content_html": "<p>Trying to import 25+ years of data from Quicken Mac 2007 into Quicken 2018. It crashes after importing <em>most</em> of the data. I’m the user the devs have nightmares about. </p>\n",
-			"date_published": "2017-11-24T10:30:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/24/trying-to-import.html"
 		}
 		
 	]
