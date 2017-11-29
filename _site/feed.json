@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/29/thoughtful-analysis-of.html",
+	      	
+			"content_html": "<p>Thoughtful analysis of the difference between net neutrality and Title II status: “Any regulatory decision — indeed, any decision period — is about tradeoffs.” —<a href=\"https://stratechery.com/2017/pro-neutrality-anti-title-ii/\">Ben Thompson</a></p>\n",
+			"date_published": "2017-11-28T20:54:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/28/thoughtful-analysis-of.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/27/six-and-a.html",
 	      	
 			"content_html": "<p>Six and a half years at Omni and I just committed my first use of semaphores.</p>\n\n<p>wrong? What go could</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>This is so great. “The glasses are equipped with a camera, which feeds a video stream to a remote agent who then narrates what they see in real time over the phone for the [blind] user.” —<a href=\"https://www.washingtonpost.com/news/inspired-life/wp/2017/11/16/a-surprisingly-simple-technology-is-helping-these-blind-eagle-scouts-and-hundreds-like-them-see-through-other-peoples-eyes/\">Mary Hui</a></p>\n",
 			"date_published": "2017-11-23T11:25:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/23/this-is-so.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/23/why-gop-pols.html",
-	      	
-			"content_html": "<p>Why GOP pols preach fear: “…if they had … just imagined being completely physically safe, the Republicans became significantly more liberal — their positions on social attitudes were much more like the Democratic respondents.” —<a href=\"https://www.washingtonpost.com/news/inspired-life/wp/2017/11/22/at-yale-we-conducted-an-experiment-to-turn-conservatives-into-liberals-the-results-say-a-lot-about-our-political-divisions/\">John Bargh</a></p>\n",
-			"date_published": "2017-11-23T11:17:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/23/why-gop-pols.html"
 		}
 		
 	]
