@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/30/they-nominated-and.html",
+	      	
+			"content_html": "<p>“They nominated and elected a sexist, bigoted, white-supremacist sympathizer because, to them, those traits were, on the one hand, not disqualifying, and on the other hand, commendable.” —<a href=\"https://www.nytimes.com/2017/11/30/opinion/trump-racism-white-supremacy.html\">Charles Blow</a></p>\n",
+			"date_published": "2017-11-30T06:57:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/30/they-nominated-and.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/30/but-these-stories.html",
 	      	
 			"content_html": "<p>“But these stories and plenty more before them reinforce the alternative: Trump does not grasp basic facts.” —<a href=\"https://www.washingtonpost.com/news/the-fix/wp/2017/11/29/is-trumps-alternate-reality-full-of-lies-or-something-even-worse/\">Aaron Blake</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“Freedom of speech and freedom of religion do not exempt business owners from public accommodations laws, which require them to serve customers equally.” —<a href=\"https://www.nytimes.com/2017/11/27/opinion/gay-wedding-cake.html\">John Corvino</a></p>\n",
 			"date_published": "2017-11-27T06:59:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/27/freedom-of-speech.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/26/one-of-my.html",
-	      	
-			"content_html": "<p>One of my shared links got retweeted into conservative^H reactionary twitter, so making good use of the block button today.</p>\n",
-			"date_published": "2017-11-26T11:44:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/26/one-of-my.html"
 		}
 		
 	]
