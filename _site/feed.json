@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/11/30/but-these-stories.html",
+	      	
+			"content_html": "<p>“But these stories and plenty more before them reinforce the alternative: Trump does not grasp basic facts.” —<a href=\"https://www.washingtonpost.com/news/the-fix/wp/2017/11/29/is-trumps-alternate-reality-full-of-lies-or-something-even-worse/\">Aaron Blake</a></p>\n",
+			"date_published": "2017-11-29T22:32:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/11/29/but-these-stories.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/11/29/the-joys-of.html",
 	      	
 			"content_html": "<p>The joys of home ownership…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/d14466c3ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>One of my shared links got retweeted into conservative^H reactionary twitter, so making good use of the block button today.</p>\n",
 			"date_published": "2017-11-26T11:44:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/26/one-of-my.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/24/muahahahaha-i-took.html",
-	      	
-			"content_html": "<p>Muahahahaha. I took a screen recording of the Quicken 2018 import progress sheet, found the account that was being imported during the crash (only visible for two frames of the recording), deleted the account from Quicken 2007, then import worked. Accounting vengeance is mine.</p>\n",
-			"date_published": "2017-11-24T11:01:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/24/muahahahaha-i-took.html"
 		}
 		
 	]
