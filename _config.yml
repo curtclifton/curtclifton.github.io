@@ -43,7 +43,7 @@ relative_permalinks: false
 author: "Curt Clifton"
 name: "Curt Clifton"
 gravatar_hash: "446db4307ac0d39e08cd818906ad7af8"
-avatar: "https://www.gravatar.com/avatar/446db4307ac0d39e08cd818906ad7af8?s=160"
+avatar: "https://micro.blog/curt/avatar.jpg"
 full_name: "Curt Clifton"
 bio: ""
 twitter_username: "curtclifton"
@@ -52,3 +52,4 @@ instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
+site_id: ["SITE_ID"]
