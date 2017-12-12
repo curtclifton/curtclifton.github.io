@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/12/12/structure-rebuilt-ready.html",
+	      	
+			"content_html": "<p>Structure rebuilt. Ready for siding. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/101268e823.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-12T09:45:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/12/12/structure-rebuilt-ready.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/12/11/had-a-fantastic.html",
 	      	
 			"content_html": "<p>Had a fantastic day skiing with @tbunch at Crystal. The snow was spotty, but the company and the view can’t be beat.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/b36be7811e.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“But these stories and plenty more before them reinforce the alternative: Trump does not grasp basic facts.” —<a href=\"https://www.washingtonpost.com/news/the-fix/wp/2017/11/29/is-trumps-alternate-reality-full-of-lies-or-something-even-worse/\">Aaron Blake</a></p>\n",
 			"date_published": "2017-11-29T22:32:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/29/but-these-stories.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/29/the-joys-of.html",
-	      	
-			"content_html": "<p>The joys of home ownership…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/d14466c3ee.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-29T09:26:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/29/the-joys-of.html"
 		}
 		
 	]
