@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/12/13/raising-a-glass.html",
+	      	
+			"content_html": "<p>Raising a glass to the good people of Alabama who sent Trump’s pedophile home and a man who took on the Klan to the Senate. Thank you. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/d5f1f5a1fc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-12T19:48:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/12/12/raising-a-glass.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/12/12/structure-rebuilt-ready.html",
 	      	
 			"content_html": "<p>Structure rebuilt. Ready for siding. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/101268e823.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“They nominated and elected a sexist, bigoted, white-supremacist sympathizer because, to them, those traits were, on the one hand, not disqualifying, and on the other hand, commendable.” —<a href=\"https://www.nytimes.com/2017/11/30/opinion/trump-racism-white-supremacy.html\">Charles Blow</a></p>\n",
 			"date_published": "2017-11-30T06:57:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/11/30/they-nominated-and.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/11/30/but-these-stories.html",
-	      	
-			"content_html": "<p>“But these stories and plenty more before them reinforce the alternative: Trump does not grasp basic facts.” —<a href=\"https://www.washingtonpost.com/news/the-fix/wp/2017/11/29/is-trumps-alternate-reality-full-of-lies-or-something-even-worse/\">Aaron Blake</a></p>\n",
-			"date_published": "2017-11-29T22:32:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/11/29/but-these-stories.html"
 		}
 		
 	]
