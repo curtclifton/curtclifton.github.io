@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2017/12/26/operation-flair-is.html",
+	      	
+			"content_html": "<p>Operation Flair is about to get real…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/ffb4a78229.jpg\" width=\"595\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-26T07:01:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/12/26/operation-flair-is.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2017/12/26/but-its-a.html",
+	      	
+			"content_html": "<p>But it’s a dry cold…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/b620082d19.jpg\" width=\"582\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-26T06:58:00-08:00",
+			"url": "http://microblog.curtclifton.net/2017/12/26/but-its-a.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2017/12/24/a-perfect-iowa.html",
 	      	
 			"content_html": "<p>A perfect Iowa snow. Cold enough to squeak under foot. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/620514501f.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Structure rebuilt. Ready for siding. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/101268e823.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-12T09:45:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/12/12/structure-rebuilt-ready.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/12/11/had-a-fantastic.html",
-	      	
-			"content_html": "<p>Had a fantastic day skiing with @tbunch at Crystal. The snow was spotty, but the company and the view can’t be beat.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/b36be7811e.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2017-12-10T18:04:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/12/10/had-a-fantastic.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/12/09/thanks-to-brentsimmonshttpsmicroblogbrentsimmons.html",
-	      	
-			"content_html": "<p>Thanks to <a href=\"https://micro.blog/brentsimmons\">@brentsimmons</a> for organizing and to everyone who turned out. It’s a great night that starts with so many wonderful friends and ends at the Five Point. I’m going to miss this crew. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/d2ab3c15d0.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-09T07:51:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/12/09/thanks-to-brentsimmonshttpsmicroblogbrentsimmons.html"
 		}
 		
 	]
