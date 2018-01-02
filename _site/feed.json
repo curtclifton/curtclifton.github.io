@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/02/dude-have-you.html",
+	      	
+			"content_html": "<p>Dude, have you ever, like, really thought about Mt. Shasta? #operationflair </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/641e771f6e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-02T14:06:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/02/dude-have-you.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/02/travel-day-eugene.html",
 	      	
 			"content_html": "<p>Travel day 2: Eugene to Redding. New day, new driver. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/50240b3e5f.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>We’ve got this. #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/488b60872a.jpg\" width=\"587\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-28T06:41:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/12/28/weve-got-this.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/12/28/everything-else-on.html",
-	      	
-			"content_html": "<p>Everything else on the list will wait until tomorrow. #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/7b0605d5c4.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-27T20:27:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/12/27/everything-else-on.html"
 		}
 		
 	]
