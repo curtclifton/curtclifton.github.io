@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/04/arrived-checked-in.html",
+	      	
+			"content_html": "<p>Arrived, checked in, and unloaded. #operationflair complete for now. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/1bf87e7184.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-03T16:20:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/03/arrived-checked-in.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/03/welcome-to-the.html",
 	      	
 			"content_html": "<p>Welcome to the Bay Area. #seattlesunshine #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/a4cde15e44.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Loading day. Rainy day. #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/fde00c258d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-29T08:49:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/12/29/loading-day-rainy.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/12/29/the-packing-is.html",
-	      	
-			"content_html": "<p>The packing is done. Time to go see a Star War. <pew></pew> </p>\n",
-			"date_published": "2017-12-28T17:11:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/12/28/the-packing-is.html"
 		}
 		
 	]
