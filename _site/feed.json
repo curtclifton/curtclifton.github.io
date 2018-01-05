@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/05/trump-has-no.html",
+	      	
+			"content_html": "<p>“Trump … has no executive function, no ability to process information or weigh consequences. Expecting him to act in the country’s interest is like demanding that your cat do the dishes.” —<a href=\"https://www.nytimes.com/2018/01/04/opinion/fire-fury-wolff-trump-book.html\">Michelle Goldberg</a></p>\n",
+			"date_published": "2018-01-04T21:19:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/04/trump-has-no.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/04/arrived-checked-in.html",
 	      	
 			"content_html": "<p>Arrived, checked in, and unloaded. #operationflair complete for now. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/1bf87e7184.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Nothing left but the dust bunnies. #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/f6ad363628.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-29T13:38:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/12/29/nothing-left-but.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/12/29/loading-day-rainy.html",
-	      	
-			"content_html": "<p>Loading day. Rainy day. #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/fde00c258d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-29T08:49:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/12/29/loading-day-rainy.html"
 		}
 		
 	]
