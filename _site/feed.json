@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/06/after-some-reflection.html",
+	      	
+			"content_html": "<p><a href=\"http://curtclifton.net/twitter-quitter\">After some reflection, I’ve concluded that even posting to Twitter is just providing content to a platform for hate and anger. I can’t fix that problem, but I can stop contributing to the platform. And so I will.</a></p>\n",
+			"date_published": "2018-01-06T13:57:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/06/after-some-reflection.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/05/trump-has-no.html",
 	      	
 			"content_html": "<p>“Trump … has no executive function, no ability to process information or weigh consequences. Expecting him to act in the country’s interest is like demanding that your cat do the dishes.” —<a href=\"https://www.nytimes.com/2018/01/04/opinion/fire-fury-wolff-trump-book.html\">Michelle Goldberg</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>One last Seattle Saturday run with <a href=\"https://micro.blog/jimcorreia\">@jimcorreia</a> and @papernapkinhead. Going to miss you guys. </p>\n",
 			"date_published": "2017-12-30T09:28:00-08:00",
 			"url": "http://microblog.curtclifton.net/2017/12/30/one-last-seattle.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/12/29/nothing-left-but.html",
-	      	
-			"content_html": "<p>Nothing left but the dust bunnies. #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2017/f6ad363628.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-29T13:38:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/12/29/nothing-left-but.html"
 		}
 		
 	]
