@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/07/sitting-outside-temps.html",
+	      	
+			"content_html": "<p>Sitting outside, temps in the mid-50s, Sonoma Chardonnay in my glass, pork chops on the grill. I might get used to California. </p>\n",
+			"date_published": "2018-01-06T17:40:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/06/sitting-outside-temps.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/06/after-some-reflection.html",
 	      	
 			"content_html": "<p><a href=\"http://curtclifton.net/twitter-quitter\">After some reflection, I’ve concluded that even posting to Twitter is just providing content to a platform for hate and anger. I can’t fix that problem, but I can stop contributing to the platform. And so I will.</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Garage repairs coming completed. Anybody want to buy a house. Newly spiffy garage included! </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/a20fcb4d33.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-01T09:02:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/01/garage-repairs-coming.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2017/12/30/one-last-seattle.html",
-	      	
-			"content_html": "<p>One last Seattle Saturday run with <a href=\"https://micro.blog/jimcorreia\">@jimcorreia</a> and @papernapkinhead. Going to miss you guys. </p>\n",
-			"date_published": "2017-12-30T09:28:00-08:00",
-			"url": "http://microblog.curtclifton.net/2017/12/30/one-last-seattle.html"
 		}
 		
 	]
