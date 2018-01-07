@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/07/apparently-im-still.html",
+	      	
+			"content_html": "<p>Apparently I’m still a 12 year old…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/68fd8f4c55.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-07T09:35:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/07/apparently-im-still.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/07/sitting-outside-temps.html",
 	      	
 			"content_html": "<p>Sitting outside, temps in the mid-50s, Sonoma Chardonnay in my glass, pork chops on the grill. I might get used to California. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>California or bust. #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/ec7f0e891a.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-01T10:55:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/01/california-or-bust.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/01/garage-repairs-coming.html",
-	      	
-			"content_html": "<p>Garage repairs coming completed. Anybody want to buy a house. Newly spiffy garage included! </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/a20fcb4d33.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-01T09:02:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/01/garage-repairs-coming.html"
 		}
 		
 	]
