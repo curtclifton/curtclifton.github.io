@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/12/making-lowerincome-americans.html",
+	      	
+			"content_html": "<p>“Making lower-income Americans worse off has become a goal in itself for the modern G.O.P., a goal the party is actually willing to spend money and increase deficits to achieve.” —<a href=\"https://www.nytimes.com/2018/01/11/opinion/dollars-cents-republican-sadism.html\">Paul Krugman</a></p>\n",
+			"date_published": "2018-01-12T06:46:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/12/making-lowerincome-americans.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/08/first-day-of.html",
 	      	
 			"content_html": "<p>First day of the new job. Better find my fresh box of crayons.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/242c22f968.jpg\" width=\"450\" height=\"450\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Dude, have you ever, like, really thought about Mt. Shasta? #operationflair </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/641e771f6e.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-02T14:06:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/02/dude-have-you.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/02/travel-day-eugene.html",
-	      	
-			"content_html": "<p>Travel day 2: Eugene to Redding. New day, new driver. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/50240b3e5f.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-02T10:19:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/02/travel-day-eugene.html"
 		}
 		
 	]
