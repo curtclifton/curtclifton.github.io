@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/08/first-day-of.html",
+	      	
+			"content_html": "<p>First day of the new job. Better find my fresh box of crayons.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/242c22f968.jpg\" width=\"450\" height=\"450\" /></p>\n",
+			"date_published": "2018-01-08T07:16:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/08/first-day-of.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/07/apparently-im-still.html",
 	      	
 			"content_html": "<p>Apparently I’m still a 12 year old…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/68fd8f4c55.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Travel day 2: Eugene to Redding. New day, new driver. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/50240b3e5f.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-02T10:19:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/02/travel-day-eugene.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/01/california-or-bust.html",
-	      	
-			"content_html": "<p>California or bust. #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/ec7f0e891a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-01T10:55:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/01/california-or-bust.html"
 		}
 		
 	]
