@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/18/apple-is-a.html",
+	      	
+			"content_html": "<p>“Apple is a success story that could only have happened in America, and we are proud to build on our long history of support for the US economy.” — <a href=\"https://www.apple.com/newsroom/2018/01/apple-accelerates-us-investment-and-job-creation/\">Tim Cook</a></p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/06187b02db.jpg\" width=\"600\" height=\"344\" /></p>\n",
+			"date_published": "2018-01-17T19:28:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/17/apple-is-a.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/14/i-think-brentsimmonshttpsmicroblogbrentsimmons.html",
 	      	
 			"content_html": "<p>I think <a href=\"https://micro.blog/brentsimmons\">@brentsimmons</a> would like this place…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/f8e0def05d.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Arrived, checked in, and unloaded. #operationflair complete for now. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/1bf87e7184.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-03T16:20:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/03/arrived-checked-in.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/03/welcome-to-the.html",
-	      	
-			"content_html": "<p>Welcome to the Bay Area. #seattlesunshine #operationflair</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/a4cde15e44.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-03T12:40:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/03/welcome-to-the.html"
 		}
 		
 	]
