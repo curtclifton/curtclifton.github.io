@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/01/20/it-was-wonderful.html",
+	      	
+			"content_html": "<p>It was wonderful to meet Dad’s cousin Kathy and her husband Raj (and to share their oranges from the tree). </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/04672729df.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-20T12:36:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/01/20/it-was-wonderful.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/01/18/apple-is-a.html",
 	      	
 			"content_html": "<p>“Apple is a success story that could only have happened in America, and we are proud to build on our long history of support for the US economy.” — <a href=\"https://www.apple.com/newsroom/2018/01/apple-accelerates-us-investment-and-job-creation/\">Tim Cook</a></p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/06187b02db.jpg\" width=\"600\" height=\"344\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“Trump … has no executive function, no ability to process information or weigh consequences. Expecting him to act in the country’s interest is like demanding that your cat do the dishes.” —<a href=\"https://www.nytimes.com/2018/01/04/opinion/fire-fury-wolff-trump-book.html\">Michelle Goldberg</a></p>\n",
 			"date_published": "2018-01-04T21:19:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/04/trump-has-no.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/04/arrived-checked-in.html",
-	      	
-			"content_html": "<p>Arrived, checked in, and unloaded. #operationflair complete for now. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/1bf87e7184.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-03T16:20:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/03/arrived-checked-in.html"
 		}
 		
 	]
