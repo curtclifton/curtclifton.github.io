@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/02/02/moving-in.html",
+	      	
+			"content_html": "<p>Moving in. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/291a2042a0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-02T12:12:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/02/02/moving-in.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/02/01/will-devin-nunes.html",
 	      	
 			"content_html": "<p>Will Devin Nunes be indicted before all this is over or just another of the Pumpkinführer’s unindicted co-conspirators? <a href=\"https://nyti.ms/2FuPWYY\">nyti.ms</a></p>\n\n<blockquote>\n  <p>The Real Aim of the Nunes Memo Is the Mueller Investigation</p>\n</blockquote>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>It was wonderful to meet Dad’s cousin Kathy and her husband Raj (and to share their oranges from the tree). </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/04672729df.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-20T12:36:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/20/it-was-wonderful.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/18/apple-is-a.html",
-	      	
-			"content_html": "<p>“Apple is a success story that could only have happened in America, and we are proud to build on our long history of support for the US economy.” — <a href=\"https://www.apple.com/newsroom/2018/01/apple-accelerates-us-investment-and-job-creation/\">Tim Cook</a></p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/06187b02db.jpg\" width=\"600\" height=\"344\" /></p>\n",
-			"date_published": "2018-01-17T19:28:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/17/apple-is-a.html"
 		}
 		
 	]
