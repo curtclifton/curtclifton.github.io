@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/02/07/the-nearly-uniform.html",
+	      	
+			"content_html": "<p>“The nearly uniform cowardice among elected Republicans is staggering. One is left wishing that Obamacare covered spine transplants.” —<a href=\"https://www.washingtonpost.com/opinions/the-cowardice-among-republicans-is-staggering/2018/02/05/41852454-0aa9-11e8-8890-372e2047c935_story.html\">Michael Gerson</a></p>\n",
+			"date_published": "2018-02-06T19:48:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/02/06/the-nearly-uniform.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/02/06/trump-will-never.html",
 	      	
 			"content_html": "<p>“Trump will never put the country above himself. And his Republican assistants in the legislature have so bought into Trumpism that they now know that they will share his fate.” —<a href=\"https://nyti.ms/2FJqbEy\">Charles M. Blow</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“Seven billion shaved apes generate a lot of weirdness in parallel, and these days it seems like they’ve all got keyboards” —<a href=\"http://www.antipope.org/charlie/blog-static/2018/01/the-crazy-years.html\">Charlie Stross</a></p>\n",
 			"date_published": "2018-01-25T21:17:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/25/seven-billion-shaved.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/21/this-place-has.html",
-	      	
-			"content_html": "<p>This place has everything. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/1013f0a178.jpg\" width=\"600\" height=\"451\" /></p>\n",
-			"date_published": "2018-01-21T12:35:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/21/this-place-has.html"
 		}
 		
 	]
