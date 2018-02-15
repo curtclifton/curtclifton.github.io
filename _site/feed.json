@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/02/15/remember-how-republicans.html",
+	      	
+			"content_html": "<p>“Remember how Republicans used to pitch virtue and personal accountability? They’ve become the party of alleged wife-beaters and hush money to porn stars.” —<a href=\"https://www.washingtonpost.com/opinions/trumps-reverse-merger-with-the-gop-is-complete/2018/02/13/a61108d6-10f6-11e8-9065-e55346f6de81_story.html\">David Von Drehle</a></p>\n",
+			"date_published": "2018-02-14T20:46:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/02/14/remember-how-republicans.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/02/08/selling-begat-more.html",
 	      	
 			"content_html": "<p>“selling begat more selling and wound up wiping out nearly $3 billion … Credit Suisse has now announced it [will] soon stop trading in the instrument, which in hindsight seems like the only sporting thing to do.” —<a href=\"https://www.washingtonpost.com/news/wonk/wp/2018/02/07/the-robots-v-robots-trading-that-has-hijacked-the-stock-market/\">Steven Pearlstein</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“The evidence is now quite strong that Donald Trump committed obstruction of justice. … the proper remedy for a president credibly accused of obstructing justice is impeachment.” —<a href=\"https://nyti.ms/2GqziuM\">David Leonhardt</a></p>\n",
 			"date_published": "2018-01-28T19:36:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/28/the-evidence-is.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/29/so-many-bikes.html",
-	      	
-			"content_html": "<p>So many bikes! Bike Connection in Palo Alto. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/09adaa3d90.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-28T16:45:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/28/so-many-bikes.html"
 		}
 		
 	]
