@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/02/17/repeal-the-second.html",
+	      	
+			"content_html": "<p>“Repeal the Second Amendment.\n…  The 46,445 murder victims killed by gunfire in the United States between 2012 and 2016 didn’t need to perish so that gun enthusiasts can go on fantasizing that ‘Red Dawn’ is the fate that soon awaits us.” —<a href=\"https://nyti.ms/2xUYXYG\">Bret Stephens</a></p>\n",
+			"date_published": "2018-02-16T21:58:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/02/16/repeal-the-second.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/02/16/the-invertebrates-in.html",
 	      	
 			"content_html": "<p>“The invertebrates in Congress and the soulless blowhard in the White House will not take even the most common-sensical measures to limit the use of militarized weapons by deeply troubled people.” —<a href=\"https://nyti.ms/2BZqSvq\">Timothy Egan</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Moving in. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/291a2042a0.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-02T12:12:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/02/02/moving-in.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/02/01/will-devin-nunes.html",
-	      	
-			"content_html": "<p>Will Devin Nunes be indicted before all this is over or just another of the Pumpkinführer’s unindicted co-conspirators? <a href=\"https://nyti.ms/2FuPWYY\">nyti.ms</a></p>\n\n<blockquote>\n  <p>The Real Aim of the Nunes Memo Is the Mueller Investigation</p>\n</blockquote>\n",
-			"date_published": "2018-01-31T21:14:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/31/will-devin-nunes.html"
 		}
 		
 	]
