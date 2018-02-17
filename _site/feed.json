@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/02/17/it-took-five.html",
+	      	
+			"content_html": "<p>It took five people in two states, but we managed to cancel my mother-in-law’s Amazon Prime membership. </p>\n",
+			"date_published": "2018-02-17T08:55:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/02/17/it-took-five.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/02/17/repeal-the-second.html",
 	      	
 			"content_html": "<p>“Repeal the Second Amendment.\n…  The 46,445 murder victims killed by gunfire in the United States between 2012 and 2016 didn’t need to perish so that gun enthusiasts can go on fantasizing that ‘Red Dawn’ is the fate that soon awaits us.” —<a href=\"https://nyti.ms/2xUYXYG\">Bret Stephens</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“…the market plunge of the past few days might mean nothing at all. … So, are we heading for trouble? Too soon to tell. But if we are, rest assured that we’ll have the worst possible people on the case.” —<a href=\"https://nyti.ms/2FP8ALe\">Paul Krugman</a></p>\n",
 			"date_published": "2018-02-05T21:20:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/02/05/the-market-plunge.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/02/02/moving-in.html",
-	      	
-			"content_html": "<p>Moving in. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/291a2042a0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-02T12:12:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/02/02/moving-in.html"
 		}
 		
 	]
