@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/02/18/sitting-in-a.html",
+	      	
+			"content_html": "<p>Sitting in a coffee shop looking out the front window, I see a tutoring center across the street with a terribly kerned font on their sign. It seems to be the Russian School of Meh.</p>\n",
+			"date_published": "2018-02-18T08:44:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/02/18/sitting-in-a.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/02/18/touristing.html",
 	      	
 			"content_html": "<p>Tourist-ing. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/9ce5306819.jpg\" width=\"450\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“The nearly uniform cowardice among elected Republicans is staggering. One is left wishing that Obamacare covered spine transplants.” —<a href=\"https://www.washingtonpost.com/opinions/the-cowardice-among-republicans-is-staggering/2018/02/05/41852454-0aa9-11e8-8890-372e2047c935_story.html\">Michael Gerson</a></p>\n",
 			"date_published": "2018-02-06T19:48:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/02/06/the-nearly-uniform.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/02/06/trump-will-never.html",
-	      	
-			"content_html": "<p>“Trump will never put the country above himself. And his Republican assistants in the legislature have so bought into Trumpism that they now know that they will share his fate.” —<a href=\"https://nyti.ms/2FJqbEy\">Charles M. Blow</a></p>\n",
-			"date_published": "2018-02-05T21:31:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/02/05/trump-will-never.html"
 		}
 		
 	]
