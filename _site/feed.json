@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/03/04/parking-our-car.html",
+	      	
+			"content_html": "<p>Parking our car in the garage in California like some kind of subversive. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/5d78c59f6a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-04T11:30:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/03/04/parking-our-car.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2018/03/04/add-in-the.html",
+	      	
+			"content_html": "<p>“Add in the fact that other countries would retaliate …, and you have a truly terrible, dumb policy idea. Which makes it quite likely, as I see it, that Trump will indeed follow through.” —<a href=\"https://nyti.ms/2FbENwk\">Paul Krugman</a>/</p>\n",
+			"date_published": "2018-03-03T18:04:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/03/03/add-in-the.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2018/02/25/poor-ideas-in.html",
+	      	
+			"content_html": "<p>Poor ideas in chandeliers. At least they aren’t sharpened. Safety first. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/718009d006.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-25T12:21:00-08:00",
+			"url": "http://microblog.curtclifton.net/2018/02/25/poor-ideas-in.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/02/22/looking-at-the.html",
 	      	
 			"content_html": "<p>“Looking at the list, you have to wonder what the Trump Presidential Museum would look like. … One big plus. We’re not going to need a presidential library.” —<a href=\"https://nyti.ms/2BJCEZR\">Gail Collins</a></p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>Santa Cruz. Just an hour from home. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/bd4bccdfb6.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-01-21T12:16:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/21/santa-cruz-just.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/20/it-was-wonderful.html",
-	      	
-			"content_html": "<p>It was wonderful to meet Dad’s cousin Kathy and her husband Raj (and to share their oranges from the tree). </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/04672729df.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-20T12:36:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/20/it-was-wonderful.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/18/apple-is-a.html",
-	      	
-			"content_html": "<p>“Apple is a success story that could only have happened in America, and we are proud to build on our long history of support for the US economy.” — <a href=\"https://www.apple.com/newsroom/2018/01/apple-accelerates-us-investment-and-job-creation/\">Tim Cook</a></p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/06187b02db.jpg\" width=\"600\" height=\"344\" /></p>\n",
-			"date_published": "2018-01-17T19:28:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/17/apple-is-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/14/i-think-brentsimmonshttpsmicroblogbrentsimmons.html",
-	      	
-			"content_html": "<p>I think <a href=\"https://micro.blog/brentsimmons\">@brentsimmons</a> would like this place…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/f8e0def05d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-13T16:02:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/13/i-think-brentsimmonshttpsmicroblogbrentsimmons.html"
 		}
 		
 	]
