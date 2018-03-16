@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-07 09:35 -0800
+audio: 
+date: 2018-01-07 10:35 -0700
 guid: http://curt.micro.blog/2018/01/07/apparently-im-still.html
 ---
 Apparently I’m still a 12 year old…
