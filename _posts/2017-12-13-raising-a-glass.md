@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-12 19:48 -0800
+audio: 
+date: 2017-12-12 20:48 -0700
 guid: http://curt.micro.blog/2017/12/13/raising-a-glass.html
 ---
 Raising a glass to the good people of Alabama who sent Trump’s pedophile home and a man who took on the Klan to the Senate. Thank you. 
