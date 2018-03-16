@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-02 14:06 -0800
+audio: 
+date: 2018-01-02 15:06 -0700
 guid: http://curt.micro.blog/2018/01/02/dude-have-you.html
 ---
 Dude, have you ever, like, really thought about Mt. Shasta? #operationflair 
