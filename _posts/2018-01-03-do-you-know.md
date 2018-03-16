@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-03 09:00 -0800
+audio: 
+date: 2018-01-03 10:00 -0700
 guid: http://curt.micro.blog/2018/01/03/do-you-know.html
 ---
 Do you know the way to San Jose? #operationflair
