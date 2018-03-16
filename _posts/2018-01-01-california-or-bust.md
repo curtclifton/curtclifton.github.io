@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-01 10:55 -0800
+audio: 
+date: 2018-01-01 11:55 -0700
 guid: http://curt.micro.blog/2018/01/01/california-or-bust.html
 ---
 California or bust. #operationflair
