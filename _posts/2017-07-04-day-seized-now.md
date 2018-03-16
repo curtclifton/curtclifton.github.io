@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-03 18:05 -0800
+audio: 
+date: 2017-07-03 19:05 -0700
 guid: http://curt.micro.blog/2017/07/04/day-seized-now.html
 ---
 Day seized. Now for S’mores. 
