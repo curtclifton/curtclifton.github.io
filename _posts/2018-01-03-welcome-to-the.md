@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-03 12:40 -0800
+audio: 
+date: 2018-01-03 13:40 -0700
 guid: http://curt.micro.blog/2018/01/03/welcome-to-the.html
 ---
 Welcome to the Bay Area. #seattlesunshine #operationflair
