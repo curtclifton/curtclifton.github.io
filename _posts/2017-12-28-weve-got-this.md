@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-28 06:41 -0800
+audio: 
+date: 2017-12-28 07:41 -0700
 guid: http://curt.micro.blog/2017/12/28/weve-got-this.html
 ---
 We’ve got this. #operationflair
