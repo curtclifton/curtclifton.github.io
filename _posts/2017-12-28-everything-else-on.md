@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-27 20:27 -0800
+audio: 
+date: 2017-12-27 21:27 -0700
 guid: http://curt.micro.blog/2017/12/28/everything-else-on.html
 ---
 Everything else on the list will wait until tomorrow. #operationflair
