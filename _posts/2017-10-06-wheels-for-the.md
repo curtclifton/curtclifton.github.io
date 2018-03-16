@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-06 08:12 -0800
+audio: 
+date: 2017-10-06 09:12 -0700
 guid: http://curt.micro.blog/2017/10/06/wheels-for-the.html
 ---
 Wheels for the week. Trying on the Jeep life. 
