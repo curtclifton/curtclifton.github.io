@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-05 15:22 -0800
+audio: 
+date: 2017-12-05 16:22 -0700
 guid: http://curt.micro.blog/2017/12/05/my-new-executive.html
 ---
 My new executive assistant…
