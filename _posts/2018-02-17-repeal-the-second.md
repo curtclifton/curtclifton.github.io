@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-16 21:58 -0800
+audio: 
+date: 2018-02-16 22:58 -0700
 guid: http://curt.micro.blog/2018/02/17/repeal-the-second.html
 ---
 “Repeal the Second Amendment.
