@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-15 14:41 -0800
+audio: 
+date: 2017-12-15 15:41 -0700
 guid: http://curt.micro.blog/2017/12/15/posted-next-actionsafter.html
 ---
 Posted: Next Actions
