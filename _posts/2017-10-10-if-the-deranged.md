@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-10 13:02 -0800
+audio: 
+date: 2017-10-10 14:02 -0700
 guid: http://curt.micro.blog/2017/10/10/if-the-deranged.html
 ---
 If the deranged coconut trees don’t get you…
