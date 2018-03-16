@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-10 00:38 -0800
+audio: 
+date: 2017-10-10 01:38 -0700
 guid: http://curt.micro.blog/2017/10/10/at-puaa-kaa.html
 ---
 At Pua’a Ka’a State Park outside Hana, Hawai’i. 
