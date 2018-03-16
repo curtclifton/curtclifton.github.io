@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-18 20:22 -0800
+audio: 
+date: 2017-10-18 21:22 -0700
 guid: http://curt.micro.blog/2017/10/19/thats-more-like.html
 ---
 That’s more like it, Cubbies…
