@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-21 12:16 -0800
+audio: 
+date: 2018-01-21 13:16 -0700
 guid: http://curt.micro.blog/2018/01/21/santa-cruz-just.html
 ---
 Santa Cruz. Just an hour from home. 
