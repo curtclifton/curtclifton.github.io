@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-25 15:38 -0800
+audio: 
+date: 2017-06-25 16:38 -0700
 guid: http://curt.micro.blog/2017/06/25/those-power-lines.html
 ---
 Those power lines are farther away than they look. 
