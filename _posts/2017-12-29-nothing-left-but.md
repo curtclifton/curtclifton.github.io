@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-29 13:38 -0800
+audio: 
+date: 2017-12-29 14:38 -0700
 guid: http://curt.micro.blog/2017/12/29/nothing-left-but.html
 ---
 Nothing left but the dust bunnies. #operationflair
