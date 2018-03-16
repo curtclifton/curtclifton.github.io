@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-06 11:52 -0800
+audio: 
+date: 2017-10-06 12:52 -0700
 guid: http://curt.micro.blog/2017/10/06/lying-on-kapalua.html
 ---
 Lying on Kapalua Bay Beach, listening to the waves, and watching the clouds build on Molokai. 
