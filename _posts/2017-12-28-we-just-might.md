@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-27 18:02 -0800
+audio: 
+date: 2017-12-27 19:02 -0700
 guid: http://curt.micro.blog/2017/12/28/we-just-might.html
 ---
 We just might make it. #operationflair
