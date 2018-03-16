@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-14 16:19 -0800
+audio: 
+date: 2017-10-14 17:19 -0700
 guid: http://curt.micro.blog/2017/10/15/some-decisions-are.html
 ---
 Some decisions are agonizing…
