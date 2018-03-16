@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-06 12:10 -0800
+audio: 
+date: 2017-08-06 13:10 -0700
 guid: http://curt.micro.blog/2017/08/06/matchless-summer-esb.html
 ---
 Matchless Summer ESB and a 74th St. Red Reuben. Mariners double header on the TV. 
