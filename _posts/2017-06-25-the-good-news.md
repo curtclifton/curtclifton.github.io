@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-25 15:15 -0800
+audio: 
+date: 2017-06-25 16:15 -0700
 guid: http://curt.micro.blog/2017/06/25/the-good-news.html
 ---
 The good news is the yard waste bin is full, so we're done until Friday. 
