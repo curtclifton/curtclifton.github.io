@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-12 10:08 -0800
+audio: 
+date: 2017-10-12 11:08 -0700
 guid: http://curt.micro.blog/2017/10/12/palm-trees-over.html
 ---
 Palm trees over Napili Beach…
