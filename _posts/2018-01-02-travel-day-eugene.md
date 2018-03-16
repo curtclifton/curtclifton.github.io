@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-02 10:19 -0800
+audio: 
+date: 2018-01-02 11:19 -0700
 guid: http://curt.micro.blog/2018/01/02/travel-day-eugene.html
 ---
 Travel day 2: Eugene to Redding. New day, new driver. 
