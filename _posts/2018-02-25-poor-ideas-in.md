@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-25 12:21 -0800
+audio: 
+date: 2018-02-25 13:21 -0700
 guid: http://curt.micro.blog/2018/02/25/poor-ideas-in.html
 ---
 Poor ideas in chandeliers. At least they aren’t sharpened. Safety first. 
