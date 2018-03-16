@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-25 19:50 -0800
+audio: 
+date: 2017-07-25 20:50 -0700
 guid: http://curt.micro.blog/2017/07/26/hey-seattle-if.html
 ---
 Hey, Seattle. If you haven’t pick a mayoral candidate, please consider Jessyn Farrell, a brilliant transit/density wonk who can get things done. Just six days left to vote!
