@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-11-23 09:54 -0800
+audio: 
+date: 2017-11-23 10:54 -0700
 guid: http://curt.micro.blog/2017/11/23/happy-thanksgiving-this.html
 ---
 Happy Thanksgiving. This morning I’m thankful for coffee. Starting small…
