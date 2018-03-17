@@ -6,10 +6,26 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/03/17/posted-something-old.html",
+	      	
+			"content_html": "<p>Posted: <a href=\"http://curtclifton.development/something-old-something-new\">Something Old, Something New</a></p>\n\n<p>Over an excellent machiatto at Chromatic Coffee this morning, I put together a couple of OmniFocus scripts to share.</p>\n",
+			"date_published": "2018-03-17T11:07:00-07:00",
+			"url": "http://microblog.curtclifton.net/2018/03/17/posted-something-old.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2018/03/16/posted-incomplete-and.html",
+	      	
+			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/incomplete-and-awaiting-updates\">Incomplete and Awaiting Updates</a></p>\n\n<p>“The latest release of OmniFocus, version 2.12 for Mac, changes how task completion works under the hood.”</p>\n",
+			"date_published": "2018-03-16T05:50:00-07:00",
+			"url": "http://microblog.curtclifton.net/2018/03/16/posted-incomplete-and.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/03/08/now-the-partys.html",
 	      	
 			"content_html": "<p>“Now the party’s steady transformation into an American version of France’s National Front is probably unstoppable. Republicans unhappy with that drift … should leave while they can with honor intact. Gary Cohn’s exit isn’t just another resignation. It’s also a final warning.” —<a href=\"https://nyti.ms/2G3Dalz\">Bret Stephens</a></p>\n",
-			"date_published": "2018-03-07T18:54:00-08:00",
+			"date_published": "2018-03-07T19:54:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/03/07/now-the-partys.html"
 		},
 		
@@ -17,7 +33,7 @@
 			"id": "http://curt.micro.blog/2018/03/04/parking-our-car.html",
 	      	
 			"content_html": "<p>Parking our car in the garage in California like some kind of subversive. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/5d78c59f6a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-04T11:30:00-08:00",
+			"date_published": "2018-03-04T12:30:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/03/04/parking-our-car.html"
 		},
 		
@@ -25,7 +41,7 @@
 			"id": "http://curt.micro.blog/2018/03/04/add-in-the.html",
 	      	
 			"content_html": "<p>“Add in the fact that other countries would retaliate …, and you have a truly terrible, dumb policy idea. Which makes it quite likely, as I see it, that Trump will indeed follow through.” —<a href=\"https://nyti.ms/2FbENwk\">Paul Krugman</a>/</p>\n",
-			"date_published": "2018-03-03T18:04:00-08:00",
+			"date_published": "2018-03-03T19:04:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/03/03/add-in-the.html"
 		},
 		
@@ -33,7 +49,7 @@
 			"id": "http://curt.micro.blog/2018/02/25/poor-ideas-in.html",
 	      	
 			"content_html": "<p>Poor ideas in chandeliers. At least they aren’t sharpened. Safety first. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/718009d006.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-25T12:21:00-08:00",
+			"date_published": "2018-02-25T13:21:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/25/poor-ideas-in.html"
 		},
 		
@@ -41,7 +57,7 @@
 			"id": "http://curt.micro.blog/2018/02/22/looking-at-the.html",
 	      	
 			"content_html": "<p>“Looking at the list, you have to wonder what the Trump Presidential Museum would look like. … One big plus. We’re not going to need a presidential library.” —<a href=\"https://nyti.ms/2BJCEZR\">Gail Collins</a></p>\n",
-			"date_published": "2018-02-21T19:57:00-08:00",
+			"date_published": "2018-02-21T20:57:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/21/looking-at-the.html"
 		},
 		
@@ -49,7 +65,7 @@
 			"id": "http://curt.micro.blog/2018/02/18/sitting-in-a.html",
 	      	
 			"content_html": "<p>Sitting in a coffee shop looking out the front window, I see a tutoring center across the street with a terribly kerned font on their sign. It seems to be the Russian School of Meh.</p>\n",
-			"date_published": "2018-02-18T08:44:00-08:00",
+			"date_published": "2018-02-18T09:44:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/18/sitting-in-a.html"
 		},
 		
@@ -57,7 +73,7 @@
 			"id": "http://curt.micro.blog/2018/02/18/touristing.html",
 	      	
 			"content_html": "<p>Tourist-ing. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/9ce5306819.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-17T16:34:00-08:00",
+			"date_published": "2018-02-17T17:34:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/17/touristing.html"
 		},
 		
@@ -65,7 +81,7 @@
 			"id": "http://curt.micro.blog/2018/02/17/it-took-five.html",
 	      	
 			"content_html": "<p>It took five people in two states, but we managed to cancel my mother-in-law’s Amazon Prime membership. </p>\n",
-			"date_published": "2018-02-17T08:55:00-08:00",
+			"date_published": "2018-02-17T09:55:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/17/it-took-five.html"
 		},
 		
@@ -73,7 +89,7 @@
 			"id": "http://curt.micro.blog/2018/02/17/repeal-the-second.html",
 	      	
 			"content_html": "<p>“Repeal the Second Amendment.\n…  The 46,445 murder victims killed by gunfire in the United States between 2012 and 2016 didn’t need to perish so that gun enthusiasts can go on fantasizing that ‘Red Dawn’ is the fate that soon awaits us.” —<a href=\"https://nyti.ms/2xUYXYG\">Bret Stephens</a></p>\n",
-			"date_published": "2018-02-16T21:58:00-08:00",
+			"date_published": "2018-02-16T22:58:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/16/repeal-the-second.html"
 		},
 		
@@ -81,7 +97,7 @@
 			"id": "http://curt.micro.blog/2018/02/16/the-invertebrates-in.html",
 	      	
 			"content_html": "<p>“The invertebrates in Congress and the soulless blowhard in the White House will not take even the most common-sensical measures to limit the use of militarized weapons by deeply troubled people.” —<a href=\"https://nyti.ms/2BZqSvq\">Timothy Egan</a></p>\n",
-			"date_published": "2018-02-15T18:16:00-08:00",
+			"date_published": "2018-02-15T19:16:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/15/the-invertebrates-in.html"
 		},
 		
@@ -89,7 +105,7 @@
 			"id": "http://curt.micro.blog/2018/02/16/here-are-all.html",
 	      	
 			"content_html": "<p><a href=\"https://splinternews.com/every-member-of-congress-who-took-money-from-the-nra-an-1823035413\">“Here are all the lawmakers who have tweeted “thoughts and prayers” with one hand while eagerly cashing NRA checks with the other.”</a>  103 Republicans, 1 Democrat. Family values my ass.</p>\n",
-			"date_published": "2018-02-15T18:09:00-08:00",
+			"date_published": "2018-02-15T19:09:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/15/here-are-all.html"
 		},
 		
@@ -97,7 +113,7 @@
 			"id": "http://curt.micro.blog/2018/02/15/remember-how-republicans.html",
 	      	
 			"content_html": "<p>“Remember how Republicans used to pitch virtue and personal accountability? They’ve become the party of alleged wife-beaters and hush money to porn stars.” —<a href=\"https://www.washingtonpost.com/opinions/trumps-reverse-merger-with-the-gop-is-complete/2018/02/13/a61108d6-10f6-11e8-9065-e55346f6de81_story.html\">David Von Drehle</a></p>\n",
-			"date_published": "2018-02-14T20:46:00-08:00",
+			"date_published": "2018-02-14T21:46:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/14/remember-how-republicans.html"
 		},
 		
@@ -105,7 +121,7 @@
 			"id": "http://curt.micro.blog/2018/02/08/selling-begat-more.html",
 	      	
 			"content_html": "<p>“selling begat more selling and wound up wiping out nearly $3 billion … Credit Suisse has now announced it [will] soon stop trading in the instrument, which in hindsight seems like the only sporting thing to do.” —<a href=\"https://www.washingtonpost.com/news/wonk/wp/2018/02/07/the-robots-v-robots-trading-that-has-hijacked-the-stock-market/\">Steven Pearlstein</a></p>\n",
-			"date_published": "2018-02-07T21:22:00-08:00",
+			"date_published": "2018-02-07T22:22:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/07/selling-begat-more.html"
 		},
 		
@@ -113,7 +129,7 @@
 			"id": "http://curt.micro.blog/2018/02/07/if-you-believe.html",
 	      	
 			"content_html": "<p>“If you believe in the rule of law, democratic norms and institutions and decent public debate, Republicans must pay a heavy, heavy price for indulging Trump.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2018/02/06/trumps-lapdogs-now-accept-the-labeling-of-opponents-as-treasonous/\">Jennifer Rubin</a></p>\n",
-			"date_published": "2018-02-06T22:10:00-08:00",
+			"date_published": "2018-02-06T23:10:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/06/if-you-believe.html"
 		},
 		
@@ -121,7 +137,7 @@
 			"id": "http://curt.micro.blog/2018/02/07/the-nearly-uniform.html",
 	      	
 			"content_html": "<p>“The nearly uniform cowardice among elected Republicans is staggering. One is left wishing that Obamacare covered spine transplants.” —<a href=\"https://www.washingtonpost.com/opinions/the-cowardice-among-republicans-is-staggering/2018/02/05/41852454-0aa9-11e8-8890-372e2047c935_story.html\">Michael Gerson</a></p>\n",
-			"date_published": "2018-02-06T19:48:00-08:00",
+			"date_published": "2018-02-06T20:48:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/06/the-nearly-uniform.html"
 		},
 		
@@ -129,7 +145,7 @@
 			"id": "http://curt.micro.blog/2018/02/06/trump-will-never.html",
 	      	
 			"content_html": "<p>“Trump will never put the country above himself. And his Republican assistants in the legislature have so bought into Trumpism that they now know that they will share his fate.” —<a href=\"https://nyti.ms/2FJqbEy\">Charles M. Blow</a></p>\n",
-			"date_published": "2018-02-05T21:31:00-08:00",
+			"date_published": "2018-02-05T22:31:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/05/trump-will-never.html"
 		},
 		
@@ -137,7 +153,7 @@
 			"id": "http://curt.micro.blog/2018/02/06/the-market-plunge.html",
 	      	
 			"content_html": "<p>“…the market plunge of the past few days might mean nothing at all. … So, are we heading for trouble? Too soon to tell. But if we are, rest assured that we’ll have the worst possible people on the case.” —<a href=\"https://nyti.ms/2FP8ALe\">Paul Krugman</a></p>\n",
-			"date_published": "2018-02-05T21:20:00-08:00",
+			"date_published": "2018-02-05T22:20:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/05/the-market-plunge.html"
 		},
 		
@@ -145,7 +161,7 @@
 			"id": "http://curt.micro.blog/2018/02/02/moving-in.html",
 	      	
 			"content_html": "<p>Moving in. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/291a2042a0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-02T12:12:00-08:00",
+			"date_published": "2018-02-02T13:12:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/02/02/moving-in.html"
 		},
 		
@@ -153,7 +169,7 @@
 			"id": "http://curt.micro.blog/2018/02/01/will-devin-nunes.html",
 	      	
 			"content_html": "<p>Will Devin Nunes be indicted before all this is over or just another of the Pumpkinführer’s unindicted co-conspirators? <a href=\"https://nyti.ms/2FuPWYY\">nyti.ms</a></p>\n\n<blockquote>\n  <p>The Real Aim of the Nunes Memo Is the Mueller Investigation</p>\n</blockquote>\n",
-			"date_published": "2018-01-31T21:14:00-08:00",
+			"date_published": "2018-01-31T22:14:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/01/31/will-devin-nunes.html"
 		},
 		
@@ -161,7 +177,7 @@
 			"id": "http://curt.micro.blog/2018/02/01/032528.html",
 	      	
 			"content_html": "<p><a href=\"http://inessential.com/2018/01/31/the_omni_show_7_ken_case_talks_about_t\">inessential.com</a></p>\n\n<blockquote>\n  <p>The Omni Show #7: Ken Case Talks About the 2018 Roadmap</p>\n</blockquote>\n",
-			"date_published": "2018-01-31T19:25:00-08:00",
+			"date_published": "2018-01-31T20:25:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/01/31/032528.html"
 		},
 		
@@ -169,7 +185,7 @@
 			"id": "http://curt.micro.blog/2018/01/29/the-evidence-is.html",
 	      	
 			"content_html": "<p>“The evidence is now quite strong that Donald Trump committed obstruction of justice. … the proper remedy for a president credibly accused of obstructing justice is impeachment.” —<a href=\"https://nyti.ms/2GqziuM\">David Leonhardt</a></p>\n",
-			"date_published": "2018-01-28T19:36:00-08:00",
+			"date_published": "2018-01-28T20:36:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/01/28/the-evidence-is.html"
 		},
 		
@@ -177,7 +193,7 @@
 			"id": "http://curt.micro.blog/2018/01/29/so-many-bikes.html",
 	      	
 			"content_html": "<p>So many bikes! Bike Connection in Palo Alto. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/09adaa3d90.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-28T16:45:00-08:00",
+			"date_published": "2018-01-28T17:45:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/01/28/so-many-bikes.html"
 		},
 		
@@ -185,24 +201,8 @@
 			"id": "http://curt.micro.blog/2018/01/27/christian-conservatives-may.html",
 	      	
 			"content_html": "<p>“Christian conservatives may believe strongly in their own righteousness. But from the outside, it looks as if their movement was never really about morality at all.” —<a href=\"https://nyti.ms/2GfXdx0\">Michelle Goldberg</a></p>\n",
-			"date_published": "2018-01-26T20:15:00-08:00",
+			"date_published": "2018-01-26T21:15:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/01/26/christian-conservatives-may.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/26/seven-billion-shaved.html",
-	      	
-			"content_html": "<p>“Seven billion shaved apes generate a lot of weirdness in parallel, and these days it seems like they’ve all got keyboards” —<a href=\"http://www.antipope.org/charlie/blog-static/2018/01/the-crazy-years.html\">Charlie Stross</a></p>\n",
-			"date_published": "2018-01-25T21:17:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/25/seven-billion-shaved.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/21/this-place-has.html",
-	      	
-			"content_html": "<p>This place has everything. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/1013f0a178.jpg\" width=\"600\" height=\"451\" /></p>\n",
-			"date_published": "2018-01-21T12:35:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/21/this-place-has.html"
 		}
 		
 	]
