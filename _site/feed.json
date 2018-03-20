@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/03/20/this-wasnt-informed.html",
+	      	
+			"content_html": "<p>“This wasn’t informed consent. This was the exploitation of user data and user trust.” —<a href=\"https://nyti.ms/2GIBJJM\">Zeynep Tufekci</a></p>\n",
+			"date_published": "2018-03-19T19:24:00-07:00",
+			"url": "http://microblog.curtclifton.net/2018/03/19/this-wasnt-informed.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/03/17/201914.html",
 	      	
 			"content_html": "<p>Posted: <a href=\"http://curtclifton.net/something-old-something-new\">Something Old, Something New</a></p>\n\n<p>Over an excellent machiatto at Chromatic Coffee this morning, I put together a couple of OmniFocus scripts to share.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>So many bikes! Bike Connection in Palo Alto. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/09adaa3d90.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-28T17:45:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/01/28/so-many-bikes.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/27/christian-conservatives-may.html",
-	      	
-			"content_html": "<p>“Christian conservatives may believe strongly in their own righteousness. But from the outside, it looks as if their movement was never really about morality at all.” —<a href=\"https://nyti.ms/2GfXdx0\">Michelle Goldberg</a></p>\n",
-			"date_published": "2018-01-26T21:15:00-07:00",
-			"url": "http://microblog.curtclifton.net/2018/01/26/christian-conservatives-may.html"
 		}
 		
 	]
