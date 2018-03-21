@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/03/21/with-one-voice.html",
+	      	
+			"content_html": "<p>“With one voice, Republicans in Congress have made it clear that if the president takes this extreme step, they will not be afraid to defy him by appearing on a cable news channel and saying something noncommittal. ” —<a href=\"https://www.washingtonpost.com/blogs/compost/wp/2018/03/19/if-trump-fires-mueller-republicans-will-be-like-really-disappointed/\">Alexandra Petri</a></p>\n",
+			"date_published": "2018-03-20T21:00:00-07:00",
+			"url": "http://microblog.curtclifton.net/2018/03/20/with-one-voice.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/03/20/this-wasnt-informed.html",
 	      	
 			"content_html": "<p>“This wasn’t informed consent. This was the exploitation of user data and user trust.” —<a href=\"https://nyti.ms/2GIBJJM\">Zeynep Tufekci</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>“The evidence is now quite strong that Donald Trump committed obstruction of justice. … the proper remedy for a president credibly accused of obstructing justice is impeachment.” —<a href=\"https://nyti.ms/2GqziuM\">David Leonhardt</a></p>\n",
 			"date_published": "2018-01-28T20:36:00-07:00",
 			"url": "http://microblog.curtclifton.net/2018/01/28/the-evidence-is.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/01/29/so-many-bikes.html",
-	      	
-			"content_html": "<p>So many bikes! Bike Connection in Palo Alto. </p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/09adaa3d90.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-28T17:45:00-07:00",
-			"url": "http://microblog.curtclifton.net/2018/01/28/so-many-bikes.html"
 		}
 		
 	]
