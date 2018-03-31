@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/03/31/facebooks-irresponsibility-isnt.html",
+	      	
+			"content_html": "<p>“Facebook’s irresponsibility isn’t merely an abuse of a personal relationship …, but also an abuse of a civic relationship.” —<a href=\"https://www.nytimes.com/2018/03/29/opinion/facebook-privacy-zuckerberg-society.html?mabReward=CTM4&amp;recid=12b5lSThhZdoKLDidOUOHvh3Ywj&amp;recp=8&amp;mi_u=42835064\">Noam Cohen</a></p>\n",
+			"date_published": "2018-03-31T08:55:00-07:00",
+			"url": "http://microblog.curtclifton.net/2018/03/31/facebooks-irresponsibility-isnt.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/03/31/i-suppose-this.html",
 	      	
 			"content_html": "<p>I suppose this means I’m a Californian now.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/f4cffddbaa.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Will Devin Nunes be indicted before all this is over or just another of the Pumpkinführer’s unindicted co-conspirators? <a href=\"https://nyti.ms/2FuPWYY\">nyti.ms</a></p>\n\n<blockquote>\n  <p>The Real Aim of the Nunes Memo Is the Mueller Investigation</p>\n</blockquote>\n",
 			"date_published": "2018-01-31T21:14:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/01/31/will-devin-nunes.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/02/01/032528.html",
-	      	
-			"content_html": "<p><a href=\"http://inessential.com/2018/01/31/the_omni_show_7_ken_case_talks_about_t\">inessential.com</a></p>\n\n<blockquote>\n  <p>The Omni Show #7: Ken Case Talks About the 2018 Roadmap</p>\n</blockquote>\n",
-			"date_published": "2018-01-31T19:25:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/01/31/032528.html"
 		}
 		
 	]
