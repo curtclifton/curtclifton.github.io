@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/04/04/its-promises-to.html",
+	      	
+			"content_html": "<p>“Its promises to investors have demanded an ever-improving ability to spy on and manipulate large populations of people. Facebook, at its core, is a surveillance machine, and to expect that to change is misplaced optimism.” —<a href=\"https://nyti.ms/2H5wwfa\">Tim Wu</a></p>\n",
+			"date_published": "2018-04-03T21:34:00-07:00",
+			"url": "http://microblog.curtclifton.net/2018/04/03/its-promises-to.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/04/03/conservative-efforts-to.html",
 	      	
 			"content_html": "<p>“…conservative efforts to downsize government will hurt people all across America, but it will disproportionately hurt the very regions that put the G.O.P. in power.” —<a href=\"https://nyti.ms/2q0WTLo\">Paul Krugman</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>“If you believe in the rule of law, democratic norms and institutions and decent public debate, Republicans must pay a heavy, heavy price for indulging Trump.” —<a href=\"https://www.washingtonpost.com/blogs/right-turn/wp/2018/02/06/trumps-lapdogs-now-accept-the-labeling-of-opponents-as-treasonous/\">Jennifer Rubin</a></p>\n",
 			"date_published": "2018-02-06T22:10:00-08:00",
 			"url": "http://microblog.curtclifton.net/2018/02/06/if-you-believe.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/02/07/the-nearly-uniform.html",
-	      	
-			"content_html": "<p>“The nearly uniform cowardice among elected Republicans is staggering. One is left wishing that Obamacare covered spine transplants.” —<a href=\"https://www.washingtonpost.com/opinions/the-cowardice-among-republicans-is-staggering/2018/02/05/41852454-0aa9-11e8-8890-372e2047c935_story.html\">Michael Gerson</a></p>\n",
-			"date_published": "2018-02-06T19:48:00-08:00",
-			"url": "http://microblog.curtclifton.net/2018/02/06/the-nearly-uniform.html"
 		}
 		
 	]
