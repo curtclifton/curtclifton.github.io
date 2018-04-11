@@ -1,0 +1,8 @@
+---
+title: "curtclifton.net"
+permalink: "/curtcliftonnet/"
+layout: page
+order: 1
+date: 2018-04-10 20:21 -0700
+---
+Find my longer form writing and other projects at [my home page](http://curtclifton.net).
