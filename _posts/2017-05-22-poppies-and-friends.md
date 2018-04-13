@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-21 18:22 -0700
+date: 2017-05-21 18:22:38 -0700
 guid: http://curt.micro.blog/2017/05/22/poppies-and-friends.html
 ---
 Poppies and friends. 
