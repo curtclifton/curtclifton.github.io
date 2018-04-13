@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-15 13:38 -0700
+date: 2017-08-15 13:38:34 -0700
 guid: http://curt.micro.blog/2017/08/15/heres-to-years.html
 ---
 Here’s to 25 years of adventures. Looking forward to many more. Happy Anniversary, Lisa! ❤️
