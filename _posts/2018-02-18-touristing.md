@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-17 17:34 -0700
+date: 2018-02-17 17:34:15 -0700
 guid: http://curt.micro.blog/2018/02/18/touristing.html
 ---
 Tourist-ing. 
