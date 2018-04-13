@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-26 08:01 -0700
+date: 2017-12-26 08:01:43 -0700
 guid: http://curt.micro.blog/2017/12/26/operation-flair-is.html
 ---
 Operation Flair is about to get real…
