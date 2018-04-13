@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-03 09:17 -0700
+date: 2017-05-03 09:17:06 -0700
 guid: http://curt.micro.blog/2017/05/03/finally-a-microblogworthy.html
 ---
 Finally, a micro.blog-worthy latte. 
