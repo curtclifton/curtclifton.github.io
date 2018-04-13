@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-06-05 10:00 -0700
+date: 2017-06-05 10:00:17 -0700
 guid: http://curt.micro.blog/2017/06/05/settling-in-for.html
 ---
 Settling in for OmniWDC. 
