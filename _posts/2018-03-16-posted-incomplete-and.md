@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-16 05:50 -0700
+date: 2018-03-16 05:50:23 -0700
 guid: http://curt.micro.blog/2018/03/16/posted-incomplete-and.html
 ---
 Posted: [Incomplete and Awaiting Updates](http://curtclifton.net/incomplete-and-awaiting-updates)
