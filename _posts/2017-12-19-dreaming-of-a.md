@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-19 15:39 -0700
+date: 2017-12-19 15:39:22 -0700
 guid: http://curt.micro.blog/2017/12/19/dreaming-of-a.html
 ---
 Dreaming of a blue Christmas?
