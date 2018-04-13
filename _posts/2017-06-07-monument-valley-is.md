@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-06-06 22:07 -0700
+date: 2017-06-06 22:07:47 -0700
 guid: http://curt.micro.blog/2017/06/07/monument-valley-is.html
 ---
 Monument Valley 2 is as lovely as the original. 
