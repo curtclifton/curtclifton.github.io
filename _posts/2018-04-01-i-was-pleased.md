@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-01 16:03 -0700
+date: 2018-04-01 16:03:43 -0700
 guid: http://curt.micro.blog/2018/04/01/i-was-pleased.html
 ---
 I was pleased with the [pineapple-glazed ham](https://www.weber.com/US/en/recipes/pork/pineapple-glazed-ham-with-horseradish-sour-cream) on the grill too.
