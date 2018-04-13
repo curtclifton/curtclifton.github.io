@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-29 10:26 -0700
+date: 2017-11-29 10:26:54 -0700
 guid: http://curt.micro.blog/2017/11/29/the-joys-of.html
 ---
 The joys of home ownership…
