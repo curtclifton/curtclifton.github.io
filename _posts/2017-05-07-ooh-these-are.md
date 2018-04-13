@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-06 19:05 -0700
+date: 2017-05-06 19:05:50 -0700
 guid: http://curt.micro.blog/2017/05/07/ooh-these-are.html
 ---
 Ooh. These are going to be good. … … I hate waiting. … /me pours more wine. … Waiting isn't so bad. 
