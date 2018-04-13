@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-06 18:51 -0700
+date: 2017-05-06 18:51:29 -0700
 guid: http://curt.micro.blog/2017/05/07/cinnamonchili-rubbed-chops.html
 ---
 Cinnamon-chili rubbed chops on my grill. Wine in my glass. Saturday. 
