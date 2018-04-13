@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-01 14:43 -0700
+date: 2018-04-01 14:43:37 -0700
 guid: http://curt.micro.blog/2018/04/01/easter-dinner-planning.html
 ---
 Easter dinner planning the OmniPlan way…
