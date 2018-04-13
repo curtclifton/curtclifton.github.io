@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-06 06:49 -0700
+date: 2018-04-06 06:49:57 -0700
 guid: http://curt.micro.blog/2018/04/06/our-first-rose.html
 ---
 Our first rose of the season…
