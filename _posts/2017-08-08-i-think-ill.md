@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-08 09:19 -0700
+date: 2017-08-08 09:19:58 -0700
 guid: http://curt.micro.blog/2017/08/08/i-think-ill.html
 ---
 I think I'll like measuring screen real estate in m^2. 
