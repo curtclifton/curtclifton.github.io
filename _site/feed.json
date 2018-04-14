@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/04/14/the-white-house.html",
+	      	
+			"content_html": "<p>“The White House is an adult day care with only one ward in its charge: His ‘Sesame Street’ is Fox News; his afternoon snack is Filet-O-Fish. … I bet Trump is quaking in his boots at the prospect of tougher oversight from House and Senate Republicans. Pass the tartar sauce.” —<a href=\"https://www.washingtonpost.com/news/posteverything/wp/2018/04/13/congressional-republicans-are-spineless-theyre-not-going-to-save-mueller/\">Rick Wilson</a></p>\n",
+			"date_published": "2018-04-13T20:02:22-07:00",
+			"url": "http://microblog.curtclifton.net/2018/04/13/the-white-house.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/04/13/this-brookshttpsnytimsgxhytb-piece.html",
 	      	
 			"content_html": "<p><a href=\"https://nyti.ms/2GXHyTb\">This Brooks</a> piece is infuriating. It wasn’t a “Miracle” that launched the modern age 300+ years ago, it was the Enlightenment and science. Conservatives have, and would have us, turn our backs on the very mechanisms that pulled us out of the superstitious dark ages.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>It took five people in two states, but we managed to cancel my mother-in-law’s Amazon Prime membership.</p>\n",
 			"date_published": "2018-02-17T08:55:53-08:00",
 			"url": "http://microblog.curtclifton.net/2018/02/17/it-took-five.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/02/17/repeal-the-second.html",
-	      	
-			"content_html": "<p>“Repeal the Second Amendment.\n…  The 46,445 murder victims killed by gunfire in the United States between 2012 and 2016 didn’t need to perish so that gun enthusiasts can go on fantasizing that ‘Red Dawn’ is the fate that soon awaits us.” —<a href=\"https://nyti.ms/2xUYXYG\">Bret Stephens</a></p>\n",
-			"date_published": "2018-02-16T21:58:19-08:00",
-			"url": "http://microblog.curtclifton.net/2018/02/16/repeal-the-second.html"
 		}
 		
 	]
