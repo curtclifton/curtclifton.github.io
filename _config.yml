@@ -31,6 +31,7 @@ baseurl: ""
 url: "http://microblog.curtclifton.net"
 markdown: "kramdown"
 username: "curt"
+microblog_user: "curt"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Curt Clifton"
