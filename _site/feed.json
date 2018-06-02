@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/06/02/the-pumpkinfhrers-lawyers.html",
+	      	
+			"content_html": "<p>The pumpkinführer’s lawyers almost got it right: <a href=\"https://nyti.ms/2LQiHTY?smid=nytcore-ios-share\">“Having him <em>testify</em>^H demeans the office of the president before the world.”</a></p>\n",
+			"date_published": "2018-06-02T11:58:27-07:00",
+			"url": "http://microblog.curtclifton.net/2018/06/02/the-pumpkinfhrers-lawyers.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/06/01/im-enjoying-altos.html",
 	      	
 			"content_html": "<p>I’m enjoying Alto’s Odyssey even more than the original.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/bb080f82bc.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>“…conservative efforts to downsize government will hurt people all across America, but it will disproportionately hurt the very regions that put the G.O.P. in power.” —<a href=\"https://nyti.ms/2q0WTLo\">Paul Krugman</a></p>\n",
 			"date_published": "2018-04-02T19:31:09-07:00",
 			"url": "http://microblog.curtclifton.net/2018/04/02/conservative-efforts-to.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/04/01/i-was-pleased.html",
-	      	
-			"content_html": "<p>I was pleased with the <a href=\"https://www.weber.com/US/en/recipes/pork/pineapple-glazed-ham-with-horseradish-sour-cream\">pineapple-glazed ham</a> on the grill too.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/f26ca7e8d5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-01T16:03:43-07:00",
-			"url": "http://microblog.curtclifton.net/2018/04/01/i-was-pleased.html"
 		}
 		
 	]
