@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/06/13/this-is-perhaps.html",
+	      	
+			"content_html": "<p>“This is perhaps the largest foreign policy crisis of our time: a U.S president who has lost the ability to distinguish friends from enemies. … We don’t know how this chaos will eventually coalesce. But one thing is certain: The alternative to the free world will be less free.” — <a href=\"https://www.washingtonpost.com/opinions/the-g-7-debacle-reveals-trump-unbound/2018/06/11/ab84fff6-6d90-11e8-bd50-b80389a4e569_story.html\">Michael Gerson</a></p>\n",
+			"date_published": "2018-06-12T20:34:41-07:00",
+			"url": "http://microblog.curtclifton.net/2018/06/12/this-is-perhaps.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/06/12/one-of-our.html",
 	      	
 			"content_html": "<p>“One of our two major parties appears to be hopelessly, irredeemably corrupt. And unless that party not only loses this year’s election but begins losing on a regular basis, America as we know it is finished.” —<a href=\"https://nyti.ms/2l4R3GM?smid=nytcore-ios-share\">Paul Krugman</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://macgenie.micro.blog/2018/04/10/a-guide-to.html\">A Guide to Micro.blog For People Who Have A Love/Hate Relationship With Twitter</a> — Jean MacDonald</p>\n",
 			"date_published": "2018-04-10T20:02:30-07:00",
 			"url": "http://microblog.curtclifton.net/2018/04/10/a-guide-to.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/04/08/grilled-alaska-salmon.html",
-	      	
-			"content_html": "<p>Grilled Alaska salmon with this <a href=\"https://www.allrecipes.com/recipe/35157/pineapple-salsa/\">pineapple salsa</a> was excellent. Easy to make, but lots of chopping and dicing.</p>\n",
-			"date_published": "2018-04-08T14:21:08-07:00",
-			"url": "http://microblog.curtclifton.net/2018/04/08/grilled-alaska-salmon.html"
 		}
 		
 	]
