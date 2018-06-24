@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/06/24/we-hold-these.html",
+	      	
+			"content_html": "<p>“We hold these truths to be self-evident, that all men are created equal … That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government…” — <a href=\"https://en.m.wikipedia.org/wiki/United_States_Declaration_of_Independence\">Thomas Jefferson</a></p>\n",
+			"date_published": "2018-06-24T11:04:06-07:00",
+			"url": "http://microblog.curtclifton.net/2018/06/24/we-hold-these.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2018/06/24/ryan-and-many.html",
+	      	
+			"content_html": "<p>“Ryan and many other Republicans have become the president’s poodles, not because James Madison’s system has failed but because today’s abject careerists have failed to be worthy of it.” — <a href=\"https://www.washingtonpost.com/opinions/vote-against-the-gop-this-november/2018/06/22/a6378306-7575-11e8-b4b7-308400242c2e_story.html\">George F. Will</a></p>\n",
+			"date_published": "2018-06-24T10:49:22-07:00",
+			"url": "http://microblog.curtclifton.net/2018/06/24/ryan-and-many.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2018/06/24/this-fact-is.html",
+	      	
+			"content_html": "<p>This fact is what makes me most despair for my country. These people don’t share America’s founding ideals. Secession seems like the only answer. “Mr. Trump’s approval rating among Republicans is now about 90 percent.” — <a href=\"https://nyti.ms/2MS7Edj?smid=nytcore-ios-share\">Jeremy W. Peters</a></p>\n",
+			"date_published": "2018-06-24T10:11:26-07:00",
+			"url": "http://microblog.curtclifton.net/2018/06/24/this-fact-is.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/06/22/no-the-real.html",
 	      	
 			"content_html": "<p>“No, the real crisis is an upsurge in hatred — unreasoning hatred that bears no relationship to anything the victims have done. And anyone making excuses for that hatred — who tries, for example, to turn it into a “both sides” story — is, in effect, an apologist for crimes against humanity.” — <a href=\"https://nyti.ms/2MN8GYj?smid=nytcore-ios-share\">Paul Krugman</a></p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>Hiking at Castle Rock State Park. That’s Monterey Bay in the distance.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/118a780949.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-04-14T21:32:05-07:00",
 			"url": "http://microblog.curtclifton.net/2018/04/14/hiking-at-castle.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/04/15/cant-beat-a.html",
-	      	
-			"content_html": "<p>Can’t beat a day in the woods…</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/f31ce0a9cf.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-04-14T21:30:46-07:00",
-			"url": "http://microblog.curtclifton.net/2018/04/14/cant-beat-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/04/14/the-white-house.html",
-	      	
-			"content_html": "<p>“The White House is an adult day care with only one ward in its charge: His ‘Sesame Street’ is Fox News; his afternoon snack is Filet-O-Fish. … I bet Trump is quaking in his boots at the prospect of tougher oversight from House and Senate Republicans. Pass the tartar sauce.” —<a href=\"https://www.washingtonpost.com/news/posteverything/wp/2018/04/13/congressional-republicans-are-spineless-theyre-not-going-to-save-mueller/\">Rick Wilson</a></p>\n",
-			"date_published": "2018-04-13T20:02:22-07:00",
-			"url": "http://microblog.curtclifton.net/2018/04/13/the-white-house.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/04/13/this-brookshttpsnytimsgxhytb-piece.html",
-	      	
-			"content_html": "<p><a href=\"https://nyti.ms/2GXHyTb\">This Brooks</a> piece is infuriating. It wasn’t a “Miracle” that launched the modern age 300+ years ago, it was the Enlightenment and science. Conservatives have, and would have us, turn our backs on the very mechanisms that pulled us out of the superstitious dark ages.</p>\n",
-			"date_published": "2018-04-12T21:54:49-07:00",
-			"url": "http://microblog.curtclifton.net/2018/04/12/this-brookshttpsnytimsgxhytb-piece.html"
 		}
 		
 	]
