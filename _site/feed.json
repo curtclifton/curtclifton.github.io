@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/06/26/today-you-can.html",
+	      	
+			"content_html": "<p>“Today you can be a conservative or a Republican, but you can’t be both. The new threats to the sacred space demand a fundamental rethinking … You can’t do that rethinking if you are imprisoned in a partisan mind-set…” — <a href=\"https://nyti.ms/2Kk4vRQ?smid=nytcore-ios-share\">David Brooks</a></p>\n",
+			"date_published": "2018-06-25T18:48:10-07:00",
+			"url": "http://microblog.curtclifton.net/2018/06/25/today-you-can.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2018/06/25/when-the-weather.html",
+	      	
+			"content_html": "<p>When the weather is always nice, you can store your ladders outside. That project reclaimed 3 ft^2 of garage space.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/10f99105d1.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-06-24T17:48:31-07:00",
+			"url": "http://microblog.curtclifton.net/2018/06/24/when-the-weather.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/06/24/we-hold-these.html",
 	      	
 			"content_html": "<p>“We hold these truths to be self-evident, that all men are created equal … That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government…” — <a href=\"https://en.m.wikipedia.org/wiki/United_States_Declaration_of_Independence\">Thomas Jefferson</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>This rose bush is extraordinary. Didn’t realize when we signed the lease in January that we were renting such nice flowers too.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/20243f0c61.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-15T08:54:30-07:00",
 			"url": "http://microblog.curtclifton.net/2018/04/15/this-rose-bush.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/04/15/and-because-the.html",
-	      	
-			"content_html": "<p>“And because the institutional G.O.P. during his years was like a bayou airboat with a fire in its propeller and several alligators wrestling midship, an unhappy end for his career was all-but-foreordained.” —<a href=\"https://nyti.ms/2JNDMgL\">Ross Douthat</a></p>\n",
-			"date_published": "2018-04-15T08:49:40-07:00",
-			"url": "http://microblog.curtclifton.net/2018/04/15/and-because-the.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/04/15/hiking-at-castle.html",
-	      	
-			"content_html": "<p>Hiking at Castle Rock State Park. That’s Monterey Bay in the distance.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/118a780949.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-04-14T21:32:05-07:00",
-			"url": "http://microblog.curtclifton.net/2018/04/14/hiking-at-castle.html"
 		}
 		
 	]
