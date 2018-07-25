@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/07/25/ready-for-a.html",
+	      	
+			"content_html": "<p>Ready for a PNW-flavored pre-funk before the Sounders crush the Quakes tomorrow.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/da9be9c2b8.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-24T19:42:24-07:00",
+			"url": "http://microblog.curtclifton.net/2018/07/24/ready-for-a.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2018/07/21/033432.html",
+	      	
+			"content_html": "<p>“It is not an exaggeration to say a party that continues support for Trump is anti-American.” — <a href=\"https://apple.news/A09Vsx_YsSEGcHF0ClKQ6Rw\">Jennifer Rubin</a></p>\n",
+			"date_published": "2018-07-20T20:34:32-07:00",
+			"url": "http://microblog.curtclifton.net/2018/07/20/033432.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/07/17/trump-vacated-his.html",
 	      	
 			"content_html": "<p>“Trump vacated [his oath of office] today, and Republicans can no longer run and hide from that fact.” — <a href=\"https://nyti.ms/2LjTMHI?smid=nytcore-ios-share\">Thomas Friedman</a></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>The Barebottle Nitro Espresso Machiatto Stout was great too. Nicely sweet to complement the spicy pizza.</p>\n",
 			"date_published": "2018-05-26T20:41:56-07:00",
 			"url": "http://microblog.curtclifton.net/2018/05/26/the-barebottle-nitro.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/05/27/blue-line-pizza.html",
-	      	
-			"content_html": "<p>Blue Line Pizza in Campbell has legit Chicago style deep dish. I might be able to survive living in the South Bay sprawl after all.</p>\n",
-			"date_published": "2018-05-26T20:33:14-07:00",
-			"url": "http://microblog.curtclifton.net/2018/05/26/blue-line-pizza.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/05/21/we-hiked-the.html",
-	      	
-			"content_html": "<p>We hiked the Tomales Point Trail yesterday—10 miles round trip in 20–30 mph winds. There were acres of wildflowers, literally chin deep for much of the hike.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/aa0bad2ab8.jpg\" width=\"600\" height=\"600\" /><img src=\"http://microblog.curtclifton.net/uploads/2018/13536592cd.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-21T05:50:47-07:00",
-			"url": "http://microblog.curtclifton.net/2018/05/21/we-hiked-the.html"
 		}
 		
 	]
