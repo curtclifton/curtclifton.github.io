@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Curt Clifton</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/curt&quot;&gt;@curt on Micro.blog&lt;/a&gt;.</description>
+    <description>Programming Languages Geek. PhD in CS from Iowa State. Cubs and Sounders Fan. Walker of trails. Runner of roads. Object wrangler on the Classroom team at Apple.</description>
     <link>http://microblog.curtclifton.net/</link>
-    <pubDate>Sun, 29 Jul 2018 18:25:47 -0700</pubDate>
-    <lastBuildDate>Sun, 29 Jul 2018 18:25:47 -0700</lastBuildDate>
+    <pubDate>Tue, 21 Aug 2018 22:01:58 -0700</pubDate>
+    <lastBuildDate>Tue, 21 Aug 2018 22:01:58 -0700</lastBuildDate>
 	<itunes:image href="https://micro.blog/curt/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Curt Clifton</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Curt Clifton</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
     
 		
