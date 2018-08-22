@@ -48,7 +48,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
 site_id: "235"
 gems: ["jekyll-paginate"]
+itunes_description: "Programming Languages Geek. PhD in CS from Iowa State. Cubs and Sounders Fan. Walker of trails. Runner of roads. Object wrangler on the Classroom team at Apple."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Curt Clifton"
+itunes_email: ""
 podcast: false
