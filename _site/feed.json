@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/08/22/wherever-perperson-facebook.html",
+	      	
+			"content_html": "<p>“Wherever per-person Facebook use rose to one standard deviation above the national average, attacks on refugees increased by about 50 percent.” — <a href=\"https://nyti.ms/2PlJqcK?smid=nytcore-ios-share\">NY Times</a></p>\n",
+			"date_published": "2018-08-21T22:00:36-07:00",
+			"url": "http://microblog.curtclifton.net/2018/08/21/wherever-perperson-facebook.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/07/30/its-good-to.html",
 	      	
 			"content_html": "<p>It’s good to be home.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/d292aff266.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I’m enjoying Alto’s Odyssey even more than the original.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/bb080f82bc.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-05-31T20:38:52-07:00",
 			"url": "http://microblog.curtclifton.net/2018/05/31/im-enjoying-altos.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/05/28/fired-up-the.html",
-	      	
-			"content_html": "<p>Fired up the grill and made the summer’s first Moscow Mule while waiting on the charcoal.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/f8f8c334ca.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-27T18:05:17-07:00",
-			"url": "http://microblog.curtclifton.net/2018/05/27/fired-up-the.html"
 		}
 		
 	]
