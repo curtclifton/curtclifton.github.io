@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/08/23/what-the-constitution.html",
+	      	
+			"content_html": "<p>“What the Constitution demands is the impeachment and removal from office of this lawless president.” — <a href=\"https://nyti.ms/2OZ43up?smid=nytcore-ios-share\">Bret Stephens</a></p>\n",
+			"date_published": "2018-08-22T18:56:31-07:00",
+			"url": "http://microblog.curtclifton.net/2018/08/22/what-the-constitution.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/08/22/wherever-perperson-facebook.html",
 	      	
 			"content_html": "<p>“Wherever per-person Facebook use rose to one standard deviation above the national average, attacks on refugees increased by about 50 percent.” — <a href=\"https://nyti.ms/2PlJqcK?smid=nytcore-ios-share\">NY Times</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>The pumpkinführer’s lawyers almost got it right: <a href=\"https://nyti.ms/2LQiHTY?smid=nytcore-ios-share\">“Having him <em>testify</em>^H demeans the office of the president before the world.”</a></p>\n",
 			"date_published": "2018-06-02T11:58:27-07:00",
 			"url": "http://microblog.curtclifton.net/2018/06/02/the-pumpkinfhrers-lawyers.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/06/01/im-enjoying-altos.html",
-	      	
-			"content_html": "<p>I’m enjoying Alto’s Odyssey even more than the original.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/bb080f82bc.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-05-31T20:38:52-07:00",
-			"url": "http://microblog.curtclifton.net/2018/05/31/im-enjoying-altos.html"
 		}
 		
 	]
