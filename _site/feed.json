@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Curt Clifton",
+	"icon": "https://micro.blog/curt/avatar.jpg",
 	"home_page_url": "http://microblog.curtclifton.net/",
 	"feed_url": "http://microblog.curtclifton.net/feed.json",
 	"items": [
+		
+		{
+			"id": "http://curt.micro.blog/2018/09/22/in-its-stubborn.html",
+	      	
+			"content_html": "<p>“In its stubborn rejection of empirical reality, the Left NIMBYist view of housing markets shares characteristics of ideologically motivated refusals to accept evidence in other contexts, such as climate change or the safety of vaccines.” — <a href=\"https://www.washingtonpost.com/outlook/2018/09/18/why-do-so-many-affordable-housing-advocates-reject-law-supply-demand/\">Roderick Hills</a></p>\n",
+			"date_published": "2018-09-22T14:30:06-07:00",
+			"url": "http://microblog.curtclifton.net/2018/09/22/in-its-stubborn.html"
+		},
 		
 		{
 			"id": "http://curt.micro.blog/2018/09/09/by-definition-a.html",
@@ -195,14 +204,6 @@
 			"content_html": "<p>“Today you can be a conservative or a Republican, but you can’t be both. The new threats to the sacred space demand a fundamental rethinking … You can’t do that rethinking if you are imprisoned in a partisan mind-set…” — <a href=\"https://nyti.ms/2Kk4vRQ?smid=nytcore-ios-share\">David Brooks</a></p>\n",
 			"date_published": "2018-06-25T18:48:10-07:00",
 			"url": "http://microblog.curtclifton.net/2018/06/25/today-you-can.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/06/25/when-the-weather.html",
-	      	
-			"content_html": "<p>When the weather is always nice, you can store your ladders outside. That project reclaimed 3 ft^2 of garage space.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/10f99105d1.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-06-24T17:48:31-07:00",
-			"url": "http://microblog.curtclifton.net/2018/06/24/when-the-weather.html"
 		}
 		
 	]
