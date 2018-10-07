@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/10/07/mccain-you-see.html",
+	      	
+			"content_html": "<p>“McCain, you see, wasn’t just Graham’s friend. He was his road to greater relevance. And Trump presented a veritable expressway. So Graham switched vehicles and directions, and pressed the pedal to the metal.” —<a href=\"https://nyti.ms/2BVs3LM?smid=nytcore-ios-share\">Frank Bruni</a></p>\n",
+			"date_published": "2018-10-06T18:02:07-07:00",
+			"url": "http://microblog.curtclifton.net/2018/10/06/mccain-you-see.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/10/01/extraordinary-sunrise.html",
 	      	
 			"content_html": "<p>Extraordinary sunrise.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/6fec3d9f53.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Say, hey!</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/b185a13ce5.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-11T18:29:36-07:00",
 			"url": "http://microblog.curtclifton.net/2018/07/11/say-hey.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/07/05/i-like-big.html",
-	      	
-			"content_html": "<p>I like big slugs, and I cannot lie.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/1452ef46d6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-04T17:36:20-07:00",
-			"url": "http://microblog.curtclifton.net/2018/07/04/i-like-big.html"
 		}
 		
 	]
