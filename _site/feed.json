@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/10/27/trump-is-doing.html",
+	      	
+			"content_html": "<p>“Trump is doing the opposite. He is deliberately exacerbating our divisions for partisan gain. He is risking widespread political violence so that he and his Republican supporters can hold on to office.” —<a href=\"https://www.washingtonpost.com/opinions/what-is-happening-to-our-country/2018/10/27/47b462f6-da13-11e8-aeb7-ddcad4a0a54e_story.html\">Max Boot</a></p>\n",
+			"date_published": "2018-10-27T14:34:12-07:00",
+			"url": "http://microblog.curtclifton.net/2018/10/27/trump-is-doing.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/10/27/the-barbarian-savior.html",
 	      	
 			"content_html": "<p>“The barbarian savior loves to see a reporter body-slammed, to parade his ignorance, to strut his lies, to broadcast his bigotry, to empower rich Middle Eastern murderers, to humiliate a woman traumatized by sexual assault, to incite his followers to violence, …” —<a href=\"https://nyti.ms/2Aum2Eo?smid=nytcore-ios-share\">Roger Cohen</a></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>“Trump vacated [his oath of office] today, and Republicans can no longer run and hide from that fact.” — <a href=\"https://nyti.ms/2LjTMHI?smid=nytcore-ios-share\">Thomas Friedman</a></p>\n",
 			"date_published": "2018-07-16T18:54:37-07:00",
 			"url": "http://microblog.curtclifton.net/2018/07/16/trump-vacated-his.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/07/14/back-to-reality.html",
-	      	
-			"content_html": "<p>Back to reality.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/359bdc1a58.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-07-14T09:58:08-07:00",
-			"url": "http://microblog.curtclifton.net/2018/07/14/back-to-reality.html"
 		}
 		
 	]
