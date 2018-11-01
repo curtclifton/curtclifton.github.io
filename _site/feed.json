@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://curt.micro.blog/2018/11/01/the-reason-for.html",
+	      	
+			"content_html": "<p>“The reason for the talk about invasion is simple: Trump and Fox News are trying to manipulate white voters into supporting Republican candidates. There is considerable evidence from research experiments that scaring people makes them more conservative, at least temporarily.” —<a href=\"https://nyti.ms/2yKOil8?smid=nytcore-ios-share\">Nicholas Kristof</a></p>\n",
+			"date_published": "2018-10-31T17:46:43-07:00",
+			"url": "http://microblog.curtclifton.net/2018/10/31/the-reason-for.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2018/10/28/in-the-trump.html",
+	      	
+			"content_html": "<p>“In the Trump era, people who should be shunned are embraced…” —<a href=\"https://apple.news/AZlRLRLkgQSi_w1EYHslqaw\">Karen Tumulty</a></p>\n",
+			"date_published": "2018-10-27T19:14:52-07:00",
+			"url": "http://microblog.curtclifton.net/2018/10/27/in-the-trump.html"
+		},
+		
+		{
+			"id": "http://curt.micro.blog/2018/10/27/the-angry-obsessive.html",
+	      	
+			"content_html": "<p>“The angry obsessive is absolutely vulnerable to being stoked, inflamed, and inspired by angry rhetoric. Speech can inspire violence. … It’s one reason why civility and a sense of proportion in your speech aren’t just abstract … concepts. They’re moral responsibilities for people with any kind of meaningful platform.” —<a href=\"https://www.nationalreview.com/corner/pipe-bomb-suspect-arrested-be-very-careful-with-the-crazy-label/\">David French</a></p>\n",
+			"date_published": "2018-10-27T14:45:25-07:00",
+			"url": "http://microblog.curtclifton.net/2018/10/27/the-angry-obsessive.html"
+		},
+		
+		{
 			"id": "http://curt.micro.blog/2018/10/27/trump-is-doing.html",
 	      	
 			"content_html": "<p>“Trump is doing the opposite. He is deliberately exacerbating our divisions for partisan gain. He is risking widespread political violence so that he and his Republican supporters can hold on to office.” —<a href=\"https://www.washingtonpost.com/opinions/what-is-happening-to-our-country/2018/10/27/47b462f6-da13-11e8-aeb7-ddcad4a0a54e_story.html\">Max Boot</a></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>It’s good to be home.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/d292aff266.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-07-29T18:25:11-07:00",
 			"url": "http://microblog.curtclifton.net/2018/07/29/its-good-to.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/07/25/ready-for-a.html",
-	      	
-			"content_html": "<p>Ready for a PNW-flavored pre-funk before the Sounders crush the Quakes tomorrow.</p>\n\n<p><img src=\"http://microblog.curtclifton.net/uploads/2018/da9be9c2b8.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-24T19:42:24-07:00",
-			"url": "http://microblog.curtclifton.net/2018/07/24/ready-for-a.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/07/21/033432.html",
-	      	
-			"content_html": "<p>“It is not an exaggeration to say a party that continues support for Trump is anti-American.” — <a href=\"https://apple.news/A09Vsx_YsSEGcHF0ClKQ6Rw\">Jennifer Rubin</a></p>\n",
-			"date_published": "2018-07-20T20:34:32-07:00",
-			"url": "http://microblog.curtclifton.net/2018/07/20/033432.html"
-		},
-		
-		{
-			"id": "http://curt.micro.blog/2018/07/17/trump-vacated-his.html",
-	      	
-			"content_html": "<p>“Trump vacated [his oath of office] today, and Republicans can no longer run and hide from that fact.” — <a href=\"https://nyti.ms/2LjTMHI?smid=nytcore-ios-share\">Thomas Friedman</a></p>\n",
-			"date_published": "2018-07-16T18:54:37-07:00",
-			"url": "http://microblog.curtclifton.net/2018/07/16/trump-vacated-his.html"
 		}
 		
 	]
