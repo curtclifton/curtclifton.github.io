@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-09-03 12:43:45 -0700
 guid: http://curt.micro.blog/2017/09/03/principled-liberals-and.html
 ---
