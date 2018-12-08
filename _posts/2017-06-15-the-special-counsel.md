@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-14 21:02:15 -0700
 guid: http://curt.micro.blog/2017/06/15/the-special-counsel.html
 ---
