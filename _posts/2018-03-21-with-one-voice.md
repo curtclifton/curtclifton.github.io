@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-20 21:00:38 -0700
 guid: http://curt.micro.blog/2018/03/21/with-one-voice.html
 ---
