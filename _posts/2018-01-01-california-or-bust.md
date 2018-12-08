@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/ec7f0e891a.jpg
 date: 2018-01-01 11:55:45 -0700
 guid: http://curt.micro.blog/2018/01/01/california-or-bust.html
 ---
