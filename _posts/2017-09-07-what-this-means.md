@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-09-06 21:41:21 -0700
 guid: http://curt.micro.blog/2017/09/07/what-this-means.html
 ---
