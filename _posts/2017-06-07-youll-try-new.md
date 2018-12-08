@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-07 07:38:51 -0700
 guid: http://curt.micro.blog/2017/06/07/youll-try-new.html
 ---
