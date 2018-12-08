@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-20 20:01:46 -0700
 guid: http://curt.micro.blog/2017/06/21/a-giant-release.html
 ---
