@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-02 08:33:37 -0700
 guid: http://curt.micro.blog/2018/09/02/to-say-identity.html
 ---
