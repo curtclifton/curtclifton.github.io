@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-27 07:09:56 -0700
 guid: http://curt.micro.blog/2017/05/27/uidebugginginformationoverlay-is-a.html
 ---
