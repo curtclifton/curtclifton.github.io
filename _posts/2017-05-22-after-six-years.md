@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://curt.micro.blog/uploads/2017/adc812f3a6.jpg
 date: 2017-05-21 20:36:40 -0700
 guid: http://curt.micro.blog/2017/05/22/after-six-years.html
 ---
