@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-03 14:27:52 -0700
 guid: http://curt.micro.blog/2017/05/03/you-now-its.html
 ---
