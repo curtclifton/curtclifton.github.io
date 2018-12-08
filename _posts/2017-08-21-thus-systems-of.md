@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-20 20:02:06 -0700
 guid: http://curt.micro.blog/2017/08/21/thus-systems-of.html
 ---
