@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-01 09:09:29 -0700
 guid: http://curt.micro.blog/2018/07/01/the-backlash-is.html
 ---
