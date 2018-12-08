@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/9ce5306819.jpg
 date: 2018-02-17 17:34:15 -0700
 guid: http://curt.micro.blog/2018/02/18/touristing.html
 ---
