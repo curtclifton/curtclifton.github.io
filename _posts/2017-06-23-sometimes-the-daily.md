@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-22 23:43:31 -0700
 guid: http://curt.micro.blog/2017/06/23/sometimes-the-daily.html
 ---
