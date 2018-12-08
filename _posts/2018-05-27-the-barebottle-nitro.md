@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-26 20:41:56 -0700
 guid: http://curt.micro.blog/2018/05/27/the-barebottle-nitro.html
 ---
