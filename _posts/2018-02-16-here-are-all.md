@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-15 19:09:57 -0700
 guid: http://curt.micro.blog/2018/02/16/here-are-all.html
 ---
