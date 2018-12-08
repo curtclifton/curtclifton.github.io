@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-10 18:09:57 -0700
 guid: http://curt.micro.blog/2017/05/11/the-republicans-need.html
 ---
