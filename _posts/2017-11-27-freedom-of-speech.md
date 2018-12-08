@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-27 07:59:44 -0700
 guid: http://curt.micro.blog/2017/11/27/freedom-of-speech.html
 ---
