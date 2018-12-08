@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-12 19:55:13 -0700
 guid: http://curt.micro.blog/2017/08/13/david-duke-the.html
 ---
