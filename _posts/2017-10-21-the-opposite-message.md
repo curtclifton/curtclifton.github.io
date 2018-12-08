@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-10-21 07:01:56 -0700
 guid: http://curt.micro.blog/2017/10/21/the-opposite-message.html
 ---
