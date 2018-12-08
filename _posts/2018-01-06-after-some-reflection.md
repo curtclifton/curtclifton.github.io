@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-06 14:57:40 -0700
 guid: http://curt.micro.blog/2018/01/06/after-some-reflection.html
 ---
