@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/90829800b1.jpg
 date: 2018-05-16 19:48:03 -0700
 guid: http://curt.micro.blog/2018/05/17/new-favorite-tee.html
 ---
