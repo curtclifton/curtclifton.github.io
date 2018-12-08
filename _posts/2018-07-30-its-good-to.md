@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/d292aff266.jpg
 date: 2018-07-29 18:25:11 -0700
 guid: http://curt.micro.blog/2018/07/30/its-good-to.html
 ---
