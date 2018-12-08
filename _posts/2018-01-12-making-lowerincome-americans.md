@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-12 07:46:26 -0700
 guid: http://curt.micro.blog/2018/01/12/making-lowerincome-americans.html
 ---
