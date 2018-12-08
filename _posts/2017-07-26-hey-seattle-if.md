@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/f16bf50507.jpg
 date: 2017-07-25 20:50:28 -0700
 guid: http://curt.micro.blog/2017/07/26/hey-seattle-if.html
 ---
