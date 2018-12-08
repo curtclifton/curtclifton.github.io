@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-07 19:54:02 -0700
 guid: http://curt.micro.blog/2018/03/08/now-the-partys.html
 ---
