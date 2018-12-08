@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/f4cffddbaa.jpg
 date: 2018-03-30 18:26:30 -0700
 guid: http://curt.micro.blog/2018/03/31/i-suppose-this.html
 ---
