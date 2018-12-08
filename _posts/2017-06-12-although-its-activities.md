@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-12 06:54:22 -0700
 guid: http://curt.micro.blog/2017/06/12/although-its-activities.html
 ---
