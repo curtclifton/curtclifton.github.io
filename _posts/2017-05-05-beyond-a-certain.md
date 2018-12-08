@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://curt.micro.blog/uploads/2017/1066107859.jpg
 date: 2017-05-04 18:26:49 -0700
 guid: http://curt.micro.blog/2017/05/05/beyond-a-certain.html
 ---
