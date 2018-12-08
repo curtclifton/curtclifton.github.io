@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-24 12:08:51 -0700
 guid: http://curt.micro.blog/2017/05/24/dual-wielding-new.html
 ---
