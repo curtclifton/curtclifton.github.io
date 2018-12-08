@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-09-11 08:23:11 -0700
 guid: http://curt.micro.blog/2017/09/11/the-bottom-line.html
 ---
