@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-10 08:18:19 -0700
 guid: http://curt.micro.blog/2017/05/10/another-reachnowsupport-trip.html
 ---
