@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-11 06:58:00 -0700
 guid: http://curt.micro.blog/2017/05/11/few-public-servants.html
 ---
