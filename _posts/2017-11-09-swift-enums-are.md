@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-09 16:29:35 -0700
 guid: http://curt.micro.blog/2017/11/09/swift-enums-are.html
 ---
