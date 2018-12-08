@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-08 10:46:05 -0700
 guid: http://curt.micro.blog/2018/09/08/if-a-bookie.html
 ---
