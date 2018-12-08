@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-09 18:27:43 -0700
 guid: http://curt.micro.blog/2017/08/10/a-city-ordinance.html
 ---
