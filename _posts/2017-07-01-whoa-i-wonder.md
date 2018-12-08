@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-01 07:31:39 -0700
 guid: http://curt.micro.blog/2017/07/01/whoa-i-wonder.html
 ---
