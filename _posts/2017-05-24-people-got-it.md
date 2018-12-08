@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-23 18:30:31 -0700
 guid: http://curt.micro.blog/2017/05/24/people-got-it.html
 ---
