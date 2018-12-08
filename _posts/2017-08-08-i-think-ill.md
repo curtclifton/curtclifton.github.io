@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/608e4b0259.jpg
 date: 2017-08-08 09:19:58 -0700
 guid: http://curt.micro.blog/2017/08/08/i-think-ill.html
 ---
