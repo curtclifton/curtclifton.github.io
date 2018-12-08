@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://curt.micro.blog/uploads/2017/ec1963a654.jpg
 date: 2017-05-26 10:35:49 -0700
 guid: http://curt.micro.blog/2017/05/26/its-a-perfect.html
 ---
