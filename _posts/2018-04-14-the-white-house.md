@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-13 20:02:22 -0700
 guid: http://curt.micro.blog/2018/04/14/the-white-house.html
 ---
