@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-02 19:31:09 -0700
 guid: http://curt.micro.blog/2018/04/03/conservative-efforts-to.html
 ---
