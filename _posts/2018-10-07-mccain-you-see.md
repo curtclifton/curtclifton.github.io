@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-06 18:02:07 -0700
 guid: http://curt.micro.blog/2018/10/07/mccain-you-see.html
 ---
