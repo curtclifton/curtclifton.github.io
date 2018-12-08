@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-16 19:53:25 -0700
 guid: http://curt.micro.blog/2017/11/17/if-moore-is.html
 ---
