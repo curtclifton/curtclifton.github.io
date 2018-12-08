@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-31 07:47:52 -0700
 guid: http://curt.micro.blog/2017/08/31/beautiful-poignant-convicting.html
 ---
