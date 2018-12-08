@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-26 10:43:59 -0700
 guid: http://curt.micro.blog/2018/08/26/deporting-convicts-increased.html
 ---
