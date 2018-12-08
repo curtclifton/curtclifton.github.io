@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-04 21:11:47 -0700
 guid: http://curt.micro.blog/2017/07/05/what-we-have.html
 ---
