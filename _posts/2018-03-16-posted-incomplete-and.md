@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-16 05:50:23 -0700
 guid: http://curt.micro.blog/2018/03/16/posted-incomplete-and.html
 ---
