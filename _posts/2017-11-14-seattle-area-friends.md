@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-13 22:07:18 -0700
 guid: http://curt.micro.blog/2017/11/14/seattle-area-friends.html
 ---
