@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-30 19:58:21 -0700
 guid: http://curt.micro.blog/2018/05/01/you-might-think.html
 ---
