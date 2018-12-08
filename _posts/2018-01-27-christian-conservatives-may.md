@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-26 21:15:50 -0700
 guid: http://curt.micro.blog/2018/01/27/christian-conservatives-may.html
 ---
