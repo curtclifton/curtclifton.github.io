@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-22 14:30:06 -0700
 guid: http://curt.micro.blog/2018/09/22/in-its-stubborn.html
 ---
