@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/b36be7811e.jpg
 date: 2017-12-10 19:04:31 -0700
 guid: http://curt.micro.blog/2017/12/11/had-a-fantastic.html
 ---
