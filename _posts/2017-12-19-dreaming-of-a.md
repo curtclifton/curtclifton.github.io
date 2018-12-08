@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/34c3f85dcc.jpg
 date: 2017-12-19 15:39:22 -0700
 guid: http://curt.micro.blog/2017/12/19/dreaming-of-a.html
 ---
