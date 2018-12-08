@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-25 18:48:10 -0700
 guid: http://curt.micro.blog/2018/06/26/today-you-can.html
 ---
