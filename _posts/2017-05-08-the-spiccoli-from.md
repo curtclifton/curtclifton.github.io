@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-07 19:31:31 -0700
 guid: http://curt.micro.blog/2017/05/08/the-spiccoli-from.html
 ---
