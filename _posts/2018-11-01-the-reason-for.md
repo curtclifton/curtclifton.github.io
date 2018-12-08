@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-31 17:46:43 -0700
 guid: http://curt.micro.blog/2018/11/01/the-reason-for.html
 ---
