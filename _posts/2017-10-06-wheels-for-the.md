@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/e54eac20f8.jpg
 date: 2017-10-06 09:12:59 -0700
 guid: http://curt.micro.blog/2017/10/06/wheels-for-the.html
 ---
