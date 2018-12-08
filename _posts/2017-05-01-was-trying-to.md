@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-04-30 20:50:09 -0700
 guid: http://curt.micro.blog/2017/05/01/was-trying-to.html
 ---
