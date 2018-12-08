@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/5bfd5cfcb6.jpg
 date: 2018-05-13 13:45:49 -0700
 guid: http://curt.micro.blog/2018/05/13/go-sounders-beat.html
 ---
