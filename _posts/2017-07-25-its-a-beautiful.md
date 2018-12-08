@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/9783265e37.jpg
 date: 2017-07-24 19:06:05 -0700
 guid: http://curt.micro.blog/2017/07/25/its-a-beautiful.html
 ---
