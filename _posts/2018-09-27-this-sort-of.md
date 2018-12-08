@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-26 18:57:22 -0700
 guid: http://curt.micro.blog/2018/09/27/this-sort-of.html
 ---
