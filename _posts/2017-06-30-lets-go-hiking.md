@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/663f65eca4.jpg
 date: 2017-06-30 09:36:45 -0700
 guid: http://curt.micro.blog/2017/06/30/lets-go-hiking.html
 ---
