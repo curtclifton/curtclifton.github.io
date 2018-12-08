@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-12 20:34:41 -0700
 guid: http://curt.micro.blog/2018/06/13/this-is-perhaps.html
 ---
