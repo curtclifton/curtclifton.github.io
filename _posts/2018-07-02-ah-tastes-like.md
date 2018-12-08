@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/dcc4aa3e25.jpg
 date: 2018-07-01 18:36:37 -0700
 guid: http://curt.micro.blog/2018/07/02/ah-tastes-like.html
 ---
