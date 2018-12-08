@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-04-30 20:40:51 -0700
 guid: http://curt.micro.blog/2017/05/01/experimenting-with-a.html
 ---
