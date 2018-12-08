@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/c8817239c5.jpg
 date: 2017-08-15 21:37:34 -0700
 guid: http://curt.micro.blog/2017/08/16/downtown-seattle-from.html
 ---
