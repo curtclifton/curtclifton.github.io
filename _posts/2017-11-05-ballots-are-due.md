@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-05 10:50:44 -0700
 guid: http://curt.micro.blog/2017/11/05/ballots-are-due.html
 ---
