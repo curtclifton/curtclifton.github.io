@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-24 11:30:30 -0700
 guid: http://curt.micro.blog/2017/11/24/trying-to-import.html
 ---
