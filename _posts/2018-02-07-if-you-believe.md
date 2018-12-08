@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-06 23:10:43 -0700
 guid: http://curt.micro.blog/2018/02/07/if-you-believe.html
 ---
