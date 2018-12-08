@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-28 19:38:21 -0700
 guid: http://curt.micro.blog/2017/08/29/theres-a-word.html
 ---
