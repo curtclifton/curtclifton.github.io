@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-09-30 08:59:21 -0700
 guid: http://curt.micro.blog/2017/09/30/their-specialty-is.html
 ---
