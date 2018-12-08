@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-03 08:18:32 -0700
 guid: http://curt.micro.blog/2017/07/03/trump-is-an.html
 ---
