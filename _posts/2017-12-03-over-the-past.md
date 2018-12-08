@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-02 22:25:51 -0700
 guid: http://curt.micro.blog/2017/12/03/over-the-past.html
 ---
