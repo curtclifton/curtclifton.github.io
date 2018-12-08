@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-02 15:50:24 -0700
 guid: http://curt.micro.blog/2017/05/02/the-omni-grouphttpwwwomnigroupcom.html
 ---
