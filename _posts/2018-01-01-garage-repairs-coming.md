@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/a20fcb4d33.jpg
 date: 2018-01-01 10:02:23 -0700
 guid: http://curt.micro.blog/2018/01/01/garage-repairs-coming.html
 ---
