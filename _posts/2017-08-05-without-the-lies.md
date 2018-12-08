@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-04 19:05:32 -0700
 guid: http://curt.micro.blog/2017/08/05/without-the-lies.html
 ---
