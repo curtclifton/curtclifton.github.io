@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-14 21:46:43 -0700
 guid: http://curt.micro.blog/2018/02/15/remember-how-republicans.html
 ---
