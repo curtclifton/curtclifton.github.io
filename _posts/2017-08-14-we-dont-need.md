@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-14 10:38:36 -0700
 guid: http://curt.micro.blog/2017/08/14/we-dont-need.html
 ---
