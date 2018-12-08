@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-16 19:43:35 -0700
 guid: http://curt.micro.blog/2017/11/17/gop-tax-reform.html
 ---
