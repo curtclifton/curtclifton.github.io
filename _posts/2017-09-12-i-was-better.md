@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/499bdf7eb7.jpg
 date: 2017-09-11 20:27:28 -0700
 guid: http://curt.micro.blog/2017/09/12/i-was-better.html
 ---
