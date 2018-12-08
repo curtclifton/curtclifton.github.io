@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-06 06:56:43 -0700
 guid: http://curt.micro.blog/2017/06/06/without-social-media.html
 ---
