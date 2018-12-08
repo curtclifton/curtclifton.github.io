@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-09-04 18:37:41 -0700
 guid: http://curt.micro.blog/2017/09/05/success-i-figured.html
 ---
