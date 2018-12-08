@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-17 20:21:22 -0700
 guid: http://curt.micro.blog/2018/04/18/an-amateur-magician.html
 ---
