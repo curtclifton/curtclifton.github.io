@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-30 12:35:35 -0700
 guid: http://curt.micro.blog/2017/07/30/wealth-it-turns.html
 ---
