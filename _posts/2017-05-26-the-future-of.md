@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-25 23:23:24 -0700
 guid: http://curt.micro.blog/2017/05/26/the-future-of.html
 ---
