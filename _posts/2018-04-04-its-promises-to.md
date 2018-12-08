@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-03 21:34:07 -0700
 guid: http://curt.micro.blog/2018/04/04/its-promises-to.html
 ---
