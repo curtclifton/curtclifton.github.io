@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-04 20:10:15 -0700
 guid: http://curt.micro.blog/2017/05/05/the-republican-healthcare.html
 ---
