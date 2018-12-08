@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-17 09:55:53 -0700
 guid: http://curt.micro.blog/2018/02/17/it-took-five.html
 ---
