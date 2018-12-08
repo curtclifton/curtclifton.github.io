@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://curt.micro.blog/uploads/2017/28ce624938.jpg
 date: 2017-06-25 16:13:46 -0700
 guid: http://curt.micro.blog/2017/06/25/hottest-day-in.html
 ---
