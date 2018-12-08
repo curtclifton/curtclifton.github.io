@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-30 23:18:33 -0700
 guid: http://curt.micro.blog/2017/12/01/if-that-was.html
 ---
