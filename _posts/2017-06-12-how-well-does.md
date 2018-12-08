@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-11 20:16:55 -0700
 guid: http://curt.micro.blog/2017/06/12/how-well-does.html
 ---
