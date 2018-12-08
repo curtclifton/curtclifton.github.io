@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/cb1e80ebef.jpg
 date: 2017-10-18 21:22:26 -0700
 guid: http://curt.micro.blog/2017/10/19/thats-more-like.html
 ---
