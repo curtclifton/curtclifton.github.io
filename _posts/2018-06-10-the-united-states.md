@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-10 15:20:07 -0700
 guid: http://curt.micro.blog/2018/06/10/the-united-states.html
 ---
