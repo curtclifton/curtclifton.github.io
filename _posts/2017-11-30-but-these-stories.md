@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-29 23:32:08 -0700
 guid: http://curt.micro.blog/2017/11/30/but-these-stories.html
 ---
