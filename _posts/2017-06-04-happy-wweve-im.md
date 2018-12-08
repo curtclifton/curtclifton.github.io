@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-04 07:30:19 -0700
 guid: http://curt.micro.blog/2017/06/04/happy-wweve-im.html
 ---
