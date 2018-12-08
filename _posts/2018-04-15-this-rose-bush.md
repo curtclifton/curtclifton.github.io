@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/20243f0c61.jpg
 date: 2018-04-15 08:54:30 -0700
 guid: http://curt.micro.blog/2018/04/15/this-rose-bush.html
 ---
