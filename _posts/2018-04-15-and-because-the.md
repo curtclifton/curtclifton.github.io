@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-15 08:49:40 -0700
 guid: http://curt.micro.blog/2018/04/15/and-because-the.html
 ---
