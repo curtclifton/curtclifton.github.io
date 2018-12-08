@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-17 19:54:27 -0700
 guid: http://curt.micro.blog/2017/05/18/leaving-a-man.html
 ---
