@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/71dd36651a.jpg
 date: 2017-10-09 22:38:39 -0700
 guid: http://curt.micro.blog/2017/10/10/word-to-the.html
 ---
