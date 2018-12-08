@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://curt.micro.blog/uploads/2017/1a9637a24d.jpg
 date: 2017-06-04 17:56:27 -0700
 guid: http://curt.micro.blog/2017/06/05/with-clydehttpcurtcliftonnetclydetheglide-as.html
 ---
