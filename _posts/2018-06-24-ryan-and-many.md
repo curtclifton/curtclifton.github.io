@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-24 10:49:22 -0700
 guid: http://curt.micro.blog/2018/06/24/ryan-and-many.html
 ---
