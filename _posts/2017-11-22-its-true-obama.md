@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-22 11:55:27 -0700
 guid: http://curt.micro.blog/2017/11/22/its-true-obama.html
 ---
