@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/c819a5cc00.jpg
 date: 2017-10-11 00:20:14 -0700
 guid: http://curt.micro.blog/2017/10/11/its-not-all.html
 ---
