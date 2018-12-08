@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-21 22:00:36 -0700
 guid: http://curt.micro.blog/2018/08/22/wherever-perperson-facebook.html
 ---
