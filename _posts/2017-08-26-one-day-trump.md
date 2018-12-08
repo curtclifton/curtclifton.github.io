@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-26 13:02:11 -0700
 guid: http://curt.micro.blog/2017/08/26/one-day-trump.html
 ---
