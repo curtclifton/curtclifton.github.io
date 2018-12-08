@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-25 22:17:15 -0700
 guid: http://curt.micro.blog/2018/01/26/seven-billion-shaved.html
 ---
