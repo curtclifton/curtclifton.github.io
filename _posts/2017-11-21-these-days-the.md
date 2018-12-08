@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-20 20:12:22 -0700
 guid: http://curt.micro.blog/2017/11/21/these-days-the.html
 ---
