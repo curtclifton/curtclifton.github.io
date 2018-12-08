@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/a31daa1a45.jpg
 date: 2017-11-30 20:20:06 -0700
 guid: http://curt.micro.blog/2017/12/01/im-a-sounder.html
 ---
