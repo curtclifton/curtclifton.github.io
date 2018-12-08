@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-07 08:57:16 -0700
 guid: http://curt.micro.blog/2018/10/07/each-and-every.html
 ---
