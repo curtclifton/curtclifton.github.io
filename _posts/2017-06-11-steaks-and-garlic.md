@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://curt.micro.blog/uploads/2017/24787cb2a1.jpg
 date: 2017-06-10 20:17:36 -0700
 guid: http://curt.micro.blog/2017/06/11/steaks-and-garlic.html
 ---
