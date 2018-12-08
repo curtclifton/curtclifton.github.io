@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-19 09:21:16 -0700
 guid: http://curt.micro.blog/2017/05/19/my-brother-turns.html
 ---
