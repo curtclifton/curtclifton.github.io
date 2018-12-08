@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-15 10:09:28 -0700
 guid: http://curt.micro.blog/2017/08/15/the-intellectual-virtues.html
 ---
