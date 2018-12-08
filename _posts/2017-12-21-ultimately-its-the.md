@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-20 21:35:45 -0700
 guid: http://curt.micro.blog/2017/12/21/ultimately-its-the.html
 ---
