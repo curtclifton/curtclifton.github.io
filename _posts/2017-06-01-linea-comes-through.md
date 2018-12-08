@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-31 22:50:21 -0700
 guid: http://curt.micro.blog/2017/06/01/linea-comes-through.html
 ---
