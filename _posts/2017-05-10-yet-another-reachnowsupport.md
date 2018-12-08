@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-10 08:30:59 -0700
 guid: http://curt.micro.blog/2017/05/10/yet-another-reachnowsupport.html
 ---
