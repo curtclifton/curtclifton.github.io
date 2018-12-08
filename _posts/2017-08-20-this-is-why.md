@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-19 20:50:15 -0700
 guid: http://curt.micro.blog/2017/08/20/this-is-why.html
 ---
