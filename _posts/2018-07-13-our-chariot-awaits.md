@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/968dcb4e9b.jpg
 date: 2018-07-13 11:24:47 -0700
 guid: http://curt.micro.blog/2018/07/13/our-chariot-awaits.html
 ---
