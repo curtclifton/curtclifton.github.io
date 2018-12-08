@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-26 15:47:47 -0700
 guid: http://curt.micro.blog/2017/08/26/for-trump-to.html
 ---
