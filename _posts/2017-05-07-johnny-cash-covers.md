@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-06 19:17:06 -0700
 guid: http://curt.micro.blog/2017/05/07/johnny-cash-covers.html
 ---
