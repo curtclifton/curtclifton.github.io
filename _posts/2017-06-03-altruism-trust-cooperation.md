@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-02 18:28:58 -0700
 guid: http://curt.micro.blog/2017/06/03/altruism-trust-cooperation.html
 ---
