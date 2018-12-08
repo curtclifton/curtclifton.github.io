@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-04 17:25:55 -0700
 guid: http://curt.micro.blog/2017/07/05/when-in-the.html
 ---
