@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-06 11:24:12 -0700
 guid: http://curt.micro.blog/2017/08/06/coffee-shop-cold.html
 ---
