@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-20 19:13:00 -0700
 guid: http://curt.micro.blog/2018/06/21/whats-obvious-and.html
 ---
