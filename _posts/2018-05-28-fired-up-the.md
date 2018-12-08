@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/f8f8c334ca.jpg
 date: 2018-05-27 18:05:17 -0700
 guid: http://curt.micro.blog/2018/05/28/fired-up-the.html
 ---
