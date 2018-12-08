@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/ffb4a78229.jpg
 date: 2017-12-26 08:01:43 -0700
 guid: http://curt.micro.blog/2017/12/26/operation-flair-is.html
 ---
