@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-04 22:29:40 -0700
 guid: http://curt.micro.blog/2017/07/05/correct-diagnosis-but.html
 ---
