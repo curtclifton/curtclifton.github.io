@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/da9be9c2b8.jpg
 date: 2018-07-24 19:42:24 -0700
 guid: http://curt.micro.blog/2018/07/25/ready-for-a.html
 ---
