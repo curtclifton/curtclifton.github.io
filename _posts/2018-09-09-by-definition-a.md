@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-09 14:08:01 -0700
 guid: http://curt.micro.blog/2018/09/09/by-definition-a.html
 ---
