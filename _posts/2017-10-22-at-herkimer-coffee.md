@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-10-22 10:00:41 -0700
 guid: http://curt.micro.blog/2017/10/22/at-herkimer-coffee.html
 ---
