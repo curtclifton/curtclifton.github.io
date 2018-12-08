@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/718009d006.jpg
 date: 2018-02-25 13:21:07 -0700
 guid: http://curt.micro.blog/2018/02/25/poor-ideas-in.html
 ---
