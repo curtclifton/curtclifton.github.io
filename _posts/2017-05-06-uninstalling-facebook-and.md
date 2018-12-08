@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-06 12:22:31 -0700
 guid: http://curt.micro.blog/2017/05/06/uninstalling-facebook-and.html
 ---
