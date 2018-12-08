@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-12 19:07:05 -0700
 guid: http://curt.micro.blog/2017/05/13/most-people-now.html
 ---
