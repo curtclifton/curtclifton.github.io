@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-04 22:10:02 -0700
 guid: http://curt.micro.blog/2017/07/05/im-proud-to.html
 ---
