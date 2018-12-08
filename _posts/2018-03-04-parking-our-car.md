@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/5d78c59f6a.jpg
 date: 2018-03-04 12:30:29 -0700
 guid: http://curt.micro.blog/2018/03/04/parking-our-car.html
 ---
