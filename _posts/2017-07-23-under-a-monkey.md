@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/978f3828a2.jpg
 date: 2017-07-23 09:07:33 -0700
 guid: http://curt.micro.blog/2017/07/23/under-a-monkey.html
 ---
