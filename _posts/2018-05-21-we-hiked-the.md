@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/13536592cd.jpg
 date: 2018-05-21 05:50:47 -0700
 guid: http://curt.micro.blog/2018/05/21/we-hiked-the.html
 ---
