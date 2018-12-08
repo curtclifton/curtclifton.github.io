@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-01 21:25:42 -0700
 guid: http://curt.micro.blog/2017/05/02/hmm-looks-like.html
 ---
