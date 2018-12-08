@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/04672729df.jpg
 date: 2018-01-20 13:36:25 -0700
 guid: http://curt.micro.blog/2018/01/20/it-was-wonderful.html
 ---
