@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/10f99105d1.jpg
 date: 2018-06-24 17:48:31 -0700
 guid: http://curt.micro.blog/2018/06/25/when-the-weather.html
 ---
