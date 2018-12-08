@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-04 22:19:08 -0700
 guid: http://curt.micro.blog/2018/01/05/trump-has-no.html
 ---
