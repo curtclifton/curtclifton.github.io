@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-27 14:34:12 -0700
 guid: http://curt.micro.blog/2018/10/27/trump-is-doing.html
 ---
