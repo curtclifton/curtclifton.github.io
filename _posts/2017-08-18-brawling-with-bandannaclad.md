@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-18 15:01:20 -0700
 guid: http://curt.micro.blog/2017/08/18/brawling-with-bandannaclad.html
 ---
