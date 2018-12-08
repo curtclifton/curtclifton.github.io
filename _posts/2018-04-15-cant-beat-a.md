@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/f31ce0a9cf.jpg
 date: 2018-04-14 21:30:46 -0700
 guid: http://curt.micro.blog/2018/04/15/cant-beat-a.html
 ---
