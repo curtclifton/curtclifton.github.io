@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-28 20:32:17 -0700
 guid: http://curt.micro.blog/2017/07/29/every-vote-cast.html
 ---
