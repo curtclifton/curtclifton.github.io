@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-19 19:24:14 -0700
 guid: http://curt.micro.blog/2018/03/20/this-wasnt-informed.html
 ---
