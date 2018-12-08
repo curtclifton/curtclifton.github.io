@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/6ae6feead4.jpg
 date: 2018-08-25 08:48:43 -0700
 guid: http://curt.micro.blog/2018/08/25/finally-found-a.html
 ---
