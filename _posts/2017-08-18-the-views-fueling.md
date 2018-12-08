@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-17 22:44:27 -0700
 guid: http://curt.micro.blog/2017/08/18/the-views-fueling.html
 ---
