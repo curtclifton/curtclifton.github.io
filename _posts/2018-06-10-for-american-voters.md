@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-10 15:29:02 -0700
 guid: http://curt.micro.blog/2018/06/10/for-american-voters.html
 ---
