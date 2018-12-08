@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-25 11:07:54 -0700
 guid: http://curt.micro.blog/2017/06/25/so-many-side.html
 ---
