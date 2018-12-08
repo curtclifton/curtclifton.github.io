@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/108cadc544.jpg
 date: 2017-10-10 14:02:03 -0700
 guid: http://curt.micro.blog/2017/10/10/if-the-deranged.html
 ---
