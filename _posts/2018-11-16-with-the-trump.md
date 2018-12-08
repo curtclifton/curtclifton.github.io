@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-16 09:04:24 -0700
 guid: http://curt.micro.blog/2018/11/16/with-the-trump.html
 ---
