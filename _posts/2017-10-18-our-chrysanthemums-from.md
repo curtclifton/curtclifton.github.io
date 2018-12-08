@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/21fc321014.jpg
 date: 2017-10-18 09:06:21 -0700
 guid: http://curt.micro.blog/2017/10/18/our-chrysanthemums-from.html
 ---
