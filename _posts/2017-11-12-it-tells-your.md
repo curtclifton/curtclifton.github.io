@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-11 21:52:35 -0700
 guid: http://curt.micro.blog/2017/11/12/it-tells-your.html
 ---
