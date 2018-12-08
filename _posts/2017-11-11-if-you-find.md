@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-10 19:20:12 -0700
 guid: http://curt.micro.blog/2017/11/11/if-you-find.html
 ---
