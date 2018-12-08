@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/f8e0def05d.jpg
 date: 2018-01-13 17:02:49 -0700
 guid: http://curt.micro.blog/2018/01/14/i-think-brentsimmonshttpsmicroblogbrentsimmons.html
 ---
