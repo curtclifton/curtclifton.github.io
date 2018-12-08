@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-02 20:38:26 -0700
 guid: http://curt.micro.blog/2017/05/03/hadnt-noticed-this.html
 ---
