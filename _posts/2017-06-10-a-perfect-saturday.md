@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://curt.micro.blog/uploads/2017/fb3e0b291e.jpg
 date: 2017-06-10 15:06:57 -0700
 guid: http://curt.micro.blog/2017/06/10/a-perfect-saturday.html
 ---
