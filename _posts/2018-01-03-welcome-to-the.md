@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/a4cde15e44.jpg
 date: 2018-01-03 13:40:05 -0700
 guid: http://curt.micro.blog/2018/01/03/welcome-to-the.html
 ---
