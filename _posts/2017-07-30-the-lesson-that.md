@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-30 12:44:30 -0700
 guid: http://curt.micro.blog/2017/07/30/the-lesson-that.html
 ---
