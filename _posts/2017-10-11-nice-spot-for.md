@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/7417cdb0f4.jpg
 date: 2017-10-11 09:53:01 -0700
 guid: http://curt.micro.blog/2017/10/11/nice-spot-for.html
 ---
