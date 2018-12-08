@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-22 07:20:31 -0700
 guid: http://curt.micro.blog/2017/08/22/lack-of-principle.html
 ---
