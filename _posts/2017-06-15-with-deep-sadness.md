@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-14 20:41:31 -0700
 guid: http://curt.micro.blog/2017/06/15/with-deep-sadness.html
 ---
