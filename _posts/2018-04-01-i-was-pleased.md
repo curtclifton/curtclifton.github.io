@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/f26ca7e8d5.jpg
 date: 2018-04-01 16:03:43 -0700
 guid: http://curt.micro.blog/2018/04/01/i-was-pleased.html
 ---
