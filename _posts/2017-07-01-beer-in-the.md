@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/093c67b0e8.jpg
 date: 2017-07-01 16:53:24 -0700
 guid: http://curt.micro.blog/2017/07/01/beer-in-the.html
 ---
