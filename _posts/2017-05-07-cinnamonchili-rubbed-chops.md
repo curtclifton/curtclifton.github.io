@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://curt.micro.blog/uploads/2017/5ac8c0f0a1.jpg
 date: 2017-05-06 18:51:29 -0700
 guid: http://curt.micro.blog/2017/05/07/cinnamonchili-rubbed-chops.html
 ---
