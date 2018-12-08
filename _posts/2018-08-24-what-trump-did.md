@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-23 18:59:50 -0700
 guid: http://curt.micro.blog/2018/08/24/what-trump-did.html
 ---
