@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-15 11:18:18 -0700
 guid: http://curt.micro.blog/2017/07/15/i-lose-myself.html
 ---
