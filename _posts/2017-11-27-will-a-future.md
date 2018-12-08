@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-27 10:09:11 -0700
 guid: http://curt.micro.blog/2017/11/27/will-a-future.html
 ---
