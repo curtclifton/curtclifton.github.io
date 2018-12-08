@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-28 20:24:22 -0700
 guid: http://curt.micro.blog/2017/08/29/swift-by-northwest.html
 ---
