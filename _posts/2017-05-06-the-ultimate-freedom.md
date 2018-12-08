@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-06 07:33:07 -0700
 guid: http://curt.micro.blog/2017/05/06/the-ultimate-freedom.html
 ---
