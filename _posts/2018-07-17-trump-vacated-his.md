@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-16 18:54:37 -0700
 guid: http://curt.micro.blog/2018/07/17/trump-vacated-his.html
 ---
