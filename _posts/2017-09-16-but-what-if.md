@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-09-15 21:23:09 -0700
 guid: http://curt.micro.blog/2017/09/16/but-what-if.html
 ---
