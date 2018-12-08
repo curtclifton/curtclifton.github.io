@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-12 22:26:36 -0700
 guid: http://curt.micro.blog/2017/05/13/are-there-even.html
 ---
