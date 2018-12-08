@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-03 07:52:27 -0700
 guid: http://curt.micro.blog/2017/12/03/the-pumpkinfhrers-gestapo.html
 ---
