@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/83aa870a09.jpg
 date: 2018-04-22 15:03:14 -0700
 guid: http://curt.micro.blog/2018/04/22/picked-up-a.html
 ---
