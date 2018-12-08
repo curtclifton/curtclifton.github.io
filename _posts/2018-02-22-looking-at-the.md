@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-21 20:57:52 -0700
 guid: http://curt.micro.blog/2018/02/22/looking-at-the.html
 ---
