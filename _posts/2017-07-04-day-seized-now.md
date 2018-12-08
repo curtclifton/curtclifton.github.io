@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/6d04119d98.jpg
 date: 2017-07-03 19:05:23 -0700
 guid: http://curt.micro.blog/2017/07/04/day-seized-now.html
 ---
