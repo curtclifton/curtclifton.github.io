@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-03 08:27:45 -0700
 guid: http://curt.micro.blog/2017/07/03/abroad-no-one.html
 ---
