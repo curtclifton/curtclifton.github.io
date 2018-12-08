@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-05 22:31:00 -0700
 guid: http://curt.micro.blog/2018/02/06/trump-will-never.html
 ---
