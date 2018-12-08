@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/a5129013dd.jpg
 date: 2017-10-20 10:29:35 -0700
 guid: http://curt.micro.blog/2017/10/20/cutest-latte-mug.html
 ---
