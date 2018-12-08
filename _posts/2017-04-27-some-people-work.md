@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://curt.micro.blog/uploads/2017/aae28d4f54.jpg
 date: 2017-04-27 09:44:47 -0700
 guid: http://curt.micro.blog/2017/04/27/some-people-work.html
 ---
