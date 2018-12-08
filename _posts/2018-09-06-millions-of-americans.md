@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-05 20:12:14 -0700
 guid: http://curt.micro.blog/2018/09/06/millions-of-americans.html
 ---
