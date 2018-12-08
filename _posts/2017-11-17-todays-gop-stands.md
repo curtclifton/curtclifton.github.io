@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-16 20:03:44 -0700
 guid: http://curt.micro.blog/2017/11/17/todays-gop-stands.html
 ---
