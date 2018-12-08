@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-10 21:35:06 -0700
 guid: http://curt.micro.blog/2018/04/11/the-ranks-of.html
 ---
