@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2017/9d88f5c789.jpg
 date: 2017-11-23 10:54:33 -0700
 guid: http://curt.micro.blog/2017/11/23/happy-thanksgiving-this.html
 ---
