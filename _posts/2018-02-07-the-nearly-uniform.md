@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-06 20:48:12 -0700
 guid: http://curt.micro.blog/2018/02/07/the-nearly-uniform.html
 ---
