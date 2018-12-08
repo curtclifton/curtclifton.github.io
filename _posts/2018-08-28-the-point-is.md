@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-27 18:31:45 -0700
 guid: http://curt.micro.blog/2018/08/28/the-point-is.html
 ---
