@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://microblog.curtclifton.net/uploads/2018/68fd8f4c55.jpg
 date: 2018-01-07 10:35:43 -0700
 guid: http://curt.micro.blog/2018/01/07/apparently-im-still.html
 ---
