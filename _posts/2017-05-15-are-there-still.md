@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-14 22:32:07 -0700
 guid: http://curt.micro.blog/2017/05/15/are-there-still.html
 ---
