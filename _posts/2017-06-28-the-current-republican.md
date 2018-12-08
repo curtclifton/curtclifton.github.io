@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-27 19:19:13 -0700
 guid: http://curt.micro.blog/2017/06/28/the-current-republican.html
 ---
