@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-12 22:20:26 -0700
 guid: http://curt.micro.blog/2018/01/13/the-protection-of.html
 ---
